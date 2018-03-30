@@ -1,0 +1,7 @@
+There exists the following problems:
+1. the review table is too big. So select all data that related to all the selected business from this table needs quite a lot of time.
+Select all reviews for a specific business needs about 11 seconds as I tried. So I am thinking about select the reviews after confirming the businesses we are going to use or we just select for specific business during the analysis process.
+2. I used the address to dpothe match between the inspection and the yelp dataset. But I am not sure if the specific value in the two dataset are in the same form.
+And if you check the file, you will find that a lot of businesses have the same address and some of them are blank. 
+However, using the name of the business it not a good idea too. So I am wondering if you have other good ideas.
+3. Since the dataset is so big, I think Using data files to deal with them will cause some problems. Maybe we need to use database in the following analysis process.
