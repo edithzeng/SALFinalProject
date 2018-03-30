@@ -5,3 +5,17 @@ Select all reviews for a specific business needs about 11 seconds as I tried. So
 And if you check the file, you will find that a lot of businesses have the same address and some of them are blank. 
 However, using the name of the business it not a good idea too. So I am wondering if you have other good ideas.
 3. Since the dataset is so big, I think Using data files to deal with them will cause some problems. Maybe we need to use database in the following analysis process.
+
+
+---
+March 30
+
+Comment:
+1.&3. --Munging to leave out some irrelevant fields would help.
+2. --Cross-reference based on: (zip code AND address AND location/restaurant name). Name will be the most fuzzy field since there's large variance and inconsistencies but hopefully with matching zip code and addresses we can narrow down to a reasonable amount of query results to manually handle special cases.
+
+
+TBD:
+- Which column better describes the name field: "Restaurant Name" or "Location Name"? There're chain convenience stores with identical names in Restaurant Name but a store number in Location Name, and 1 foodcourt with different restaurants sharing the same Address and Location Name but different Restaurant Names.
+- How to handle situations that the same food establishment has a couple different departments (eg. the same place has bar, restaurant, specialty kitchen and pantry; all listed as separate food establishments and have very different scores)
+- 
