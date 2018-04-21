@@ -1,0 +1,727 @@
+businessId,flagged_reviews,one_star_count,total_reviews,total_stars,word_count,proportion_flagged_reviews,average_flagged_words_per_review,average_stars_per_review,proportion_one_star,name,neighborhood,address,postal_code,stars,review_count,categories,ifFail,failTimes
+R1PQEK6qvrZVC9qcWfKvDA,30,7,151,647,43,0.198675,0.284768,4.28477,0.0463576,"Braddah's Island Style",University,4632 S Maryland Pkwy,89119,4.5,151,Food;Restaurants;Hawaiian;Desserts;Mexican;Tex-Mex;Asian Fusion,1,5
+y7Js-07RF8d3N_AEtaw2VQ,945,208,878,2611,1406,1.07631,1.60137,2.9738,0.236902,Heart Attack Grill,Downtown,450 Fremont St,89101,3,877,American (Traditional);Performing Arts;Arts & Entertainment;Burgers;Restaurants,1,3
+tH0wF3EPPgAY14lnmK1_Sg,0,0,9,44,0,0,0,4.88889,0,Makai Pacific Island Grill,,1932 Rock Springs Dr,89128,5,9,Asian Fusion;Restaurants;Barbeque;Hawaiian,0,0
+07gh-AImcEcWQ2bew-jprg,11,7,103,362,12,0.106796,0.116505,3.51456,0.0679612,Woo Che,Chinatown,4711 Spring Mountain Rd,89102,3.5,103,Korean;Restaurants;Barbeque;Buffets,1,4
+pdgzBiQBs8HGUBJzXe9j6w,1,4,23,82,1,0.0434783,0.0434783,3.56522,0.173913,Gourmet Wok,Westside,7638 Westcliff Dr,89145,3.5,23,Chinese;Restaurants,1,3
+zBD6zc8YU-TA0_KJmN1tpA,20,31,153,526,24,0.130719,0.156863,3.43791,0.202614,"Rosati's Pizza",South Summerlin,3370 S Hualapai Way,89117,3.5,152,Pizza;Italian;Salad;Restaurants,1,5
+Ec9CBmL3285XkeHaNp-bSQ,70,48,1132,4698,86,0.0618375,0.0759717,4.15018,0.0424028,District One,Chinatown,3400 S Jones Blvd,89146,4,1132,Dive Bars;Seafood;Restaurants;Asian Fusion;Bars;Nightlife;Vietnamese;Sports Bars,1,4
+Gml97gSULiA6HFjie01d3Q,28,30,239,934,28,0.117155,0.117155,3.90795,0.125523,Pellegrini Pizza,Westside,101 S Rainbow Blvd,89107,4,239,Food Delivery Services;Restaurants;Salad;Sandwiches;Food;Pizza,1,6
+lsXRQ6DxyrbMFhl8croN8Q,4,10,103,397,4,0.038835,0.038835,3.85437,0.0970874,Yuki Shaved Snow,Centennial,8414 Farm Rd,89131,4,103,Desserts;Shaved Snow;Ice Cream & Frozen Yogurt;Food;Shaved Ice,0,0
+N6MzDoao6s68nAIW8vS9dQ,61,34,558,2445,65,0.109319,0.116487,4.38172,0.0609319,"Biaggio's Pizzeria",Spring Valley,4235 S Fort Apache Rd,89147,4.5,558,Specialty Food;Pasta Shops;Restaurants;Italian;Pizza;Food,1,2
+Hsn3CYnTsrQ2nJzTKefDQA,13,14,109,433,15,0.119266,0.137615,3.97248,0.12844,Pho Saigon 8,Spring Valley,6910 S Rainbow Blvd,89118,4,110,Coffee & Tea;Restaurants;Food;Sandwiches;Vietnamese,0,0
+gBy6UXTpoSHhW6qd15XU0g,20,13,176,710,27,0.113636,0.153409,4.03409,0.0738636,Lakes Lounge,The Lakes,2920 Lake East Dr,89117,4,176,American (Traditional);Restaurants,0,0
+xTlmLL2xZZ0xhZ2J16zXQQ,27,25,288,1147,32,0.09375,0.111111,3.98264,0.0868056,"Holley's Cuppa",Southwest,9265 S Cimarron Rd,89178,4,288,Food;Bakeries;Coffee & Tea;Juice Bars & Smoothies,1,1
+qsJkjQoM3Hdg6Gtqp2S9_w,50,54,489,1823,74,0.102249,0.151329,3.72802,0.110429,"Archi's Thai Cafe",Westside,9350 W Sahara Ave,89117,3.5,489,Thai;Restaurants,1,4
+9J-Vg2-uqjreSRtITaDlMg,0,1,22,93,0,0,0,4.22727,0.0454545,Odyssey Pizza,Downtown,1930 Fremont St,89101,4,22,Pizza;Restaurants,1,4
+gBQH64vIkA-kIDFGM290dw,15,21,124,426,17,0.120968,0.137097,3.43548,0.169355,"Sultan's Grill",Summerlin,1910 Village Center Cir,89134,3.5,124,Restaurants;Mediterranean;Greek,1,3
+87YsVbCN_kfzheY79Fzjkg,51,30,177,693,51,0.288136,0.288136,3.91525,0.169492,Pastry Palace,Westside,4523 W Sahara Ave,89102,4,177,Custom Cakes;Food;Cupcakes;Desserts;Bakeries,0,0
+hU7z5Jtl57RIODS0hPg9Ug,28,15,149,597,28,0.187919,0.187919,4.00671,0.100671,Apache Taco Shop,The Lakes,2521 S Fort Apache Rd,89117,4,149,Breakfast & Brunch;Mexican;Tacos;Restaurants;Desserts;Food,1,1
+PglC8rgguMIlT621p1BLdQ,29,41,681,2817,30,0.0425844,0.0440529,4.13656,0.0602056,Yum Cha,,4945 W Tropicana Ave,89103,4,681,Dim Sum;Hot Pot;Chinese;Restaurants;Cantonese,1,2
+KYr67K-Ot9HKkv90KaXL5w,4,4,44,155,4,0.0909091,0.0909091,3.52273,0.0909091,Crazy Crepes,The Strip,3200 S Las Vegas Blvd,89109,3.5,44,Restaurants;Creperies,1,5
+2iTsRqUsPGRH1li1WVRvKQ,34,46,1587,6994,43,0.0214241,0.0270951,4.40706,0.0289855,Carson Kitchen,Downtown,124 S 6th St,89101,4.5,1586,Salad;Comfort Food;Gastropubs;Nightlife;Cocktail Bars;Vegan;American (New);Bars;Tapas/Small Plates;Seafood;Food;Burgers;Restaurants;Desserts,1,4
+X6TD8xLS_KMneyOGquOSVQ,2,5,30,111,2,0.0666667,0.0666667,3.7,0.166667,Blue Diamond Saloon,Southwest,6935 Blue Diamond Rd,89178,3.5,30,Bars;Nightlife,0,0
+F0j-dNjFY4u49hql2Rz2fw,15,34,115,315,15,0.130435,0.130435,2.73913,0.295652,"Dunkin' Donuts",Southeast,409 E Silverado Ranch,89123,2.5,115,Coffee & Tea;Food;Donuts,1,3
+qKn9nynsVYIST8rf6tEFRQ,5,16,149,577,5,0.033557,0.033557,3.87248,0.107383,Corner Thai Kitchen,Spring Valley,9575 W Tropicana Ave,89147,4,149,Thai;Salad;Restaurants,1,6
+JIfSollg32ifUzTw2K4PDQ,43,6,127,554,43,0.338583,0.338583,4.3622,0.0472441,Taqueria El Buen Pastor,,530 N Las Vegas Blvd,89101,4.5,127,Street Vendors;Mexican;Food;Restaurants,1,2
+fL-b760btOaGa85OJ9ut3w,207,66,2320,10182,224,0.0892241,0.0965517,4.38879,0.0284483,Rollin Smoke Barbeque,,3185 S Highland Dr,89109,4.5,2320,Restaurants;Soul Food;Burgers;Barbeque,1,2
+wWuGa3OOQJro_XGe-GKBXA,82,8,505,2363,154,0.162376,0.304951,4.67921,0.0158416,Kabuto,Chinatown,5040 Spring Mountain Rd,89146,4.5,504,Japanese;Restaurants;Sushi Bars,1,1
+ybHlmdUHLPKfv85bRK4Wtw,51,10,922,4315,105,0.0553145,0.113883,4.68004,0.010846,"Grouchy John's Coffee",Southeast,8520 S Maryland Pkwy,89123,4.5,922,Juice Bars & Smoothies;Cafes;Food Trucks;Bagels;Coffee & Tea;Breakfast & Brunch;Restaurants;Food,0,0
+ixAh9crILnJ9tM8LhWFhkw,24,64,671,2591,48,0.0357675,0.071535,3.8614,0.09538,"Archi's Thai Bistro",Spring Valley,6345 S Rainbow Blvd,89118,4,671,Restaurants;Thai,1,19
+l4qomOr-2ZDOjWXSZXpzZg,75,16,92,294,92,0.815217,1,3.19565,0.173913,Pho Rose,,1750 N Buffalo Dr,89128,3,92,Vietnamese;Restaurants,1,6
+VrGI7_nRjXpn0415S3coGQ,95,50,655,2591,125,0.145038,0.19084,3.95573,0.0763359,Thai Style Noodle House,Chinatown,3516 Wynn Rd,89103,4,655,Thai;Vegetarian;Noodles;Restaurants,1,10
+966W5oXOBW0ZWhNYy0yjcA,59,29,519,1995,92,0.11368,0.177264,3.84393,0.0558767,"Wendy's Noodle Cafe",Chinatown,3401 S Jones Blvd,89146,4,519,Restaurants;Noodles;Chinese,1,6
+xmeEyBVC5zN-FCX5qZviIQ,7,11,62,209,7,0.112903,0.112903,3.37097,0.177419,Chopstix Express,Westside,2625 S Decatur Blvd,89102,3.5,62,Restaurants;Chinese,1,7
+SJU-jRAZS0cXoBGUjX5GUg,9,14,255,1068,27,0.0352941,0.105882,4.18824,0.054902,Jumping Rice & Rolls,Spring Valley,9484 W Flamingo Rd,89147,4,255,Asian Fusion;Restaurants,1,3
+j5nPiTwWEFr-VsePew7Sjg,193,56,1379,5589,240,0.139956,0.174039,4.05294,0.0406091,Ichiza,Chinatown,4355 Spring Mountain Rd,89102,4,1378,Japanese;Restaurants,1,17
+-yApKLEFAvvNyifvpNKWCA,46,34,656,2653,58,0.070122,0.0884146,4.04421,0.0518293,Luv It Frozen Custard,Downtown,505 E Oakey Blvd,89104,4,656,Ice Cream & Frozen Yogurt;Food,1,3
+lOQPeguczAueJnLmDUTfGg,45,32,610,2554,45,0.0737705,0.0737705,4.18689,0.052459,Bonito Michoacan,Chinatown,3715 S Decatur Blvd,89103,4,610,Mexican;Restaurants,1,2
+oN_A87dyVD2FBk7coLnhCg,29,7,193,860,30,0.150259,0.15544,4.45596,0.0362694,Chile Verde Express Mexican Grill,Southwest,8095 S Rainbow Blvd,89113,4.5,193,Mexican;Restaurants,1,1
+_cs_J4j8XXyBgihJs83qUg,14,65,105,188,17,0.133333,0.161905,1.79048,0.619048,"Church's Chicken",Southwest,7925 S Rainbow Blvd,89113,2,105,Chicken Wings;Fast Food;Restaurants;Burgers,1,5
+JcFyuyo0Rt6gDiVZ9yJ3VQ,20,13,407,1694,30,0.04914,0.0737101,4.16216,0.031941,Krayvings,Summerlin,11770 W Charleston Blvd,89135,4,405,Food;Breakfast & Brunch;American (New);Sandwiches;Juice Bars & Smoothies;Restaurants,0,0
+rq5dgoksPHkJwJNQKlGQ7w,52,48,805,3283,58,0.0645963,0.0720497,4.07826,0.0596273,Sambalatte Torrefazione,Westside,750 S Rampart Blvd,89145,4,805,Breakfast & Brunch;Cafes;Food;Restaurants;Coffee & Tea;American (New),1,2
+UPIYuRaZvknINOd1w8kqRQ,103,79,2290,9518,120,0.0449782,0.0524017,4.15633,0.0344978,Monta Ramen,Chinatown,5030 Spring Mountain Rd,89146,4,2291,Restaurants;Noodles;Ramen;Japanese,1,8
+JyxHvtj-syke7m9rbza7mA,194,224,1674,6236,272,0.11589,0.162485,3.72521,0.133811,Sushi House Goyemon,,5255 S Decatur Blvd,89118,3.5,1674,Sushi Bars;Japanese;Restaurants,1,8
+o5nPu-ITfZ2OYx-6cU3moQ,9,1,42,167,9,0.214286,0.214286,3.97619,0.0238095,Beanz Coffee Cafe,Southwest,4830 Blue Diamond Rd,89139,4,42,Restaurants;Coffee & Tea;Cafes;Food,1,1
+OHFH6ALQqq35NiEbD1eXuw,50,54,498,1698,54,0.100402,0.108434,3.40964,0.108434,"Chang's Hong Kong Cuisine",,4670 S Decatur Blvd,89103,3.5,498,Chinese;Restaurants;Seafood;Diners;Cantonese;Dim Sum,1,11
+ZgWjkMSzIV9fAuJJQXSUvA,12,15,393,1633,12,0.0305344,0.0305344,4.15522,0.0381679,Market Grille Cafe,,7175 W Lake Mead Blvd,89128,4,393,Breakfast & Brunch;Vegan;Mediterranean;Restaurants;Greek,1,1
+lv5Bnqlt93NnvNJ2oNcQ8Q,9,24,213,815,9,0.0422535,0.0422535,3.82629,0.112676,Los Cucos Mexican Cafe,Spring Valley,7315 Arroyo Crossing Pkwy,89113,4,214,Tex-Mex;Nightlife;Mexican;Caterers;Event Planning & Services;Bars;Restaurants,0,0
+_8yxceldCT7oe0wJC-yDPA,14,28,174,603,15,0.0804598,0.0862069,3.46552,0.16092,Benjarong Authentic Thai Cuisine,Southwest,7425 S Durango Dr,89113,3.5,174,Thai;Restaurants,1,6
+7sPNbCx7vGAaH7SbNPZ6oA,267,216,3064,12174,395,0.087141,0.128916,3.97324,0.0704961,Bachi Burger,Southeast,470 E Windmill Ln,89123,4,3065,American (New);Bars;Beer;Wine & Spirits;Restaurants;Burgers;Food;Nightlife;Asian Fusion,1,7
+PQER4ba8Q0zqB1G2QiXamQ,57,51,946,3891,66,0.0602537,0.0697674,4.11311,0.0539112,Black Bear Diner,,6180 W Tropicana Ave,89103,4,947,Breakfast & Brunch;American (Traditional);Restaurants;Diners,1,2
+rTx5vu0zuhggAbgsx1uVtA,12,3,176,743,12,0.0681818,0.0681818,4.22159,0.0170455,Vanguard Lounge,Downtown,516 Fremont St,89101,4,176,Bars;Nightlife;Lounges,1,1
+RwMLuOkImBIqqYj4SSKSPg,190,151,2447,10293,232,0.0776461,0.09481,4.20638,0.0617082,Tacos El Gordo,The Strip,3049 S Las Vegas Blvd,89109,4,2448,Mexican;Tacos;Restaurants,1,4
+vx4YAA02Qz6khRD1fZ1MFA,88,93,825,2879,99,0.106667,0.12,3.4897,0.112727,Ping Pang Pong,,4000 W Flamingo Rd,89103,3.5,824,Seafood;Restaurants;Dim Sum;Cantonese;Chinese,0,0
+-K82LBrI3H0FVuhTbNDpRA,66,31,238,806,77,0.277311,0.323529,3.38655,0.130252,Shoku Ramen,Southeast,470 E Windmill Ln,89123,3.5,238,Ramen;Noodles;Japanese;Restaurants,1,2
+dblGQtHAzNy1ACis1m2shw,23,31,132,438,32,0.174242,0.242424,3.31818,0.234848,New York Chinese Restaurant,Spring Valley,3545 S Fort Apache Rd,89147,3.5,132,Restaurants;Chinese,1,8
+U0UnBjz9DugW2qRZputKBg,34,20,231,952,38,0.147186,0.164502,4.12121,0.0865801,Manan Bakery,,6620 W Flamingo Rd,89103,4,231,Bakeries;Cupcakes;Coffee & Tea;Restaurants;Creperies;Food;Custom Cakes;Desserts,1,1
+SgSVJWgMwFteYyz4OlHu9Q,15,11,245,1079,15,0.0612245,0.0612245,4.40408,0.044898,"Bambino's East Coast Pizzeria",The Lakes,2555 S Durango Dr,89117,4.5,245,Sandwiches;Pizza;Restaurants;Caterers;Italian;Event Planning & Services,1,4
+n_K2xa_nqzUqaUJa0S_5tQ,37,127,682,2064,42,0.0542522,0.0615836,3.02639,0.186217,Tea Station,Chinatown,4355 Spring Mountain Rd,89102,3,682,Food;Coffee & Tea;Restaurants;Taiwanese,1,7
+6jDD-Z8QcsKTdIDWwM8gog,3,10,123,510,3,0.0243902,0.0243902,4.14634,0.0813008,"Anna Marie's Italian Cuisine",Spring Valley,10170 W Tropicana Ave,89147,4,123,Pizza;Restaurants;Bars;Sandwiches;Nightlife;Italian,0,0
+01VPJkcU0m8WzlA7dCEpVQ,0,5,220,967,0,0,0,4.39545,0.0227273,Tea Space,Chinatown,3466 S Decatur Blvd,89102,4.5,220,Bubble Tea;Restaurants;Coffee & Tea;American (Traditional);Food;Juice Bars & Smoothies;Tea Rooms;Taiwanese,1,4
+nlsibvBeSc8vfus2KuQatA,9,8,264,1145,9,0.0340909,0.0340909,4.33712,0.030303,"Handel's Homemade Ice Cream & Yogurt",Spring Valley,10170 W Tropicana Ave,89147,4.5,264,Bakeries;Juice Bars & Smoothies;Food;Patisserie/Cake Shop;Restaurants;Ice Cream & Frozen Yogurt,0,0
+BOQOuwSNhfKx1xvKtONsBg,23,25,329,1298,32,0.0699088,0.0972644,3.94529,0.0759878,Settebello Pizzeria Napoletana,Westside,9350 W Sahara Ave,89117,4,329,Pizza;Italian;Restaurants,0,0
+60uVlCUiLJvq3xNo_3bhQQ,1,8,139,596,1,0.00719424,0.00719424,4.28777,0.057554,"Carmine's Pizza Kitchen",Spring Valley,6565 S Fort Apache Rd,89148,4.5,139,Food Delivery Services;Restaurants;Food;Italian;Pizza;Salad;Soup,0,0
+a3vug2R5PvBCmzr6KU5RnA,6,51,106,259,12,0.0566038,0.113208,2.4434,0.481132,Tropical Smoothie Cafe,Northwest,3390 Novat St,89129,2.5,106,Restaurants;Cafes;Food;Juice Bars & Smoothies,1,2
+R7LyTeiOHLyTNkA8HssBRQ,9,31,327,1323,11,0.0275229,0.0336391,4.04587,0.0948012,Los Tacos,Westside,4001 W Sahara Ave,89102,4,327,Mexican;Restaurants,1,9
+pmsGwCJoMjtj-wwP78PIWQ,5,10,52,176,5,0.0961538,0.0961538,3.38462,0.192308,Tropicana Pizza,Sunrise,5841 E Lake Mead Blvd,89156,3.5,52,Restaurants;Pizza,1,4
+Jur1iiejUFw_YCkfDfy1gQ,153,91,766,2639,186,0.199739,0.24282,3.44517,0.118799,Orchids Garden Chinese Restaurant,Westside,5485 W Sahara Ave,89146,3.5,766,Chinese;Restaurants;Dim Sum,1,5
+8OaXvfag7E7oznV4rVb7vg,10,4,68,290,10,0.147059,0.147059,4.26471,0.0588235,Rivas Mexican Grill,Sunrise,5750 E Sahara Ave,89142,4.5,68,Mexican;Restaurants,1,2
+oWD385Ues-RWJmhP_Riz1g,14,41,377,1391,17,0.0371353,0.0450928,3.68966,0.108753,Griddlecakes,,9480 S Eastern Ave,89123,3.5,377,American (Traditional);Gluten-Free;Restaurants;Breakfast & Brunch,1,9
+uW6UHfONAmm8QttPkbMewQ,40,39,1142,5034,42,0.0350263,0.0367776,4.40806,0.0341506,Island Flavor,Southwest,8090 S Durango Dr,89113,4.5,1142,Event Planning & Services;Caterers;Hawaiian;Restaurants,1,1
+DzKl51tivGJMLiNsQqf38w,37,94,887,3416,70,0.0417136,0.0789177,3.85118,0.105975,Island Sushi & Grill,Southeast,9400 S Eastern Ave,89123,4,887,Breakfast & Brunch;Restaurants;Hawaiian;Poke;Food;Sushi Bars;Japanese,1,5
+SFaCcwpIKjrpnT1IjzEDdg,12,26,209,847,18,0.0574163,0.0861244,4.05263,0.124402,Jerusalem Grill & Bar,,4825 W Flamingo Rd,89103,4,210,Mediterranean;Restaurants;Kosher;Tapas Bars,0,0
+HUWLnKD5LSZY134amUO2Rg,2,29,229,898,2,0.00873362,0.00873362,3.9214,0.126638,New York Pizza & Pasta,Westside,2400 S Jones Blvd,89146,4,229,Italian;Restaurants;Pizza,1,5
+IBNWrN1k9E0E_bMcRD-GwA,10,2,63,267,12,0.15873,0.190476,4.2381,0.031746,"Chef Ching's Kitchen",Chinatown,3419 S Jones Blvd,89146,4,63,Taiwanese;Szechuan;Chinese;Restaurants,1,4
+7sGcBZwkD4yFLiBLS1WKgA,9,3,263,1178,13,0.0342205,0.0494297,4.47909,0.0114068,Presto Cafe,Spring Valley,4950 S Rainbow Blvd,89118,4.5,263,American (New);Sandwiches;Salad;Restaurants,1,1
+PB7Fc2yCSjrELsrBJWKCSA,0,0,19,75,0,0,0,3.94737,0,Island Breeze,Southeast,9400 S Eastern Ave,89123,4,19,Food Stands;Hawaiian;Restaurants,0,0
+G6BwYw_0_atLPTzI1uokIA,20,68,467,1657,23,0.0428266,0.0492505,3.54818,0.14561,Nacho Daddy,Westside,9560 W Sahara Ave,89117,3.5,467,Sports Bars;Tex-Mex;Mexican;Nightlife;Breakfast & Brunch;American (New);Vegan;Restaurants;Burgers;Pubs;Bars,0,0
+Os1n1_idfw9vv9kwULGJnQ,40,19,737,3297,42,0.0542741,0.0569878,4.47354,0.0257802,Island Style Restaurant,Westside,3909 W Sahara Ave,89102,4.5,737,Asian Fusion;Restaurants;Korean;Hawaiian,1,9
+umXvdus9LbC6oxtLdXelFQ,50,31,857,3703,53,0.0583431,0.0618436,4.32089,0.0361727,Sweets Raku,Chinatown,5040 W Spring Mountain Rd,89146,4.5,857,Desserts;American (Traditional);Bars;Food;Restaurants;Wine Bars;Nightlife,0,0
+0w3BdEOxvwKTpypwbN5kiQ,143,77,642,2218,246,0.222741,0.383178,3.45483,0.119938,Tofu Hut,Chinatown,3920 Spring Mountain Rd,89102,3.5,641,Restaurants;Korean;Barbeque,1,7
+UV2Jt8slktGu14gLZeNCjA,49,83,942,3779,71,0.052017,0.0753715,4.01168,0.0881104,Mint Indian Bistro,Eastside,730 E Flamingo Rd,89119,4,944,Restaurants;Indian;Vegan;Halal,1,6
+T5UBAJt5Kod_wQGbH6m9hA,17,10,142,598,29,0.119718,0.204225,4.21127,0.0704225,Los Molcajetes,,1553 N Eastern Ave,89101,4,143,Mexican;Restaurants,1,8
+9V9RlgqqnPFQJfF_e9Lnmw,15,17,132,479,17,0.113636,0.128788,3.62879,0.128788,Baidu China Bistro,Southwest,7625 S Rainbow Blvd,89139,3.5,132,Restaurants;Chinese;Salad,1,4
+3rj1qpgFvkRWtAka17mhEQ,45,44,209,642,78,0.215311,0.373206,3.07177,0.210526,"Mimi's Cafe",Centennial,6760 N Durango Dr,89149,3,209,French;Restaurants;American (Traditional);Breakfast & Brunch;Cafes,0,0
+YUE5S4ReiM4dq9qkKbDMwg,33,40,205,678,39,0.160976,0.190244,3.30732,0.195122,"Joe's Crab Shack",,1991 N Rainbow Blvd,89108,3.5,205,Restaurants;Seafood;Gluten-Free;American (Traditional),0,0
+4k3RlMAMd46DZ_JyZU0lMg,85,44,1169,4884,100,0.0727117,0.0855432,4.17793,0.037639,Ramen Sora,Chinatown,4490 Spring Mountain Rd,89102,4,1169,Noodles;Restaurants;Ramen;Japanese,1,7
+WgBV0Sm-yNVgfI__5m1Bug,22,60,174,494,47,0.126437,0.270115,2.83908,0.344828,Tropical Smoothie Cafe,Southwest,7375 S Durango Dr,89148,3,174,Juice Bars & Smoothies;Food,1,3
+FykLjv4tIq618q8F2pvTKg,94,37,174,533,135,0.54023,0.775862,3.06322,0.212644,Krazy Buffet,Northwest,3131 N Rainbow Blvd,89108,3,174,Restaurants;Chicken Wings;Chinese;Buffets,1,2
+FNe5PPA9pyj8FjcDefCBpg,35,27,648,2740,49,0.0540123,0.0756173,4.22839,0.0416667,Weera Thai Restaurant,Westside,3839 W Sahara Ave,89102,4,648,Thai;Restaurants;Food;Bars;Food Delivery Services;Noodles;Vegetarian;Beer;Wine & Spirits;Nightlife;Beer Bar;Wine Bars,1,6
+3m2XZFVraCiqjgLxHi5MdA,29,7,323,1426,33,0.0897833,0.102167,4.41486,0.0216718,"Rosemary's Restaurant",Westside,8125 W Sahara Ave,89117,4.5,323,American (New);Restaurants,0,0
+45513UgSlMqWV_yAPVkXrg,4,15,78,273,5,0.0512821,0.0641026,3.5,0.192308,Verona Pizza,Eastside,710 E Flamingo Rd,89119,3.5,78,Italian;Pizza;Restaurants,1,5
+x71EvWJDVKZfM-OiYDWZ6A,10,9,137,560,16,0.0729927,0.116788,4.08759,0.0656934,Perk Up Coffee Shop,Southwest,11370 Southern Highlands Pkwy,89141,4,137,Coffee & Tea;Restaurants;Breakfast & Brunch;Food,0,0
+UK2Onb024Azao0DrTHSvhg,12,12,310,1374,15,0.0387097,0.0483871,4.43226,0.0387097,"Yanni's Greek Grill",Southeast,9620 S Las Vegas Blvd,89123,4.5,310,Restaurants;Ethnic Food;Food;Specialty Food;Greek,1,1
+SpeZAJN0ACO_m3Z4mcqwpA,2,8,61,219,4,0.0327869,0.0655738,3.59016,0.131148,Social Life Pizza,The Strip,3355 S Las Vegas Blvd,89109,3.5,61,Restaurants;Pizza;Bars;Food;American (Traditional);Nightlife,1,3
+iL2-xJ4-eMsJk88PsbivbQ,8,16,273,1146,9,0.029304,0.032967,4.1978,0.0586081,Broadway Pizzeria,Downtown,840 S Rancho Dr,89106,4,273,Salad;Italian;Pizza;Restaurants,1,4
+nMaIIKEAW2cTEWbEyeFyXQ,20,10,288,1217,20,0.0694444,0.0694444,4.22569,0.0347222,"Surang's Thai Kitchen",Spring Valley,5455 S Fort Apache Rd,89148,4,287,Soup;Restaurants;Salad;Thai,1,5
+hIUKufhwR6Ifn7bi0-phLA,71,15,1054,4929,91,0.0673624,0.0863378,4.67647,0.0142315,Baguette Cafe,Spring Valley,8359 W Sunset Rd,89113,4.5,1054,Cafes;Food;Delis;French;Coffee & Tea;Vegan;Breakfast & Brunch;Sandwiches;Restaurants,1,4
+SaL2YDKT96zHqxlaq7mJbw,15,11,90,341,15,0.166667,0.166667,3.78889,0.122222,Porchlight Grille,Westside,8416 W Desert Inn Rd,89117,4,90,American (Traditional);Nightlife;Bars;Restaurants;Sports Bars,1,1
+bjllusUsLq9zE4yZnLpOzg,41,54,443,1770,59,0.0925508,0.133183,3.99549,0.121896,Shawarma Plus,,6530 S Decatur Blvd,89118,4,443,Mediterranean;Greek;Vegetarian;Lebanese;Restaurants;Vegan;Middle Eastern,1,2
+1ZnVfS-qP19upP_fwOhZsA,94,84,832,3169,102,0.112981,0.122596,3.80889,0.100962,Big Wong Restaurant,Chinatown,5040 Spring Mountain Rd,89146,4,832,Taiwanese;Chinese;Restaurants;Malaysian;Soup;Noodles;Asian Fusion,1,1
+XarMlmD4QuRgGdoYoKRRSQ,13,43,152,520,16,0.0855263,0.105263,3.42105,0.282895,"Joe Philly's Pizza",Southeast,6400 S Eastern Ave,89119,3.5,152,Restaurants;Sandwiches;Food;Pizza;American (Traditional),1,1
+bG-JFEQjr0pAcgdz7eHkZw,2,3,92,404,4,0.0217391,0.0434783,4.3913,0.0326087,Yogurtland,,7290 W Lake Mead Blvd,89128,4.5,94,Food;Ice Cream & Frozen Yogurt;Do-It-Yourself Food,0,0
+bPcqucuuClxYrIM8xWoArg,18,22,463,1916,21,0.0388769,0.0453564,4.13823,0.0475162,Due Forni,South Summerlin,3555 S Town Center Dr,89135,4,463,Italian;Restaurants;Nightlife;Bars;Wine Bars;Pizza,0,0
+CiYLq33nAyghFkUR15pP-Q,99,80,1364,5813,109,0.0725806,0.079912,4.26173,0.058651,Tacos El Gordo,Downtown,1724 E Charleston Blvd,89104,4.5,1363,Restaurants;Mexican;Tacos,1,6
+ZibmYdOPKLlqDM9oR6xzOA,103,101,1068,4074,122,0.0964419,0.114232,3.81461,0.0945693,Bachi Burger,Westside,9410 W Sahara Ave,89117,4,1068,Asian Fusion;Burgers;American (New);Bars;Wine Bars;Restaurants;Nightlife,1,1
+q5sa3zjAwIYMAgfPVxOdHw,11,26,267,1039,14,0.0411985,0.0524345,3.89139,0.0973783,"Khoury's Mediterranean Restaurant",Spring Valley,6115 S Fort Apache Rd,89148,4,267,Restaurants;Mediterranean;Greek;Middle Eastern,1,2
+7UtqNjjd9D6oU7UcT2nxig,4,16,81,282,4,0.0493827,0.0493827,3.48148,0.197531,"Capriotti's Sandwich Shop",Westside,8450 W Sahara Ave,89117,3.5,82,Sandwiches;Restaurants,1,1
+aNGcHb8rjFFI9nY_fUgImg,2,20,270,1123,2,0.00740741,0.00740741,4.15926,0.0740741,Kona Grill,The Strip,3200 S Las Vegas Blvd,89109,4,270,American (New);Sushi Bars;Restaurants,1,1
+YnrJNjZsLIhvldYHtkxKrA,20,19,93,288,21,0.215054,0.225806,3.09677,0.204301,Sushi Factory,,6120 W Tropicana Ave,89103,3,93,Sushi Bars;Restaurants;Buffets;Japanese,1,4
+Qc0l8rZ3nvrcERitgxu8XA,72,33,972,4239,89,0.0740741,0.0915638,4.36111,0.0339506,Omelet House,Downtown,2160 W Charleston Blvd,89102,4.5,972,American (Traditional);Breakfast & Brunch;Restaurants,1,1
+2dCnTMv3Hh-fM8bOjYS4Xw,56,38,326,1177,77,0.171779,0.236196,3.61043,0.116564,Nevada Chicken Cafe,Westside,6155 W Sahara Ave,89146,3.5,326,Sandwiches;Restaurants;American (New);Salad;Food;Barbeque;American (Traditional);Cafes,1,4
+fpM-O9Ul62xizBq9YNO_tQ,36,48,167,484,57,0.215569,0.341317,2.8982,0.287425,"Romano's Macaroni Grill",,2001 N Rainbow Blvd,89108,3,167,Italian;Restaurants,1,6
+TspQ9jCczz436RiJHJQYZw,1,17,204,782,1,0.00490196,0.00490196,3.83333,0.0833333,Fresh Kabob,Southeast,1405 E Sunset Rd,89119,4,203,Mediterranean;Restaurants,0,0
+j2w6wlRmlaZaaErQus8ElQ,15,14,243,1058,21,0.0617284,0.0864198,4.35391,0.0576132,Pita House,Southeast,1310 E Silverado Ranch Blvd,89183,4.5,243,Restaurants;Vegan;Mediterranean,0,0
+DPmZTwZuknnVPAeIGJq5SA,12,16,80,263,12,0.15,0.15,3.2875,0.2,"Lee's Sandwiches",Southwest,7537 S Rainbow Blvd,89139,3.5,80,Vietnamese;Sandwiches;Restaurants,1,1
+f5IN-6LowoYpxDeQwb0dow,7,9,14,27,16,0.5,1.14286,1.92857,0.642857,"Church's Chicken",Downtown,1625 E Charleston Blvd,89104,2,14,Restaurants;Chicken Wings;Fast Food,1,1
+tXqaK0lBEE1XJbzDPsdFvg,11,32,229,808,11,0.0480349,0.0480349,3.52838,0.139738,Farmer Boys,Spring Valley,5847 S Decatur Blvd,89118,3.5,230,American (Traditional);Restaurants;Breakfast & Brunch;Mexican;Burgers;Sandwiches;Salad,0,0
+gAqckPMHgXQOnJ0G3OPgFw,1,0,124,610,1,0.00806452,0.00806452,4.91935,0,Popularity Gourmet Popcorn,Centennial,6640 N Durango Dr,89149,5,125,Popcorn Shops;Desserts;Food;Specialty Food,0,0
+wlcHT4d52xh52ZsIxxuGFg,12,17,104,346,15,0.115385,0.144231,3.32692,0.163462,Smashburger,Spring Valley,5130 S Fort Apache Rd,89148,3.5,104,Restaurants;Fast Food;Burgers,1,1
+wTDsirjG5uWh9go8RLvJcQ,3,33,241,883,3,0.0124481,0.0124481,3.6639,0.136929,"Robert Irvine's Public House",The Strip,3801 S Las Vegas Blvd,89109,3.5,241,Pubs;Bars;Restaurants;Gastropubs;Nightlife;American (New),0,0
+Yiw2jUJzUdFmglHZgj4RaQ,9,15,236,925,12,0.0381356,0.0508475,3.91949,0.0635593,808 Tapas,Westside,9350 W Sahara Ave,89117,4,236,Sushi Bars;Japanese;Asian Fusion;Restaurants,0,0
+DV13F0bhe55dV1AhwoO50g,37,22,199,640,43,0.18593,0.21608,3.21608,0.110553,Beauty Bar,Downtown,517 Fremont St,89101,3,199,Nightlife;Bars;Music Venues;Dance Clubs;Arts & Entertainment,1,2
+RQu_Bv7EFf5NKMnh_3E7Ag,15,20,241,838,18,0.0622407,0.0746888,3.47718,0.0829876,Sedona Lounge,Spring Valley,9580 W Flamingo Rd,89147,3.5,241,Restaurants;American (New),1,1
+6Zogn4PXnK-ODBiRy5iz7Q,26,1,100,447,26,0.26,0.26,4.47,0.01,"Sugar Bee's Bakery",Southwest,7835 S Rainbow Blvd,89139,4.5,100,Desserts;Food;Custom Cakes;Bakeries,0,0
+A0X1baHPgw9IiBRivu0G9g,49,31,642,2683,60,0.076324,0.0934579,4.17913,0.0482866,Patisserie Manon,Westside,8751 W Charleston Blvd,89117,4,642,Food;French;Restaurants;Bakeries,1,1
+EnCIojgP5KTr1leaysFE3A,70,21,1222,5419,89,0.0572831,0.0728314,4.43453,0.0171849,Viva Las Arepas,Downtown,1616 S Las Vegas Blvd,89104,4.5,1222,Venezuelan;Restaurants;Food Stands;Latin American,1,2
+xuAY1qnAMrzkNyTd0K0Tcg,0,5,98,422,0,0,0,4.30612,0.0510204,"Dougie J's Cafe",Downtown,603 S Las Vegas Blvd,89101,4.5,98,Sandwiches;Burgers;Breakfast & Brunch;Restaurants;Cafes,1,4
+GwKFPfQA5kYcVSnPBpjtzg,20,12,73,237,20,0.273973,0.273973,3.24658,0.164384,"Garfield's Restaurant",Summerlin,2620 Regatta Dr,89128,3,73,Restaurants;American (New),1,1
+qw9SyduMZ53KB6GlBQqvZQ,0,0,55,269,0,0,0,4.89091,0,Bosa Boba Cafe,Chinatown,3355 Spring Mountain Rd,89102,5,55,Vietnamese;Bubble Tea;Sandwiches;Food;Coffee & Tea;Restaurants,0,0
+Fj0zObYm5McHcbtE6MSU0A,6,9,63,235,6,0.0952381,0.0952381,3.73016,0.142857,Asian Garden,Sunrise,560 N Nellis Blvd,89110,3.5,63,Chinese;Restaurants;Thai,1,8
+fIaDNl_mv6Oz3Ro4sil_Qw,0,3,23,94,0,0,0,4.08696,0.130435,El Steak Burrito,Chinatown,4590 Spring Mountain Rd,89102,4,23,Mexican;Latin American;Restaurants,1,5
+5SWijNkjwQVQjsMOcmG2Fw,0,0,6,30,0,0,0,5,0,Blush Salon,Southeast,6360 S Pecos Rd,89120,5,6,Hair Salons;Beauty & Spas,1,1
+qTTBJ83d-nWSnQpXyd44gA,24,29,338,1426,24,0.0710059,0.0710059,4.21894,0.0857988,Maza Mediterranean Grill & Lounge,Westside,2550 S Rainbow Blvd,89146,4,338,Restaurants;Turkish;Halal;Lounges;Beer;Wine & Spirits;Greek;Mediterranean;Nightlife;Bars;Middle Eastern;Food,1,1
+5JjGTaZkHbbjBrzBODcsAQ,31,22,268,1055,31,0.115672,0.115672,3.93657,0.0820896,Daisho Sushi,Southeast,7435 S Eastern Ave,89123,4,268,Salad;Japanese;Sushi Bars;Restaurants,1,1
+_OTl6V2oUfMMmoDWD2nXVg,21,5,80,322,21,0.2625,0.2625,4.025,0.0625,Beau Monde Bakery,Summerlin,2380 N Buffalo Dr,89128,4,80,Food;Gluten-Free;Restaurants;Bakeries,0,0
+a3jFGgoWbPkPGENEafiXwg,21,23,160,506,22,0.13125,0.1375,3.1625,0.14375,"Binion's Cafe",Downtown,128 Fremont St,89101,3,160,Arts & Entertainment;Steakhouses;Diners;Cafes;Restaurants;Casinos;Chinese;Food,1,4
+XPIUUhZyClvXW4-rT3tRMQ,8,5,185,782,10,0.0432432,0.0540541,4.22703,0.027027,"Bahama Buck's",Spring Valley,7345 Arroyo Crossing Pkwy,89113,4,185,Desserts;Shaved Ice;Food;Juice Bars & Smoothies,1,1
+8FUzCm4Q13MJMX7N6ftmQw,10,12,204,843,10,0.0490196,0.0490196,4.13235,0.0588235,China Hot Wok,Northwest,7121 W Craig Rd,89129,4,204,Chinese;Ethnic Food;Noodles;Specialty Food;Restaurants;Food;Seafood,1,3
+1yWINuTOUBQj8ELqRNDOWA,1,2,443,2079,1,0.00225734,0.00225734,4.693,0.00451467,Gelato Bar,Chinatown,3849 Spring Mountain Rd,89102,4.5,443,Food;Desserts;Coffee & Tea;Gelato,1,2
+9iNZ2o5jt-zpdMoAOgd7_g,2,2,24,89,2,0.0833333,0.0833333,3.70833,0.0833333,China Kitchen,,4985 E Craig Rd,89115,3.5,24,Chinese;Restaurants,1,4
+iRFaq249LVEFGeXLzPULnQ,8,12,106,401,8,0.0754717,0.0754717,3.78302,0.113208,Diamond Chinese Restaurant,,3449 Industrial Rd,89109,4,106,Restaurants;Chinese,1,6
+Nsi49BE_XsjJ0oOXwhH8hA,24,26,56,126,39,0.428571,0.696429,2.25,0.464286,China Star Buffet,Eastside,2590 S Maryland Pkwy,89109,2,56,Chinese;Restaurants,1,3
+yYMTMtguT90BfMJVxasFuw,11,19,153,585,11,0.0718954,0.0718954,3.82353,0.124183,China Gourmet,Westside,9002 W Sahara Ave,89117,4,154,Chinese;Restaurants,1,1
+hrNIDao4XnOhrv7aaFehTg,13,23,149,546,17,0.0872483,0.114094,3.66443,0.154362,"Marco's Pizza",Southwest,8795 W Warm Springs Rd,89148,3.5,149,Pizza;Restaurants;Italian,0,0
+ac3laXcJnclYZAO65XAcmA,1,10,183,763,1,0.00546448,0.00546448,4.1694,0.0546448,Black Bear Diner,Southeast,7680 S Las Vegas Blvd,89123,4,183,Breakfast & Brunch;Restaurants;American (Traditional);Diners,0,0
+wXRhRfnXaV_icpT5P8r9pg,14,18,199,790,18,0.0703518,0.0904523,3.96985,0.0904523,"Maggiano's Little Italy",South Summerlin,10940 Rosemary Park Dr,89135,4,199,Nightlife;Bars;Cocktail Bars;Italian;Restaurants;Desserts;Food,1,1
+56Ll9rqG2WxXj4X2pmlkHQ,64,15,231,848,91,0.277056,0.393939,3.671,0.0649351,Sweet Tomatoes,,2080 N Rainbow Blvd,89108,3.5,231,Salad;Soup;Vegetarian;Restaurants;Buffets,1,1
+vATbGMxLd9cZ3VY_GZAIJw,0,1,5,18,0,0,0,3.6,0.2,"Cariba Charlie's",Spring Valley,4835 S Rainbow Blvd,89103,3.5,5,American (Traditional);Restaurants;Nightlife,1,1
+UFcCwCkp9K5D8c03Pwi7sA,16,22,148,570,38,0.108108,0.256757,3.85135,0.148649,Sin City Sushi,Southeast,8790 S Maryland Pkwy,89123,4,148,Sushi Bars;Japanese;Restaurants,0,0
+OGQ_6nIn4QQL2U6t0XeHtA,18,3,198,903,25,0.0909091,0.126263,4.56061,0.0151515,Popped,,9480 S Eastern Ave,89123,4.5,199,Specialty Food;Flowers & Gifts;Desserts;Shopping;Popcorn Shops;Candy Stores;Chocolatiers & Shops;Food,0,0
+UGy0QULAPPRcOUJQSiRmGQ,4,26,84,244,4,0.047619,0.047619,2.90476,0.309524,Tropical Smoothie Cafe,Northwest,7660 W Cheyenne Ave,89129,3,84,Juice Bars & Smoothies;Food,1,2
+Asy49gKgikq_NkYsC_7c0Q,48,46,90,205,71,0.533333,0.788889,2.27778,0.511111,"Capriotti's Sandwich Shop",Southwest,11350 Southern Highlands Pkwy,89141,2.5,90,Restaurants;Sandwiches,1,4
+p8HvhJZ-_EHhmUVmZN15gg,39,43,361,1342,48,0.108033,0.132964,3.71745,0.119114,Cafe Zupas,Southeast,9460 S Eastern Ave,89123,3.5,361,Sandwiches;Restaurants;Salad;Cafes;American (New);Soup,1,3
+yie1IIw2dlfy5n6ywvHUvw,4,20,97,336,5,0.0412371,0.0515464,3.46392,0.206186,"Capriotti's Sandwich Shop",Southwest,8090 Blue Diamond Rd,89178,3.5,97,Restaurants;Sandwiches,0,0
+ZgPnRzWjQR5NtiauGBww7g,10,1,95,400,17,0.105263,0.178947,4.21053,0.0105263,Great Harvest Bread Company,South Summerlin,10180 W Tropicana Ave,89147,4,95,Cafes;Sandwiches;Breakfast & Brunch;Bakeries;Restaurants;Food,1,4
+SQ8Tkavc4TJj-2kanEDzLg,16,18,148,551,27,0.108108,0.182432,3.72297,0.121622,Red Rock Pizza,Summerlin,8455 W Lake Mead Blvd,89128,3.5,148,Chicken Wings;Italian;Restaurants;Pizza,1,4
+310Eyru1zsZ9K7BA-bgPQw,1,11,62,203,1,0.016129,0.016129,3.27419,0.177419,1900 Asian Cuisine,Chinatown,5115 Spring Mountain Rd,89146,3.5,62,Chinese;Szechuan;Shanghainese;Dim Sum;Restaurants,1,3
+1BrIPwRhJHOp6yBwjoRtgg,61,21,710,3034,65,0.0859155,0.0915493,4.27324,0.0295775,Pink Box Doughnuts,,7531 W Lake Mead Blvd,89128,4.5,711,Donuts;Food,1,1
+RU3PsG2y_eGBFi_8jDqyQA,4,10,43,153,4,0.0930233,0.0930233,3.55814,0.232558,China A Go Go,Sunrise,1983 N Nellis Blvd,89115,3.5,43,Szechuan;Fast Food;Restaurants;Chinese,1,2
+d8780v952K4jQm0bcGRVTA,0,4,20,62,0,0,0,3.1,0.2,Club Platinum,Eastside,311 E Flamingo Rd,89109,3,20,Bars;Adult Entertainment;Nightlife,1,3
+qL9CBB9lwY0ftdUcqVMUgw,0,4,72,317,0,0,0,4.40278,0.0555556,Salsa Loca Mexican Grill,Eastside,4130 S Sandhill Rd,89121,4.5,72,Mexican;Restaurants,1,1
+G03yt8WuN1v0bCD8mvoDiA,0,1,55,262,0,0,0,4.76364,0.0181818,Fresh Sub,,6174 W Flamingo Rd,89103,5,55,Sandwiches;Juice Bars & Smoothies;Desserts;Food;Restaurants;Ice Cream & Frozen Yogurt,1,1
+zttcrQP4MxNS5X5itzStXg,0,3,21,82,0,0,0,3.90476,0.142857,Da Pineapple Express,Northwest,4588 N Rancho Dr,89130,4,21,Hawaiian;Food;Filipino;Restaurants;Food Trucks,1,2
+qsdHK1eQtXmAJNdVJxiC3w,38,27,129,408,41,0.294574,0.317829,3.16279,0.209302,New York Chinese Restaurant,Summerlin,9430 W Lake Mead Blvd,89134,3,129,Chinese;Restaurants,1,5
+ZW5ReCY3B9_TekUYWhr7HA,0,1,61,251,0,0,0,4.11475,0.0163934,Kaba Curry,Westside,6475 W Charleston Blvd,89146,4,61,Hawaiian;Japanese;Asian Fusion;Restaurants,1,1
+C-u6Ywuq192icOblKm6oKg,44,14,195,777,44,0.225641,0.225641,3.98462,0.0717949,Nosh & Swig,Eastside,3620 E Flamingo Rd,89121,4,195,Restaurants;Tapas/Small Plates,1,1
+zKqWjDZHo-lk7_E3hHkORg,17,16,198,817,17,0.0858586,0.0858586,4.12626,0.0808081,"Don't Tell Mama",Downtown,517 Fremont St,89101,4,198,Piano Bars;Bars;Nightlife;Lounges,1,3
+nM9NwHXy3EadihjJTG2i5w,15,10,193,852,16,0.0777202,0.0829016,4.41451,0.0518135,"Pancho's Vegan Tacos",Eastside,4865 S Pecos Rd,89121,4.5,193,Vegan;Mexican;Restaurants;Tacos,1,2
+ydUk0peVAOgiYq1l3U5SaQ,1,5,46,188,1,0.0217391,0.0217391,4.08696,0.108696,Salvadoreno Restaurant,,720 N Main St,89101,4,46,Latin American;Soup;Breakfast & Brunch;Restaurants,1,1
+iIwMJdDuExGrOqkSAyPb9A,6,24,85,255,8,0.0705882,0.0941176,3,0.282353,"Samurai Sam's",Spring Valley,4175 S Grand Canyon Dr,89147,3,85,Japanese;Restaurants,1,3
+m6QREZLAQatX1swZ2FN4hQ,3,1,54,231,7,0.0555556,0.12963,4.27778,0.0185185,The Cuppa,South Summerlin,2120 Festival Plaza Dr,89135,4.5,54,Bagels;Food;Restaurants;Coffee & Tea;Sandwiches;Bakeries,0,0
+5T0h9YCsXiDZyBsVIN9gcg,114,40,323,1171,161,0.352941,0.498452,3.62539,0.123839,Viet Bistro,,7175 W Lake Mead Blvd,89128,3.5,323,Restaurants;Vietnamese,1,2
+21sGRVR7HEs_t6PdB9tGMw,19,78,177,448,24,0.107345,0.135593,2.53107,0.440678,"Angelina's Pizzeria",,5750 S Decatur Blvd,89118,2.5,177,Burgers;Sandwiches;Salad;Italian;Pizza;Restaurants,1,2
+ZuNJelvkJD4wsXNBRg6t5w,11,20,162,607,15,0.0679012,0.0925926,3.74691,0.123457,Asian Wok,Centennial,6515 N Buffalo Dr,89131,4,161,Restaurants;Thai;Asian Fusion;Chinese,1,7
+XKo3y41cF6euqS7I6AX_1Q,0,20,134,526,0,0,0,3.92537,0.149254,Teriyaki Boy Healthy Grill,Southwest,7320 S Rainbow Blvd,89139,4,133,Asian Fusion;Fast Food;Restaurants;Japanese,0,0
+Fkj8vJocYilePMZv2y54WA,11,17,114,401,13,0.0964912,0.114035,3.51754,0.149123,"Laurita's Taco Shop",Southeast,8880 S Maryland Pkwy,89123,3.5,114,Mexican;Breakfast & Brunch;Restaurants,1,3
+kkdm8TM6qTaVnrz5XsG0hQ,6,8,230,990,6,0.026087,0.026087,4.30435,0.0347826,Kabob Express,Southeast,4912 S Eastern Ave,89119,4.5,230,Restaurants;Persian/Iranian;Afghan;Kebab;Mediterranean;Halal,1,4
+JgkfjCL1NfMBC_M_hax_3Q,5,17,137,518,8,0.0364963,0.0583942,3.78102,0.124088,Aloha Kitchen,Sunrise,4466 E Charleston Blvd,89104,4,137,Hawaiian;Restaurants,1,3
+r8hF3kwnZzxTo1IYNcI6rg,77,25,395,1684,99,0.194937,0.250633,4.26329,0.0632911,El Sombrero Mexican Bistro,Downtown,807 S Main St,89101,4.5,395,Nightlife;Mexican;Bars;Restaurants,1,4
+So132GP_uy3XbGs0KNyzyw,40,30,676,2882,41,0.0591716,0.0606509,4.26331,0.0443787,Casa Di Amore,Eastside,2850 E Tropicana Ave,89121,4.5,676,Restaurants;Pizza;Seafood;American (New);Salad;Italian,1,3
+mmbXj7CmjGbH-wR3j6cD0w,76,24,288,1016,92,0.263889,0.319444,3.52778,0.0833333,Sweet Tomatoes,Spring Valley,9460 W Flamingo Rd,89147,3.5,288,Buffets;Salad;Soup;Vegetarian;Restaurants,1,3
+UiBRXZKRV9EpU9EpERZIFw,0,0,19,77,0,0,0,4.05263,0,Greek American Grille,,4860 W Flamingo Rd,89103,4,19,Mediterranean;Greek;Restaurants,0,0
+Xp6ogw-SCNK28s1I0fhUXw,0,8,33,102,0,0,0,3.09091,0.242424,"The Daddy's Pizza",Sunrise,2775 S Nellis Blvd,89121,3,33,Italian;Restaurants;Pizza,0,0
+GxfgOFgUhv2rfr3FXVWfCg,7,10,154,645,7,0.0454545,0.0454545,4.18831,0.0649351,Pizza My Dear,Southeast,1725 E Warm Springs Rd,89119,4,154,Gluten-Free;Italian;Food Delivery Services;Food;Restaurants;Pizza;Sandwiches,0,0
+jb_QTeYTSS642UafKRFs2Q,8,4,187,836,11,0.0427807,0.0588235,4.47059,0.0213904,Popcorn Girl,Westside,8550 W Charleston Blvd,89117,4.5,187,Desserts;Food;Popcorn Shops;Specialty Food,0,0
+CVt6kBVBABSq-NA_FZfrVw,5,15,119,479,9,0.0420168,0.0756303,4.02521,0.12605,Shawarma Vegas,The Lakes,2521 S Fort Apache Rd,89117,4,119,Restaurants;Kosher;Middle Eastern,1,6
+5o7Fx7Iot-gLKVNegLLw-w,3,4,27,91,3,0.111111,0.111111,3.37037,0.148148,El Santaneco,University,4632 S Maryland Pkwy,89119,3.5,27,Restaurants;Latin American;Spanish;Mexican,1,10
+T67VqyRbY8zF3C4KZNQnyg,1,3,9,26,1,0.111111,0.111111,2.88889,0.333333,Hoops Food & Spirits,,4224 N Pecos Rd,89115,3,9,Nightlife;Bars;Sports Bars,1,3
+vQWVP7MtpgXFwUMvxCj9Tw,4,9,80,296,4,0.05,0.05,3.7,0.1125,Metro Pizza,Eastside,4178 Koval Ln,89109,3.5,80,Italian;Pizza;Restaurants,1,2
+MXC9pwIxovWUc9yu1F8OxA,15,21,457,1883,16,0.0328228,0.0350109,4.12035,0.0459519,Sushi Twister,Eastside,5566 Boulder Hwy,89122,4,457,Sushi Bars;Japanese;Restaurants,1,6
+h5qBxa_L-pIdNSOBQxTNGQ,37,91,191,479,64,0.193717,0.335079,2.50785,0.47644,Brothers Italian Bistro,Southwest,7575 S Rainbow Blvd,89139,2.5,191,Pizza;Burgers;Sandwiches;Restaurants,1,13
+RRw9I8pHt5PzgYGT2QeODw,27,27,459,1812,32,0.0588235,0.0697168,3.94771,0.0588235,"Grimaldi's Pizzeria",Westside,750 S Rampart Blvd,89145,4,459,Restaurants;Pizza,0,0
+2Y0-nrSZNsLRStyupZgM7g,12,23,136,397,14,0.0882353,0.102941,2.91912,0.169118,Courtyard Cafe,,4500 W Tropicana Ave,89103,3,136,Sandwiches;Restaurants;American (Traditional),1,1
+slVkMoNTCGI2rOhMaL5u5A,7,23,132,495,9,0.0530303,0.0681818,3.75,0.174242,Berry Blendz,,7175 W Lake Mead Blvd,89128,4,132,Food;Juice Bars & Smoothies,1,4
+HAjZ4ZJrJqtVVyilMYQZzQ,19,7,58,209,19,0.327586,0.327586,3.60345,0.12069,Thai Place,Eastside,4019 S Maryland Pkwy,89119,3.5,58,Thai;Restaurants,1,10
+bPh7M1vos_V-g8_s-eHaNA,18,16,229,967,24,0.0786026,0.104803,4.22271,0.069869,Rebel Republic,Westside,3540 W Sahara Ave,89102,4,229,Sports Bars;Nightlife;Pubs;American (New);Bars;Burgers;Restaurants,1,2
+CWNMLT-ppaUjLMmrnYDPVg,0,3,96,394,0,0,0,4.10417,0.03125,"Roy's Restaurant",Westside,8701 W Charleston Blvd,89117,4,96,Asian Fusion;Restaurants;Hawaiian,0,0
+e2ApirIzYID9xIye0r_gKQ,29,56,178,487,36,0.162921,0.202247,2.73595,0.314607,Farmer Boys,Centennial,7791 W Tropical Pkwy,89149,2.5,178,Salad;Breakfast & Brunch;Sandwiches;Burgers;Restaurants;Mexican;American (Traditional),1,3
+6fz0hnNIVpLF5v2NqJfA9w,15,24,236,935,15,0.0635593,0.0635593,3.96186,0.101695,Babystacks Cafe,Southwest,8090 Blue Diamond Rd,89113,4,236,Cafes;Filipino;Breakfast & Brunch;Restaurants;American (Traditional),0,0
+yHYjDPuRtLvhvMpOn5fXOQ,21,22,465,1979,22,0.0451613,0.0473118,4.25591,0.0473118,"Naked Fish's Sushi & Grill",Spring Valley,3945 S Durango Dr,89147,4.5,464,Japanese;Sushi Bars;Restaurants,1,3
+mnqJVQhLcPHtpVx_6kbJuw,13,6,114,529,13,0.114035,0.114035,4.64035,0.0526316,Las Vegas Custom Cakes,Westside,5243 W Charleston Blvd,89146,4.5,114,Desserts;Coffee & Tea;Bakeries;Custom Cakes;Food;Cupcakes,0,0
+y1esDY2vFyaTMf1YlRT7ZA,0,13,174,740,0,0,0,4.25287,0.0747126,La Bella Napoli Pizzeria,Southeast,6599 S Las Vegas Blvd,89119,4.5,174,Italian;Restaurants;Pizza;Nightlife;Wine Bars;Bars,0,0
+qjyOjCHG9lOkZnAa8jIQ1g,0,4,71,303,0,0,0,4.26761,0.056338,Master Donuts,Eastside,2300 E Desert Inn Rd,89169,4.5,71,Food;Donuts,1,2
+86wtLylJ9fbVuXRy5WU3Zw,1,3,128,594,1,0.0078125,0.0078125,4.64062,0.0234375,Vegan Bites,,8876 S Eastern Ave,89123,4.5,128,Bakeries;Desserts;Patisserie/Cake Shop;Custom Cakes;Food;Specialty Food;Cupcakes;Gluten-Free;Restaurants;Vegetarian;Vegan,0,0
+i53HvxUdQEMllZ1XmpjjyA,59,173,278,571,75,0.21223,0.269784,2.05396,0.622302,"Sicily's Pizza",Spring Valley,3585 S Durango Dr,89147,2,278,Pizza;Italian;Restaurants;Chicken Wings,1,8
+FqXwm6UpihHY7Ha-pr4y6Q,16,26,222,851,20,0.0720721,0.0900901,3.83333,0.117117,Pasta Mia West,,4455 W Flamingo Rd,89103,4,223,Food;Italian;Restaurants,1,5
+TeggG3duunpoy__1Y2SAyQ,33,27,350,1271,49,0.0942857,0.14,3.63143,0.0771429,Aloha Kitchen,University,4745 S Maryland Pkwy,89119,3.5,350,Hawaiian;Restaurants,1,4
+o69XnnmtOaj6a2sjOTsGeg,13,16,111,426,13,0.117117,0.117117,3.83784,0.144144,"Capriotti's Sandwich Shop",Eastside,3830 E Flamingo Rd,89121,4,110,Delis;Restaurants;Sandwiches,0,0
+b1WGIdd_oSwGYZtC769Shw,12,34,304,1128,19,0.0394737,0.0625,3.71053,0.111842,"Rachel's Kitchen",Centennial,7010 N Durango Dr,89149,3.5,303,Breakfast & Brunch;Sandwiches;Restaurants;Food;Juice Bars & Smoothies;American (New),1,2
+I8j1gHLKNJVN4dNVUOsedw,13,21,196,819,13,0.0663265,0.0663265,4.17857,0.107143,"Vickie's Diner",,1700 S Las Vegas Blvd,89104,4,196,Diners;Cafes;Restaurants,1,6
+0jtRI7hVMpQHpUVtUy4ITw,12,17,224,885,12,0.0535714,0.0535714,3.95089,0.0758929,Omelet House Summerlin,Summerlin,2227 N Rampart Blvd,89128,4,225,Restaurants;American (Traditional);Food;Italian;Breakfast & Brunch;Beer;Wine & Spirits,1,3
+Y3mYtN9A_BPiz3DHX8868A,0,0,3,14,0,0,0,4.66667,0,Speed Zone Tavern,,4355 E Craig Rd,89115,4.5,3,Nightlife;Sports Bars;Bars,1,1
+S599hCA4kJJO3_b6SRFKoA,21,56,358,1291,22,0.0586592,0.0614525,3.60615,0.156425,Michoacan Gourmet Mexican Restaurant,Centennial,7870 W Tropical Pkwy,89149,3.5,358,Restaurants;Mexican;Seafood;Breakfast & Brunch,1,6
+UpW3jyJ3_kTG7oDSflwnMA,23,29,377,1506,27,0.061008,0.071618,3.99469,0.0769231,"Archi's Thai Kitchen",,6360 W Flamingo Rd,89103,4,377,Restaurants;Thai,1,4
+hPclwunHi36YV8cPghWJBg,3,20,333,1425,3,0.00900901,0.00900901,4.27928,0.0600601,Thai Food To Go,Eastside,3242 E Desert Inn Rd,89121,4.5,333,Thai;Restaurants;Noodles;Fast Food;Asian Fusion,1,5
+K2_zfa7cKbg5klHJYqoWnw,50,33,409,1651,64,0.122249,0.156479,4.03667,0.0806846,Hot N Juicy Crawfish,Southeast,9560 S Eastern Ave,89123,4,410,Chicken Wings;Seafood;Restaurants;American (Traditional);Cajun/Creole;Food,1,3
+2bK1ng2mnRdtTh_BDNGmIg,170,81,287,924,176,0.592335,0.61324,3.21951,0.28223,North End Pizza,Centennial,6440 N Durango Dr,89149,3,287,Restaurants;Pizza;Italian,1,5
+q4v-I9j1v7WqtxR12uEMxQ,34,19,237,978,34,0.14346,0.14346,4.12658,0.0801688,Beach Hut Deli,,9500 S Eastern Ave,89123,4,237,Soup;Sandwiches;Restaurants;Delis,1,2
+pi4FLFEOn9AhNUxiLbBeHg,5,7,189,794,5,0.026455,0.026455,4.20106,0.037037,Hawaiian Style Poke,Chinatown,3524 Wynn Rd,89103,4,189,Poke;Food;Hawaiian;Restaurants,1,2
+LPMZ9N1sAjs2nDx7DmiZ2w,8,45,126,387,11,0.0634921,0.0873016,3.07143,0.357143,"Palermo's Pizza",Eastside,1370 E Flamingo Rd,89119,3,126,Food Delivery Services;Food;Pizza;Restaurants,1,5
+dWrezcuIAO-Ckx1W0gu5jg,8,33,387,1581,10,0.0206718,0.0258398,4.08527,0.0852713,Parma By Chef Marc,,7591 W Washington Ave,89128,4,387,Bars;Wine Bars;Pizza;Restaurants;Nightlife;Italian,1,6
+BmyRJmbVm4jGlkXg4ncLJQ,0,10,38,113,0,0,0,2.97368,0.263158,Fiesta Chips & Salsa,,1780 N Buffalo Dr,89128,3,38,Restaurants;Mexican,0,0
+VFVyecs0nMFA4xizXkzvKA,0,6,23,68,0,0,0,2.95652,0.26087,Sushi Banzai,Spring Valley,9700 W Tropicana Ave,89147,3,23,Sushi Bars;Japanese;Restaurants,0,0
+rMVi-Vn_mN_X9J1ZSl1lWA,5,8,34,102,10,0.147059,0.294118,3,0.235294,Baja Fresh,,7501 W Lake Mead Blvd,89128,3,34,Mexican;Restaurants,1,7
+jsOGd-P1BfoUY40yY5l59A,1,3,22,76,1,0.0454545,0.0454545,3.45455,0.136364,Bentto Rock 1,Downtown,2201 S Maryland Pkwy,89104,3.5,22,Japanese;Restaurants,1,1
+OOHDPE3tilNC4md8Lcx_4Q,5,1,76,339,5,0.0657895,0.0657895,4.46053,0.0131579,Pon Ocha Soup,Sunrise,1000 N Nellis Blvd,89110,4.5,76,Thai;Asian Fusion;Restaurants,1,3
+s6L6SdVYhPcOQEDmNIg1-g,10,19,74,238,10,0.135135,0.135135,3.21622,0.256757,Happy Wok,Spring Valley,5479 S Rainbow Blvd,89118,3,74,Chinese;Restaurants,1,5
+5Lcit9Zt6TF9bmKoFMhF0g,41,29,293,1097,42,0.139932,0.143345,3.74403,0.0989761,Noodle Pot,Chinatown,4215 Spring Mountain Rd,89102,3.5,293,Chinese;Restaurants;Noodles;Taiwanese,1,10
+QteBKpZTRa2dJ3u7MLiXww,21,30,252,969,25,0.0833333,0.0992064,3.84524,0.119048,Los Tacos,Downtown,1710 E Charleston Blvd,89104,4,252,Mexican;Restaurants,1,7
+xM37qm9Wbc-hOAS7-Xse7g,0,5,164,747,0,0,0,4.55488,0.0304878,Kaiseki Yuzu,Southeast,1310 E Silverado Ranch Blvd,89183,4.5,164,Sushi Bars;Restaurants;Bars;Noodles;Japanese;Salad;Nightlife;Soup,1,1
+qJ18IGaDsQtzJ6v2UzkdcQ,19,33,108,334,23,0.175926,0.212963,3.09259,0.305556,New Grand China,Centennial,8450 Farm Rd,89131,3,108,Chinese;Restaurants,1,8
+ppHkkuDvvH8g1Enz6F8OJA,21,23,252,969,93,0.0833333,0.369048,3.84524,0.0912698,Divine Eatery,Centennial,7181 N Hualapai Way,89166,4,252,American (New);Burgers;Restaurants;Breakfast & Brunch,1,1
+Ums3gaP2qM3W1XcA5r6SsQ,14,17,240,1007,15,0.0583333,0.0625,4.19583,0.0708333,"Braddah's Island Style",Centennial,6410 N Durango Dr,89149,4,240,Food;Mexican;Desserts;Restaurants;Hawaiian;Asian Fusion,1,2
+ku6NGJSMJ5RwKnHrzVBQcA,2,6,27,91,2,0.0740741,0.0740741,3.37037,0.222222,Red Label Bar & Lounge,The Strip,332 W Sahara Ave,89102,3.5,27,Restaurants;Asian Fusion;American (Traditional);Lounges;Nightlife;Bars,1,5
+KjV_68oLLSpqR96VnV68tw,17,40,124,343,23,0.137097,0.185484,2.76613,0.322581,"Roberto's Taco Shop",Southeast,10430 Bermuda Rd,89123,3,124,Fast Food;Mexican;Restaurants,1,3
+NnoJ7MBgV_F-bv7FA_X_BA,0,6,64,260,0,0,0,4.0625,0.09375,Los Huicholes,,546 N Eastern Ave,89101,4,64,Food;Restaurants;Mexican;Food Delivery Services,1,2
+CVECSCW-7zDzjpIPxsew4g,8,1,110,487,13,0.0727273,0.118182,4.42727,0.00909091,Tacos El Compita,Westside,6118 W Charleston Blvd,89146,4.5,110,Mexican;Restaurants,1,6
+Ijdoi6pDMK3Burw3TtAOZg,6,18,35,79,6,0.171429,0.171429,2.25714,0.514286,Top This Pizza,University,1105 E Tropicana Ave,89119,2.5,35,Chicken Wings;Pizza;Italian;Restaurants,1,2
+XhgFynFD7ZT77wofWpeOag,20,34,275,998,28,0.0727273,0.101818,3.62909,0.123636,Mt Charleston Lodge Restaurant,,5375 Kyle Canyon Rd,89124,3.5,275,Restaurants;Nightlife;Burgers;American (Traditional);Bars;Lounges,1,5
+_kdpjoGrIzA64E6aXHA66w,29,32,413,1598,29,0.0702179,0.0702179,3.86925,0.0774818,Barcelona Tapas,Southwest,10690 Southern Highlands Pkwy,89141,4,413,Restaurants;Tapas Bars;Spanish,1,6
+qkyCuFJF2Uboh6n2Lmuwlg,61,93,633,1998,88,0.0963665,0.139021,3.1564,0.146919,"Lee's Sandwiches",Chinatown,3989 Spring Mountain Rd,89102,3,633,Food;Bakeries;Sandwiches;Restaurants,1,4
+xGlU3Wbfd1o-6tWQ59gKCg,0,0,26,129,0,0,0,4.96154,0,All About Catering,Westside,450 S Buffalo Dr,89145,5,26,Wedding Planning;Food;Caterers;Event Planning & Services;Food Delivery Services,0,0
+ZDvS8DtnkYa8jY703MflEw,30,8,143,541,30,0.20979,0.20979,3.78322,0.0559441,Badger Cafe,Eastside,1801 E Tropicana Ave,89119,4,143,Restaurants;American (New),1,6
+bvGdqJ-SeGdIHX-HEabwlg,25,17,200,867,25,0.125,0.125,4.335,0.085,North Beach Italian Bistro,Northwest,7770 W Ann Rd,89149,4.5,200,Restaurants;Breakfast & Brunch;Italian;Seafood,1,2
+8L_eeOwZryvlUEO42Zq8nQ,13,16,107,345,25,0.121495,0.233645,3.2243,0.149533,L & L Hawaiian Barbecue,Summerlin,10860 W Charleston Blvd,89135,3,107,Salad;Barbeque;Hawaiian;Restaurants,1,11
+OYHpqY6-3C-wXR-uPbHhwA,34,25,221,825,41,0.153846,0.18552,3.73303,0.113122,Honey Cakes Cafe,Centennial,6475 N Decatur Blvd,89131,3.5,221,French;Restaurants;Breakfast & Brunch;Burgers;American (Traditional);Cafes,1,3
+YU2XR_ZY-g2VzDpi7KMzEw,42,36,244,784,44,0.172131,0.180328,3.21311,0.147541,Icy Juicy,Chinatown,3400 S Jones Blvd,89146,3,244,Coffee & Tea;Bubble Tea;Food;Taiwanese;Restaurants,1,2
+r8Jr-7YfkhJL2nxk9lxUNg,6,12,351,1441,6,0.017094,0.017094,4.10541,0.034188,"Frank & Fina's Cocina",Spring Valley,4175 S Grand Canyon Dr,89147,4,351,Restaurants;Mexican,1,5
+8fiZjbPMgg4qDSLIdZsWZg,0,0,39,154,0,0,0,3.94872,0,Sunshine Cafe,,1581 N Decatur Blvd,89108,4,39,Restaurants;Breakfast & Brunch;Diners,1,3
+_TRbETlhqQq0OLzWbAPkvA,0,10,136,553,0,0,0,4.06618,0.0735294,Ace Donuts,Spring Valley,9435 W Tropicana Ave,89147,4,136,Food;Donuts,0,0
+HOlDxrYqfoJrVq2Eo-_LKQ,5,16,81,254,5,0.0617284,0.0617284,3.1358,0.197531,Farmer Boys,Westside,4833 W Charleston Blvd,89146,3,81,Burgers;Cafes;Breakfast & Brunch;Restaurants;Mexican;American (Traditional);Salad,0,0
+eTUDAJdOHBwKa2yaD_jB6Q,0,6,42,153,0,0,0,3.64286,0.142857,Golden Spoon Frozen Yogurt,Spring Valley,8680 W Warm Springs Rd,89148,3.5,42,Food;Ice Cream & Frozen Yogurt,0,0
+eR7Iw_X54m3YLWkXp9y35Q,5,7,477,2154,7,0.0104822,0.0146751,4.51572,0.0146751,Tonkatsu Kiyoshi,Southwest,7780 S Jones Blvd,89139,4.5,477,Food;Restaurants;Specialty Food;Japanese;Ethnic Food;Hawaiian,1,2
+Tk7qCou7aYv_Z-K3a7NhhA,21,56,449,1751,34,0.0467706,0.0757238,3.89978,0.124722,Shish Kabob House,,6620 W Flamingo Rd,89103,4,449,Mediterranean;Restaurants;Middle Eastern,1,3
+1Z5S_Lkcl6vA3ZvrAG91TA,4,13,272,1193,8,0.0147059,0.0294118,4.38603,0.0477941,Sofrito Rico Authentic Puerto Rican Cuisine,Westside,5201 W Charleston Blvd,89146,4.5,272,Caribbean;Food;Latin American;Restaurants;Puerto Rican;Farmers Market,0,0
+M30I1NPl5JuHthxo1IXPGg,130,53,458,1614,227,0.283843,0.495633,3.52402,0.115721,Pho Saigon 8,Chinatown,5650 Spring Mountain Rd,89146,3.5,458,Vietnamese;Restaurants,1,9
+oH84VXzObXpaC5ia2Tenpw,8,6,36,135,8,0.222222,0.222222,3.75,0.166667,"Esmeralda's Cafe",Downtown,1000 E Charleston Blvd,89104,4,36,Salvadoran;Seafood;Mexican;Restaurants;Latin American,0,0
+M-bM5y8qdE-Z3mfZept1EA,6,5,117,470,6,0.0512821,0.0512821,4.01709,0.042735,Ohana Hawaiian Bbq,Southeast,7435 S Eastern Ave,89123,4,117,Barbeque;Hawaiian;Restaurants,1,5
+agGJSdMTRrkA6VrYMbC-SQ,32,12,251,1053,47,0.12749,0.187251,4.19522,0.0478088,Volcano Grille,Spring Valley,7150 S Durango Dr,89113,4,251,Restaurants;Japanese,0,0
+5PP6BwtNYlPARHApB9lzcQ,25,3,81,345,25,0.308642,0.308642,4.25926,0.037037,Blue Ox Tavern,Westside,5825 W Sahara Ave,89146,4.5,81,Restaurants;Nightlife;Bars;Lounges;Food;Breakfast & Brunch;Sports Bars;Pubs;Beer;Wine & Spirits;American (Traditional),0,0
+t_xXPh62lfkPc_wgF-Iasg,0,3,43,197,0,0,0,4.5814,0.0697674,Cake Designs,Westside,6985 W Sahara,89117,4.5,43,Bakeries;Food;Custom Cakes,0,0
+Fv4EXwV30rwGD2NzN1ekgA,7,7,245,1084,9,0.0285714,0.0367347,4.42449,0.0285714,Gorilla Sushi,Eastside,1801 E Tropicana Ave,89119,4.5,245,Asian Fusion;Restaurants;Japanese;Sushi Bars,1,1
+b7Y4dIggAacPum1tF3NpKg,36,47,206,707,72,0.174757,0.349515,3.43204,0.228155,"Rosati's",Centennial,8001 N Durango Dr,89143,3.5,206,Pizza;Restaurants,1,6
+jXyy2Vc-Dgp7QguQJSfnXw,18,24,222,878,27,0.0810811,0.121622,3.95495,0.108108,Lazeez,Westside,8560 W Desert Inn Rd,89117,4,223,Mediterranean;Restaurants;Indian;Halal,1,4
+9GRbDT8WCtfImKHMn823-A,0,2,25,105,0,0,0,4.2,0.08,Z Chicken,Southeast,8846 S Eastern Ave,89123,4,25,Restaurants;Food;American (Traditional);Specialty Food,0,0
+MgSd4P3ATkiywbbraFygHg,40,19,198,791,44,0.20202,0.222222,3.99495,0.0959596,"Plantone's Italian Market",Spring Valley,8680 W Warm Springs Rd,89148,4,197,Delis;Pizza;Italian;Restaurants;Sandwiches,1,1
+PSRZaGGxXmOmabL2si8pKw,17,31,220,798,27,0.0772727,0.122727,3.62727,0.140909,"Carrabba's Italian Grill",Westside,8771 W Charleston Blvd,89117,3.5,220,Seafood;Restaurants;Italian,1,2
+Zmfq3DVhHdtVChhSxzoUHw,23,35,431,1701,26,0.0533643,0.0603248,3.94664,0.0812065,Panna Thai Restaurant,Spring Valley,6015 S Fort Apache Rd,89148,4,431,Thai;Restaurants,1,7
+rVi34tu0bITsoxMMT9QhUw,16,27,68,171,26,0.235294,0.382353,2.51471,0.397059,Smoothie King,Centennial,6530 N Buffalo Dr,89131,2.5,68,Juice Bars & Smoothies;Health Markets;Specialty Food;Food,1,3
+N0l-6kdgRXEskiGw3ab05A,14,11,65,208,24,0.215385,0.369231,3.2,0.169231,Johnny Rockets,Southwest,3333 Blue Diamond Rd,89139,3,65,American (Traditional);Burgers;Sandwiches;Fast Food;Restaurants,1,3
+jgtEoeE2uoA27J_UvbE20g,5,3,110,446,6,0.0454545,0.0545455,4.05455,0.0272727,"Uncle Joe's Pizza",Downtown,505 Fremont St,89101,4,110,Restaurants;Pizza,1,4
+YTfXZ9tbTBJkWsDI7cMDWQ,4,4,82,346,4,0.0487805,0.0487805,4.21951,0.0487805,"Liang's Kitchen",,5570 W Flamingo Rd,89103,4,82,Restaurants;Chinese;Taiwanese,1,1
+dPbvWt-6YVxtGkeh7f9JpQ,10,12,123,469,16,0.0813008,0.130081,3.81301,0.097561,Firehouse Subs,Southeast,9555 S Eastern Ave,89123,4,123,Restaurants;Fast Food;Sandwiches;Delis,0,0
+S-egzF2c7bRpCUNbZqV8dg,16,35,495,2045,18,0.0323232,0.0363636,4.13131,0.0707071,Truffles N Bacon Cafe,,8872 S Eastern Ave,89123,4,495,Restaurants;Cafes,0,0
+kosTPb88O4Q0XGbVbEOGCA,4,9,196,812,4,0.0204082,0.0204082,4.14286,0.0459184,Prommares Thai Food,Westside,6362 W Sahara Ave,89146,4,196,Thai;Restaurants,1,9
+w6zW6gIyg1sI5V6Wag_SYg,4,11,298,1356,6,0.0134228,0.0201342,4.55034,0.0369128,Teppan Bento,Southeast,467 E Silverado Ranch,89183,4.5,299,Restaurants;Japanese;Teppanyaki;Asian Fusion,1,1
+zXBrfL_ohYMuBZWvF8EcSA,37,45,314,1133,59,0.117834,0.187898,3.60828,0.143312,Cafe Zupas,,7521 W Lake Mead Blvd,89128,3.5,314,Desserts;Soup;American (New);Sandwiches;Salad;Restaurants;Food,1,10
+UAMTM6LMA2on079oBMFBPQ,52,49,288,1016,57,0.180556,0.197917,3.52778,0.170139,"Lazy Joe's Fish & Chips",Southwest,7835 S Rainbow Blvd,89139,3.5,288,Mediterranean;Gluten-Free;Restaurants;Seafood;Fish & Chips,0,0
+deuHIeaTY8ns_GZAxU5H9g,5,18,179,703,5,0.027933,0.027933,3.92737,0.100559,"Capriotti's Sandwich Shop",Southeast,9620 Las Vegas Blvd,89123,4,179,Restaurants;Sandwiches;Salad;Vegetarian,1,2
+mibbKeg4gbD9O58TCjDWgQ,17,20,56,147,21,0.303571,0.375,2.625,0.357143,"Roberto's Taco Shop",Westside,3399 S Durango Dr,89147,2.5,56,Fast Food;Restaurants;Mexican,1,4
+DO3FefiMYiPYsEl6O8W2dw,10,3,84,362,12,0.119048,0.142857,4.30952,0.0357143,The Las Vegas Grille,Westside,7865 W Sahara Ave,89117,4.5,84,Chicken Wings;Barbeque;Restaurants,0,0
+HsrEbWCg8K06pUhx469uSw,11,4,124,549,11,0.0887097,0.0887097,4.42742,0.0322581,Donut Hut,Eastside,3242 E Desert Inn Rd,89121,4.5,124,Donuts;Food,1,1
+3ZHyw0d8mk0HOEP7v4fW1A,18,15,197,780,19,0.0913706,0.0964467,3.95939,0.0761421,Krung Thai Restaurant,,4130 S Decatur Blvd,89103,4,197,Restaurants;Thai,1,1
+Oqqnw0Rz77sMDPHS_eN2aA,1,9,74,274,1,0.0135135,0.0135135,3.7027,0.121622,"Jersey Mike's Subs",Westside,8780 W Charleston Blvd,89117,3.5,74,Sandwiches;Delis;Fast Food;Restaurants,0,0
+yGCrsq0AYI8WN7goMVLHJA,86,21,208,749,128,0.413462,0.615385,3.60096,0.100962,Yayo Taco,University,4632 S Maryland Pkwy,89119,3.5,208,Vegetarian;Vegan;Mexican;Restaurants,1,5
+4JkGjRRc3XucG9U8XwthGg,6,6,86,358,6,0.0697674,0.0697674,4.16279,0.0697674,China Gourmet,Sunrise,2585 S Nellis Blvd,89121,4,86,Restaurants;Chinese,1,5
+gqcJHVFCPeBRGnDf8bFzMw,6,29,175,614,11,0.0342857,0.0628571,3.50857,0.165714,Outback Steakhouse,The Lakes,8671 W Sahara Ave,89117,3.5,175,Restaurants;Steakhouses,1,1
+YIbsxjyP2jNzoH9RlxaSYA,0,0,8,27,0,0,0,3.375,0,Star Mexican Grill,Spring Valley,10140 W Tropicana Ave,89147,3.5,8,Restaurants;Mexican,0,0
+M990h0-4g-wpJN-qlnqFAg,5,9,45,147,5,0.111111,0.111111,3.26667,0.2,Diamond China Restaurant,Westside,3909 W Sahara Ave,89102,3.5,45,Restaurants;Chinese,1,7
+VeiL_tgw7dsl-7IcnOsh0g,8,6,208,944,8,0.0384615,0.0384615,4.53846,0.0288462,Sushi Hiro,Southeast,9460 S Eastern Ave,89123,4.5,208,Restaurants;Sushi Bars;Japanese,0,0
+mVIU34pAjLCmRpftGPaH1A,0,2,32,127,0,0,0,3.96875,0.0625,"Dee's Donuts",Southwest,8680 W Warm Springs Rd,89148,4,32,Donuts;Food,0,0
+anQ0TggcB6f4yO4csQ44oA,8,9,84,340,8,0.0952381,0.0952381,4.04762,0.107143,Elevated Juice,Centennial,7703 N El Capitan Way,89143,4,83,Juice Bars & Smoothies;Sandwiches;Acai Bowls;Food;Coffee & Tea;Restaurants,1,1
+LZSyWy4IHgXg6QhW2jrBlw,8,27,125,371,9,0.064,0.072,2.968,0.216,"Romano's Macaroni Grill",,2400 W Sahara Ave,89102,3,125,Restaurants;Wine Bars;Italian;Nightlife;Bars,1,10
+lF4pEu4_55SSFEo6Q58ftQ,7,2,161,708,7,0.0434783,0.0434783,4.39752,0.0124224,German Bread Bakery,Summerlin,2237 N Rampart Blvd,89134,4.5,161,Bakeries;Restaurants;German;Pretzels;Food;Desserts,0,0
+suQugTjSMYMIrK5fAabC_Q,38,13,105,361,91,0.361905,0.866667,3.4381,0.12381,"Roberto's Taco Shop",University,1220 E Harmon Ave,89119,3.5,105,Restaurants;Fast Food;Mexican,1,6
+eRQwgSQD1KyCmJk_PAGOXQ,11,10,159,646,14,0.0691824,0.0880503,4.06289,0.0628931,Thai Cuisine,Sunrise,601 N Nellis Blvd,89110,4,160,Chinese;Restaurants;Thai,1,5
+qRymrsLmlA34bC8PvNoujg,22,31,461,1908,22,0.0477223,0.0477223,4.13883,0.0672451,Market Grille Cafe,Centennial,7070 N Durango Dr,89149,4,461,Caterers;Greek;Event Planning & Services;Restaurants;Mediterranean;Italian,1,1
+B3omTXI--0eiBC7nCv_WXg,54,19,154,587,55,0.350649,0.357143,3.81169,0.123377,Farm Basket,Westside,6148 W Charleston Blvd,89146,4,152,American (New);Fast Food;Restaurants,1,5
+jG0m1-899xwYY3IXpTRRCQ,14,3,173,757,38,0.0809249,0.219653,4.37572,0.017341,Baja Bar & Grill,University,4755 S Maryland Pkwy,89119,4.5,173,Mexican;Restaurants,1,3
+4VXIS8vpNzEysXZVN5xGDA,7,5,55,227,11,0.127273,0.2,4.12727,0.0909091,Las Americas,Downtown,2319 S Eastern Ave,89104,4,55,Restaurants;Peruvian,1,11
+DJXZrIi4k1Iyd1mQRwxIMg,1,9,69,235,1,0.0144928,0.0144928,3.4058,0.130435,Gyro Time,Southeast,5715 S Eastern Ave,89119,3.5,69,Greek;Restaurants,0,0
+ALp--wAIVL4qQfCANn3ffw,8,8,127,526,8,0.0629921,0.0629921,4.14173,0.0629921,Hunt & Gather Cafe,Centennial,7240 W Azure Dr,89130,4,127,Food;Cafes;Pizza;Coffee & Tea;Restaurants,1,1
+IVnGPHdTyu_GbLo9mXj98w,14,8,395,1727,16,0.035443,0.0405063,4.37215,0.0202532,Ramen Tatsu,Chinatown,3400 S Jones Blvd,89146,4.5,395,Japanese;Restaurants;Ramen,1,1
+1bALsE6aZE23mGV2WPxN_g,0,8,119,477,0,0,0,4.0084,0.0672269,"Capriotti's Sandwich Shop",,4983 W Flamingo Rd,89103,4,119,Restaurants;Sandwiches,0,0
+pCVQq3jzfrT2CNHAIMMy0g,24,18,49,125,66,0.489796,1.34694,2.55102,0.367347,Fatburger,Northwest,4525 N Rancho Dr,89130,2.5,49,Restaurants;Fast Food;American (Traditional);Burgers,1,4
+bQ_wtZvMb__OhprY5bF9aQ,91,31,388,1539,94,0.234536,0.242268,3.96649,0.0798969,Crab Corner,Eastside,4161 S Eastern Ave,89118,4,388,Nightlife;Restaurants;Sports Bars;Seafood;Bars,1,2
+SRCepG6PbMvwKcfIUjk8bQ,3,15,153,592,3,0.0196078,0.0196078,3.86928,0.0980392,Cilantro Tacos,,2300 N Rainbow Blvd,89108,4,153,Pizza;Mexican;Restaurants,0,0
+-JFVxwdVQfX207554dx1nw,4,20,122,423,4,0.0327869,0.0327869,3.46721,0.163934,Teriyaki Madness,Southeast,9845 S Maryland Pkwy,89183,3.5,122,Japanese;Asian Fusion;Restaurants;Hawaiian,1,4
+Y9oYrGHiMyRIRaudSWomzg,2,12,65,214,2,0.0307692,0.0307692,3.29231,0.184615,Teriyaki Madness,Centennial,6171 N Decatur Blvd,89130,3.5,65,Asian Fusion;Japanese;Hawaiian;Restaurants,1,2
+NrgzXR0gycLMw1APhiA-wQ,8,8,163,724,8,0.0490798,0.0490798,4.44172,0.0490798,Clark County Shooting Complex,,11357 N Decatur Blvd,89131,4.5,163,Active Life;Gun/Rifle Ranges;Archery,0,0
+B1X-D4mRW3VjNUUolPDItA,13,33,174,598,19,0.0747126,0.109195,3.43678,0.189655,Mr Beijing,Eastside,730 E Flamingo Rd,89119,3.5,173,Restaurants;Barbeque;Chinese;Vegetarian,1,18
+Gt4z3AylNTsEPDkzkaC7HA,132,148,812,2654,196,0.162562,0.241379,3.26847,0.182266,Stacks & Yolks,Spring Valley,7150 S Durango Dr,89113,3.5,813,Sandwiches;Breakfast & Brunch;Burgers;American (Traditional);Restaurants;Food;Pretzels,1,18
+yYwTV3c9Q3S1UDdpDhjgTg,8,21,104,346,25,0.0769231,0.240385,3.32692,0.201923,Cold Stone Creamery,Westside,9350 W Sahara Ave,89117,3.5,104,Desserts;Food;Cupcakes;Ice Cream & Frozen Yogurt;Custom Cakes,1,2
+3Qe4M3JNs7yIRXP13g-NYA,0,5,78,331,0,0,0,4.24359,0.0641026,No Regrets Bar,Spring Valley,8349 W Sunset Rd,89113,4,78,Restaurants;Breakfast & Brunch;Sports Bars;Cocktail Bars;Bars;Nightlife,0,0
+iPM8BXV6vEVEci8ttsOObQ,71,58,343,1103,80,0.206997,0.233236,3.21574,0.169096,Jenni Pho,Southwest,7855 S Rainbow Blvd,89139,3,343,Restaurants;Vietnamese,1,3
+iWox6NQVA76eH61toMhxfA,5,16,94,291,6,0.0531915,0.0638298,3.09574,0.170213,Spicy Pickle,Southeast,7271 Amigo St,89119,3,94,Sandwiches;Pizza;Restaurants;American (New),0,0
+NfM1YE-FJCToO1LB36T6lQ,44,21,158,550,47,0.278481,0.297468,3.48101,0.132911,"Jason's Deli",Spring Valley,7305 Arroyo Crossing Pkwy,89113,3.5,158,Restaurants;Sandwiches;Delis;Salad,0,0
+HsEStDB_LB6x0LuXQ6LP4A,9,19,219,921,9,0.0410959,0.0410959,4.20548,0.086758,"Khoury's Mediterranean Restaurant",Westside,9340 W Sahara Ave,89117,4,220,Greek;Lebanese;Mediterranean;Restaurants;Middle Eastern;Sandwiches,1,2
+Se-co1eXBho5A4YwMfKMIQ,15,14,206,845,15,0.0728155,0.0728155,4.10194,0.0679612,Griddlecakes,Spring Valley,6085 S Fort Apache,89148,4,206,Breakfast & Brunch;Salad;Restaurants;Sandwiches,1,1
+tpCALADHTuBaCJNgAluj2w,7,19,58,170,8,0.12069,0.137931,2.93103,0.327586,"Roberto's Taco Shop",Southeast,6883 S Eastern Ave,89119,3,58,Mexican;Restaurants,1,1
+P9srGF_edclaYfYZjy_kgg,0,2,52,242,0,0,0,4.65385,0.0384615,Andale Fresh Food,Southeast,2185 E Windmill Ln,89123,4.5,52,Latin American;Salvadoran;Breakfast & Brunch;Restaurants;Mexican,0,0
+x2Y_MD5pCTRyaf9dD_ZpGw,0,3,13,41,0,0,0,3.15385,0.230769,Teriyaki Madness,Eastside,4503 Paradise Rd,89169,3,13,Japanese;Restaurants;Hawaiian;Asian Fusion,0,0
+FclR3tCyp3wPCZoxHXn_jQ,0,1,21,87,0,0,0,4.14286,0.047619,"Papa Geo's",Spring Valley,5597 S Rainbow Blvd,89118,4,21,Restaurants;Italian,0,0
+Q-dVQgyof9paXKJLwFsn3Q,5,24,61,144,7,0.0819672,0.114754,2.36066,0.393443,"Dunkin' Donuts",Northwest,5861 W Craig Rd,89130,2.5,61,Donuts;Food;Coffee & Tea,1,3
+SUd3IyEN7n5OYEGyt_U5lg,4,12,362,1699,5,0.0110497,0.0138122,4.69337,0.0331492,"Jefe's Taco Shop",Northwest,5700 Sky Pointe Dr,89130,4.5,363,Fast Food;Restaurants;Breakfast & Brunch;Mexican,0,0
+5FFZ8_mhlf4O8g84cjl9og,0,1,9,21,0,0,0,2.33333,0.111111,Aloha A Go Go,Southwest,10670 Southern Highlands Pkwy,89141,2.5,9,Restaurants;Hawaiian,1,2
+Ql_J2DSIE8QYp5rXf3721A,0,5,36,133,0,0,0,3.69444,0.138889,Cafe Chloe,Spring Valley,4155 S Buffalo Dr,89147,3.5,36,Restaurants;Italian,1,3
+atVh8viqTj-sqDJ35tAYVg,42,49,269,940,71,0.156134,0.263941,3.49442,0.182156,Beach Cafe,Southwest,7750 S Jones Blvd,89139,3.5,269,Restaurants;Breakfast & Brunch;Burgers;Diners,1,3
+Thx8WO-qqYJmEKssu4g9SA,29,13,152,558,48,0.190789,0.315789,3.67105,0.0855263,Sushi On Rainbow,Chinatown,6870 Spring Mountain Rd,89146,3.5,152,Japanese;Buffets;Sushi Bars;Restaurants,1,5
+0QSnurP5Ibor2zepJmEIlw,11,13,141,541,12,0.0780142,0.0851064,3.83688,0.0921986,Tacos La Mexicana,Spring Valley,3555 S Durango Dr,89147,4,141,Food;Food Delivery Services;Restaurants;Mexican,1,5
+EdY6q0CO2mlATpoTFkvHAw,21,31,269,1022,24,0.0780669,0.0892193,3.79926,0.115242,Dim Sum Cafe,South Summerlin,3700 S Hualapai Way,89147,4,269,Chinese;Dim Sum;Cafes;Restaurants,0,0
+ujBk7cdEvo5FkD1e0Gzq1Q,10,15,52,138,14,0.192308,0.269231,2.65385,0.288462,Dragon Wok,Northwest,3350 Novat St,89129,2.5,52,Chinese;Restaurants,1,6
+ezuzSOrWu3KhFKTtVAMWlQ,0,0,19,88,0,0,0,4.63158,0,"Bentley's Coffee",Downtown,1501 W Charleston Blvd,89102,4.5,19,Coffee & Tea;Food,1,3
+VmSrPPO2WXmOKjUW7pDGsQ,55,29,133,427,83,0.413534,0.62406,3.21053,0.218045,"Mega Tom's Burgers",,2893 W Lake Mead Blvd,89106,3,133,Breakfast & Brunch;Diners;Burgers;Restaurants,1,6
+nRNWaEuPtfcyR8pI-LnASA,0,0,5,16,0,0,0,3.2,0,Italia Express,Downtown,755 S Grand Central Pkwy,89106,3,5,Italian;Restaurants,1,5
+lF3klLu44Jaq3UqO9a50Pg,2,12,107,446,2,0.0186916,0.0186916,4.16822,0.11215,Mariscos El Puerto,,1901 N Decatur Blvd,89108,4,107,Mexican;Food;Seafood;Restaurants;Specialty Food;Seafood Markets,1,2
+YYE0C8FeDpB6zqB0kSEh7w,43,30,237,882,51,0.181435,0.21519,3.72152,0.126582,Chile Addiction,Spring Valley,4235 S Fort Apache Rd,89147,3.5,237,Restaurants;Mexican;New Mexican Cuisine,0,0
+UANNbspNsQEFUay5nALZYw,3,13,47,146,3,0.0638298,0.0638298,3.10638,0.276596,"Roberto's Taco Shop",Southeast,6475 S Pecos Rd,89120,3,47,Mexican;Restaurants;Fast Food,1,2
+sZsJooAzpKqOvDysphkqpQ,8,27,278,1092,8,0.028777,0.028777,3.92806,0.0971223,Pop Up Pizza,Downtown,1 S Main St,89101,4,278,Vegan;Restaurants;Pizza,1,4
+Lo-lpCxoP1_T3cvTpp4ZCw,0,1,125,573,0,0,0,4.584,0.008,Tenaya Creek Brewery,,831 W Bonanza Rd,89106,4.5,125,Breweries;Nightlife;Food;Beer Gardens,0,0
+LXt2Aycp2ILMWQmKsjl4Wg,9,8,87,354,11,0.103448,0.126437,4.06897,0.091954,Firehouse Subs,South Summerlin,9921 W Charleston Blvd,89117,4,87,Sandwiches;Restaurants;Fast Food;Delis,0,0
+q_CpNXiPQbd6Iq0bnldhng,2,3,37,137,2,0.0540541,0.0540541,3.7027,0.0810811,Aloha A Go Go,Sunrise,5841 E Charleston Blvd,89142,3.5,37,Restaurants;Japanese;Hawaiian,1,2
+nGjqCFbLPeBJe55Mx-nIEw,3,2,39,170,3,0.0769231,0.0769231,4.35897,0.0512821,Tacos Los Toritos,Sunrise,861 N Nellis Blvd,89110,4.5,39,Mexican;Restaurants,1,13
+jozzH4XCEM9yQFjLAc3_zA,31,3,149,667,31,0.208054,0.208054,4.47651,0.0201342,Rocket Fizz,Westside,9410 W Sahara,89117,4.5,149,Specialty Food;Candy Stores;Food,0,0
+0dr1FgqQSEMbaTu9SDqiIg,17,21,149,549,20,0.114094,0.134228,3.68456,0.14094,China A Go Go,,2101 N Rainbow Blvd,89108,3.5,148,Chinese;Restaurants,1,7
+IBSePQdC8MwoWdMmoyegnw,0,7,24,73,0,0,0,3.04167,0.291667,Five Star Tavern,,2425 N Rainbow Blvd,89108,3,24,Bars;Arts & Entertainment;Restaurants;American (Traditional);Beer;Wine & Spirits;Nightlife;Food;Sports Bars;Casinos,1,2
+RUJfBZJuYEGgKYRW6mIzCQ,0,1,17,64,0,0,0,3.76471,0.0588235,"Jimmy John's Gourmet Sandwiches",Westside,2530 S Decatur Blvd,89102,4,17,Sandwiches;Restaurants,1,1
+eFNWxUVO3IhgUnWRbNKfsQ,1,2,11,36,2,0.0909091,0.181818,3.27273,0.181818,Surf City Squeeze,Westside,4300 Meadows Ln,89107,3.5,11,Food;Juice Bars & Smoothies,1,2
+wwgH65yjLssksjz8ASU3QA,12,11,72,221,36,0.166667,0.5,3.06944,0.152778,Chipotle Mexican Grill,Westside,2540 S Decatur Blvd,89102,3,72,Fast Food;Restaurants;Tex-Mex;Mexican,1,2
+1i9T1uoG_J3aRfprALvNGQ,7,25,86,240,11,0.0813954,0.127907,2.7907,0.290698,"Dunkin' Donuts",Summerlin,11710 W Charleston Blvd,89135,3,86,Coffee & Tea;Food;Donuts,1,2
+h-SX2dxluF4oM_Zxp7eK4Q,0,1,16,65,0,0,0,4.0625,0.0625,Potato Corner,Westside,4300 Meadows Ln,89107,4,16,American (New);Specialty Food;Restaurants;Chicken Wings;Fast Food;Food,1,2
+mlOFd0pHDcav5hcnbKJiXQ,1,0,62,274,1,0.016129,0.016129,4.41935,0,Kuben,Spring Valley,5025 S Fort Apache Rd,89148,4.5,62,Restaurants;Breakfast & Brunch;Japanese;Asian Fusion,0,0
+9gXhs9peDtrjWGdUlytYog,61,15,37,88,69,1.64865,1.86486,2.37838,0.405405,Quickee Burgers,Northwest,4371 N Rancho Dr,89130,2.5,37,Burgers;Food;Local Flavor;Restaurants,1,1
+ai8nfTBNvL579cjIuqZajQ,19,26,147,539,23,0.129252,0.156463,3.66667,0.176871,Manhattan Pizza,Westside,8550 W Charleston Blvd,89117,3.5,147,Pizza;Restaurants;Salad;Sandwiches;Desserts;Food,1,1
+bcJmbFHVAkLFqhJbUTdbyQ,4,8,312,1297,4,0.0128205,0.0128205,4.15705,0.025641,Crown Bakery,Chinatown,4355 Spring Mountain Rd,89102,4,312,Bakeries;Coffee & Tea;Desserts;Food,1,7
+F0lI9okn4pzmN_iq5UqF7w,23,34,273,998,23,0.0842491,0.0842491,3.65568,0.124542,Pieology Pizzeria,South Summerlin,10965 Lavender Hills Dr,89135,3.5,273,Restaurants;Pizza;Gluten-Free,1,1
+4L3VJwVqUareUUIGPE2zcw,17,20,95,327,21,0.178947,0.221053,3.44211,0.210526,Shalimar Restaurant,,4001 S Decatur Blvd,89103,3.5,95,Indian;Pakistani;Vegetarian;Restaurants,1,4
+ZxR9HNk0b7ZIq8kMiDEIDw,14,16,167,564,14,0.0838323,0.0838323,3.37725,0.0958084,Hard Rock Cafe,Eastside,4475 Paradise Rd,89109,3.5,167,Music Venues;Burgers;Nightlife;American (Traditional);Arts & Entertainment;Restaurants;American (New),1,1
+Bhj4G0ArZqRvz9DprbNX3A,28,23,294,1304,28,0.0952381,0.0952381,4.43537,0.0782313,Layla Grill & Hookah,Spring Valley,8665 W Flamingo Rd,89147,4.5,294,Ethnic Food;Specialty Food;Hookah Bars;Bars;Mediterranean;Restaurants;Lounges;Nightlife;Food,1,3
+ufmokEGxGqEWIdvIVsNg_Q,0,4,167,787,0,0,0,4.71257,0.0239521,Aria Mediterranean Restaurant,Westside,230 S Rainbow Blvd,89145,4.5,166,Middle Eastern;Persian/Iranian;Mediterranean;Vegetarian;Restaurants,1,1
+wZJOlSwUZcVQuLt9sZeV2A,1,4,119,502,2,0.00840336,0.0168067,4.21849,0.0336134,The Cuppa,Spring Valley,9275 W Russell Rd,89148,4,119,Coffee & Tea;Food;Juice Bars & Smoothies;Restaurants;Sandwiches;Bakeries,0,0
+yBxzqKXHhvNVaFnEOd4f7Q,14,5,84,342,18,0.166667,0.214286,4.07143,0.0595238,Great Wall Chinese Restaurant,Downtown,2202 W Charleston Blvd,89102,4,84,Chinese;Restaurants,1,4
+SwlY-14bP08sG248yfoBgQ,6,3,19,73,6,0.315789,0.315789,3.84211,0.157895,Dona Norma Restaurant,Downtown,1122 S Maryland Pkwy,89104,4,19,Restaurants;Latin American,1,2
+VNOz_tOw_Hz3FAJeEHb_yg,0,4,20,62,0,0,0,3.1,0.2,Pyaar India Restaurant,Westside,9350 W Sahara Ave,89117,3,20,Indian;Restaurants,1,2
+0FHfkDxKSeDuyAEeaY6X-Q,4,15,87,305,4,0.045977,0.045977,3.50575,0.172414,Panera Bread,Eastside,365 Hughes Center Dr,89169,3.5,87,Soup;Sandwiches;Salad;Restaurants,1,2
+Qor28v4BlhSwtN8DSvah9g,21,34,154,507,22,0.136364,0.142857,3.29221,0.220779,"Pepe's Tacos",,1401 N Decatur Blvd,89108,3.5,154,Restaurants;Mexican,1,8
+rx1AEnleVRWMNz6vB-YhfQ,14,23,98,331,17,0.142857,0.173469,3.37755,0.234694,China One,Westside,921 S Rainbow Blvd,89145,3.5,98,Restaurants;Chinese,1,7
+eRjcli4nDHRwhByViUz9Ow,19,33,125,372,50,0.152,0.4,2.976,0.264,"Rosati's Pizza",Summerlin,10030 W Cheyenne Ave,89129,3,124,Restaurants;Pizza;Italian;Sandwiches,1,4
+SuRxV4YkPsvyyqK57On0rQ,88,27,218,821,116,0.40367,0.53211,3.76606,0.123853,Pura Vida Bakery & Bystro,Downtown,1236 Western Ave,89102,4,218,Food;Vegan;Caribbean;Restaurants;Bakeries,1,1
+9qcTpWYxrZrN13p1zAP6dA,6,21,221,824,6,0.0271493,0.0271493,3.72851,0.0950226,Ping Pong Thai Restaurant,Southeast,2955 E Sunset Rd,89120,3.5,222,Vegetarian;Vegan;Thai;Restaurants,1,8
+PJ-VbAtIOso1dqd2frQqqg,0,1,75,330,0,0,0,4.4,0.0133333,Donut Tyme,Sunrise,4268 E Charleston Blvd,89104,4.5,76,Donuts;Food,1,3
+77AfVfvvjfQXslusY8QElg,0,7,28,92,0,0,0,3.28571,0.25,La Jolla,Eastside,2245 E Flamingo Rd,89119,3.5,28,Event Planning & Services;Restaurants;Nightlife;Dance Clubs;Bars;American (Traditional);Sports Bars;Hookah Bars,1,1
+nTc-Qj_-ABZrpM9YSpJ6jA,7,24,109,306,7,0.0642202,0.0642202,2.80734,0.220183,Chow King,Eastside,3890 S Maryland Pkwy,89119,3,109,Restaurants;Fast Food;Chinese;Cantonese;Filipino;Asian Fusion,1,3
+-ADtl9bLp8wNqYX1k3KuxA,5,8,165,684,5,0.030303,0.030303,4.14545,0.0484848,Ichi Ramen House,Centennial,7920 W Tropical Pkwy,89149,4,165,Restaurants;Sushi Bars;Ramen;Asian Fusion;Japanese,0,0
+7xLWtcBooa2op1-wIOtWdQ,23,0,44,197,35,0.522727,0.795455,4.47727,0,Taqueria El Pastorcito,Downtown,1655 E Charleston Blvd,89104,4.5,44,Street Vendors;Food;Food Trucks,1,3
+IsLsucY9T2RKWekUzDYiWg,0,1,4,16,0,0,0,4,0.25,"Mother's Wings & Things",Eastside,3333 S Maryland Pkwy,89169,4,4,Restaurants;Desserts;Soul Food;Food,1,1
+fzpnaYOqBDjKnnAgFcgR8A,1,3,41,171,2,0.0243902,0.0487805,4.17073,0.0731707,Torrey Pines Pub,,6374 W Lake Mead Blvd,89108,4,41,Nightlife;Restaurants;American (Traditional);Bars,0,0
+eHXUyMf64ynMzHaf0LdGgg,0,5,136,612,0,0,0,4.5,0.0367647,Tups Specialty Sandwiches,Southeast,2381 E Windmill Ln,89123,4.5,136,Restaurants;Delis;American (Traditional);Sandwiches,0,0
+XjsCGzq5P1pCiAHotA9HCw,1,1,12,45,2,0.0833333,0.166667,3.75,0.0833333,Round Table Pizza,,8878 S Eastern Ave,89123,4,12,Restaurants;Pizza,1,3
+ZtdCS8XjmL4P6BvMOIQWag,1,2,33,118,1,0.030303,0.030303,3.57576,0.0606061,"Zaba's Mexican Grill",Summerlin,2120 N Rampart Blvd,89128,3.5,33,Mexican;Restaurants,1,1
+H2Chxto2e6dHTDJ8-s3-pQ,15,14,54,166,16,0.277778,0.296296,3.07407,0.259259,"Roberto's Taco Shop",Eastside,2685 S Eastern Ave,89169,3,54,Mexican;Restaurants;Fast Food,1,8
+w0ArxcJ0XsyK1ZwrIf3gpA,6,11,78,317,12,0.0769231,0.153846,4.0641,0.141026,Four Sevens Sports Bar & Restaurant,Westside,7777 W Sahara Ave,89117,4,78,Chinese;Restaurants;Bars;Sports Bars;Nightlife,1,3
+3MLNXh5KrJmh2FDRXeipmg,0,1,29,122,0,0,0,4.2069,0.0344828,Godiva Chocolatier,Southeast,6711 S Las Vegas Blvd,89101,4,29,Food;Specialty Food;Chocolatiers & Shops,1,1
+9WeJvvyT-j3btKwvTXyzjw,1,8,12,23,1,0.0833333,0.0833333,1.91667,0.666667,"Dotty's #7",Westside,2101 S Decatur Blvd,89102,2,12,Casinos;Bars;Restaurants;Nightlife;Arts & Entertainment,0,0
+3iQ4H1WRqg1EvSZSRLeb-A,2,1,56,253,2,0.0357143,0.0357143,4.51786,0.0178571,Classic Jewel,Downtown,353 E Bonneville Ave,89101,4.5,56,Pubs;Cocktail Bars;Arts & Entertainment;Nightlife;Bars;Music Venues,1,2
+jovBGZAYjGRusbKPnePufA,2,7,96,378,2,0.0208333,0.0208333,3.9375,0.0729167,Brown Rice Thai Kitchen,Summerlin,1910 Village Center Cir,89134,4,96,Restaurants;Thai,1,2
+P4Plzlfm4uJjNmH3wY4W1Q,15,10,69,224,17,0.217391,0.246377,3.24638,0.144928,Chicago Dogs,,1078 N Rancho Dr,89106,3,69,Fast Food;Burgers;Restaurants;Hot Dogs,1,3
+dFmaYj3_cZpmEaL4WSOkPg,4,29,67,187,4,0.0597015,0.0597015,2.79104,0.432836,Sorrento Pizza,,860 N Rainbow Blvd,89107,3,67,Restaurants;Pizza;Halal;Salad,1,6
+o1Pjim5n8xJjjAE_v4RiHA,19,33,85,209,23,0.223529,0.270588,2.45882,0.388235,"Moe's Southwest Grill",South Summerlin,10965 Lavender Hill Dr,89135,2.5,85,Tex-Mex;Mexican;Restaurants,0,0
+0QHOkwMc74T35Br83SDizA,0,2,30,108,0,0,0,3.6,0.0666667,"Sugar's",South Summerlin,3700 S Hualapai Way,89147,3.5,30,Bakeries;Food,0,0
+7_n9hWnaWKRCUOLNPlBLwA,25,25,114,394,30,0.219298,0.263158,3.45614,0.219298,Caked Las Vegas,Southeast,9770 S Maryland Pkwy,89123,3.5,114,Desserts;Food;Bakeries,0,0
+32JWhoH-Kiu1wRFTvHvW9Q,1,0,105,502,1,0.00952381,0.00952381,4.78095,0,Pie Me Over,Spring Valley,6070 S Rainbow Blvd,89118,5,105,Do-It-Yourself Food;Restaurants;Food;Desserts;American (Traditional);Bakeries,0,0
+f4vb5tv60WaBcwzRhKpANA,1,3,100,445,1,0.01,0.01,4.45,0.03,"Nanny's",Summerlin,8453 W Lake Mead Blvd,89128,4.5,100,Restaurants;Breakfast & Brunch;French;Sandwiches,0,0
+gJm6XxUQ7uHlrh8Y8fRiuw,7,16,167,631,8,0.0419162,0.0479042,3.77844,0.0958084,Kabob Korner,Downtown,507 E Fremont St,89101,4,168,Mediterranean;Indian;Pakistani;Halal;Restaurants;Greek,1,2
+opwxvFwYTppE0JgfM4FBlw,2,9,36,108,2,0.0555556,0.0555556,3,0.25,Pumi Express,Spring Valley,6565 S Fort Apache Rd,89148,3,36,Chinese;Restaurants,1,2
+oyh1CYVHDiAyDtF-ug8y3w,10,34,212,778,10,0.0471698,0.0471698,3.66981,0.160377,Pineapple Park,Southwest,10550 Southern Highlands Pkwy,89141,3.5,212,Coffee & Tea;Juice Bars & Smoothies;Restaurants;Ice Cream & Frozen Yogurt;Desserts;Creperies;Food,0,0
+zd4UKCoCc6P1305dummwyQ,9,10,42,122,9,0.214286,0.214286,2.90476,0.238095,Indian Curry Bowl,Northwest,5643 Centennial Center Blvd,89149,3,42,Indian;Restaurants,0,0
+DX690eOaqO7CK2Qr6__rMQ,0,0,5,23,0,0,0,4.6,0,El Triunfo Restaurant,Sunrise,4450 E Charleston Blvd,89104,4.5,5,Mexican;Restaurants,1,7
+pRlO48w4GkWEPEYIH2tHsw,1,6,65,208,1,0.0153846,0.0153846,3.2,0.0923077,"Mimi's Cafe",Spring Valley,7315 Arroyo Crossing Pkwy,89113,3,65,Breakfast & Brunch;Restaurants;French;American (Traditional),0,0
+uiHyP1uOAzOPkOmnWhnW0A,1,21,96,299,1,0.0104167,0.0104167,3.11458,0.21875,"Roberto's Taco Shop",Southwest,4690 W Cactus Ave,89141,3,97,Restaurants;Fast Food;Mexican,1,1
+J1RKcr6BAqOI-LDFbn0TvQ,3,10,13,17,3,0.230769,0.230769,1.30769,0.769231,Subway,Southeast,5757 Wayne Newton Blvd,89119,1.5,13,Sandwiches;Restaurants;Fast Food,1,2
+Ap3WBptFjcI45cViBtkByw,0,0,3,15,0,0,0,5,0,As You Wish Catering,Westside,5950 W Charleston Blvd,89146,5,3,Event Planning & Services;Caterers,0,0
+8pLlsYgvrC5SJL1Con8FYw,2,6,27,90,8,0.0740741,0.296296,3.33333,0.222222,Baja California Restaurant & Cantina,Westside,1050 S Rampart Blvd,89145,3.5,27,Mexican;Restaurants,0,0
+f5sSn5cO4t6mF_mdnzKkyA,11,12,28,67,18,0.392857,0.642857,2.39286,0.428571,Baja Fresh,Northwest,4343 N Rancho Dr,89130,2.5,29,Fast Food;Mexican;Restaurants;Tex-Mex,1,8
+prmB45ETnpuTwc-p_ztAVA,0,0,16,74,0,0,0,4.625,0,Woods Family Sandwiches,Eastside,3318 E Flamingo Rd,89121,4.5,16,Sandwiches;Restaurants;Food;Bagels;Wraps,0,0
+9xtiK1Uxc2Q76dwm6ffpmg,2,4,18,66,2,0.111111,0.111111,3.66667,0.222222,Cafe Gelato,Eastside,3480 S Maryland Pkwy,89169,3.5,18,Gelato;Food;Desserts;Coffee & Tea,0,0
+m51uL1LZhKYf2y_yG4NEng,129,72,292,964,337,0.441781,1.15411,3.30137,0.246575,Pho 87,Chinatown,3620 S Jones Blvd,89103,3.5,292,Restaurants;Vietnamese,1,14
+CR2DMfg3uP02PKT_fuygIw,4,20,119,434,4,0.0336134,0.0336134,3.64706,0.168067,"Lefty's Pizza",Southeast,780 E Pyle Ave,89183,3.5,119,Chicken Wings;Restaurants;Italian;Pizza,1,6
+iw1WJt3wl6-NquZGKVamLw,2,3,99,420,2,0.020202,0.020202,4.24242,0.030303,Desi Burrito,Eastside,670 E Flamingo Rd,89119,4,99,Restaurants;Bars;Nightlife;Drive-Thru Bars;Fast Food;Indian,1,4
+IcnJlauqhHfelo_qp9uKuw,6,4,38,146,6,0.157895,0.157895,3.84211,0.105263,China Roll,,3310 S Nellis Blvd,89121,4,38,Chinese;Restaurants,1,5
+Bh3duLU3aASnt2TZ97TJnQ,0,2,43,199,0,0,0,4.62791,0.0465116,Chess House Cafe,,6430 W Lake Mead,89108,4.5,43,Restaurants;Food;Cafes;Coffee & Tea,0,0
+KhvwEXKJXRTgcJRNmJNhsA,16,21,132,476,19,0.121212,0.143939,3.60606,0.159091,China Wan Wan,Southeast,6510 Boulder Hwy,89122,3.5,132,Chinese;Fast Food;Food;Restaurants;Seafood,1,2
+IRH3mIW2q6J2CR5EoCQ5iA,0,0,8,30,0,0,0,3.75,0,U & Me Cafe,Chinatown,3466 S Decatur Blvd,89102,4,8,Chinese;Restaurants,1,2
+5iHctUjkQTGwEvOaBkwMRQ,2,6,68,276,2,0.0294118,0.0294118,4.05882,0.0882353,Espression Cafe,Downtown,321 S Casino Center Blvd,89101,4,68,American (Traditional);American (New);Coffee & Tea;Restaurants;Gelato;Food;Breakfast & Brunch;Fast Food;Burgers;Internet Cafes;Cafes,1,3
+bpHeCdmCRFAUZqXT2TMdig,0,11,60,211,0,0,0,3.51667,0.183333,El Sombrero Cafe,Downtown,807 S Main St,89101,3.5,59,Restaurants;Nightlife;Bars;Mexican,0,0
+AYe8rS3qBPuLHSwNOZSbcA,16,51,229,704,24,0.069869,0.104803,3.07424,0.222707,Sushi Loca,South Summerlin,10965 Lavender Hill Dr,89135,3,229,Food;Sushi Bars;Restaurants,1,4
+8zh9Uts1H32Cqfbar44TLw,1,2,46,189,1,0.0217391,0.0217391,4.1087,0.0434783,El Birotazo,Sunrise,4262 E Charleston Blvd,89104,4,45,Restaurants;Mexican,1,4
+07jQarxKd_8J_AJHD5YBqQ,12,14,100,351,23,0.12,0.23,3.51,0.14,Muscle Maker Grill - Las Vegas,Northwest,5765 Centennial Center Blvd,89149,3.5,100,Food;American (New);Gluten-Free;Cafes;Restaurants;American (Traditional);Sandwiches;Salad;Juice Bars & Smoothies;Health & Medical;Weight Loss Centers,0,0
+1M1A-s6BbnzK3eURw01rZQ,0,13,59,201,0,0,0,3.40678,0.220339,Rincon Catracho,University,4110 S Maryland Pkwy,89119,3.5,59,Restaurants;Mexican;Latin American;Honduran,1,9
+IEJFia0wQX7UezfXsenI5g,10,16,64,174,13,0.15625,0.203125,2.71875,0.25,Grill City,Eastside,3890 S Maryland Pkwy,89119,2.5,64,Restaurants;Barbeque;Seafood;Filipino,1,2
+G8LBVca1vOBKYeMCMpajGA,9,8,62,220,15,0.145161,0.241935,3.54839,0.129032,"Felipito's Mexican Food",,5095 S Decatur Blvd,89118,3.5,62,Mexican;Restaurants,1,8
+3rkxTx8DoZSl7_FryhXCVQ,24,4,34,124,50,0.705882,1.47059,3.64706,0.117647,Jugoo Chinese Restaurant,University,4747 S Maryland Pkwy,89119,3.5,34,Chinese;Restaurants,1,6
+XdhJ7PjfMjBmZwvKikWlkA,1,9,49,172,1,0.0204082,0.0204082,3.5102,0.183673,"Seattle Dan's Pizza",Westside,8465 W Sahara Ave,89117,3.5,49,Pizza;Restaurants,0,0
+JbopSXzZIy7id23GJsO9pA,21,47,166,423,21,0.126506,0.126506,2.54819,0.283133,Jollibee,Westside,9430 W Sahara Ave,89117,2.5,166,Filipino;Fast Food;Restaurants,1,6
+7xEgy2btCKLdTe1vD14ABw,5,14,49,141,6,0.102041,0.122449,2.87755,0.285714,Johnny Rockets,The Strip,3377 S Las Vegas Blvd,89109,3,49,American (Traditional);Burgers;Diners;Sandwiches;Restaurants,1,1
+GdE5ZF7XMDyjwBVB_5qszA,4,2,28,109,5,0.142857,0.178571,3.89286,0.0714286,"Northside Nathan's",Spring Valley,9320 W Flamingo Rd,89147,4,28,Pizza;Restaurants,0,0
+9f68hfHK6gNyHWmt9guiJw,1,4,44,176,1,0.0227273,0.0227273,4,0.0909091,Mariscos Vallarta,Eastside,4425 E Tropicana Ave,89121,4,44,Seafood;Mexican;Specialty Food;Restaurants;Seafood Markets;Food,1,6
+kCjvO_BZ2_KohSR5eJl2GA,4,2,8,31,4,0.5,0.5,3.875,0.25,"Cozy's Tavern",,4680 S Decatur Blvd,89103,4,8,Sports Bars;Bars;Nightlife,0,0
+hxvrzLFpNQQFKEMNSO6FlQ,4,7,39,118,4,0.102564,0.102564,3.02564,0.179487,Las Vegas Country Saloon,Downtown,425 Fremont St,89101,3,39,Nightlife;Bars,1,1
+U00_w-9WRddd5R_RGdzA0A,4,4,28,107,4,0.142857,0.142857,3.82143,0.142857,Pizza 9,Eastside,3620 E Flamingo Rd,89121,4,28,Pasta Shops;Restaurants;Salad;Sandwiches;Specialty Food;Desserts;Chicken Wings;Pizza;Food,0,0
+wD7Qg9eounsAtUZjlMZOuA,1,4,8,16,1,0.125,0.125,2,0.5,China Pantry,Downtown,755 S Grand Central Pkwy,89106,2,8,Chinese;Restaurants,1,5
+iUQ5hZGhwrg-WPICcbo4IA,0,10,48,155,0,0,0,3.22917,0.208333,Aloha Kitchen,Southeast,8150 S Maryland Pkwy,89123,3,48,Restaurants;Hawaiian;Barbeque,0,0
+oUso4QWH1OAXboD8IMjpFQ,0,1,13,53,0,0,0,4.07692,0.0769231,Molcasalsa Mexican Food,,831 N Rancho Dr,89106,4,13,Mexican;Restaurants,1,1
+KdQM64AQ5_ppgs6RolwJ4w,3,8,40,147,3,0.075,0.075,3.675,0.2,Tacos La Mexicana,Chinatown,3675 S Decatur Blvd,89103,3.5,40,Restaurants;Mexican,1,7
+OzcvQqt_copeLRCT2OHrfA,14,13,87,296,15,0.16092,0.172414,3.4023,0.149425,"Felipito's Mexican Food",University,1325 E Tropicana Ave,89119,3.5,87,Restaurants;Mexican,1,2
+fd6iX0qDBTX51IwFJjh1bw,9,5,34,98,9,0.264706,0.264706,2.88235,0.147059,3pm Cafe,University,4680 S Maryland Pkwy,89119,3,34,Taiwanese;Coffee & Tea;Cafes;Food;Restaurants;Japanese,1,1
+3AEWSso6YdRb00SICNKn7Q,4,1,32,121,4,0.125,0.125,3.78125,0.03125,Project Cupcake,Southeast,9255 S Eastern Ave,89123,4,32,Food;Desserts;Bakeries,0,0
+F3oDNZGUJBIHHy4wQ5jRGw,13,45,84,175,13,0.154762,0.154762,2.08333,0.535714,Dairy Queen,Southwest,7715 S Rainbow Blvd,89113,2,84,Ice Cream & Frozen Yogurt;Restaurants;Fast Food;Desserts;Food,1,5
+O9J0XoJR16wWbSZpXs9Uwg,1,3,55,230,1,0.0181818,0.0181818,4.18182,0.0545455,Tverskaya Russian Restaurant,,4825 W Flamingo Rd,89103,4,55,Russian;Modern European;Restaurants,1,2
+oDQG-l5jts3-M2r9xKquyA,11,20,48,121,11,0.229167,0.229167,2.52083,0.416667,Dairy Queen,Centennial,7785 N Durango Dr,89131,2.5,48,Ice Cream & Frozen Yogurt;Fast Food;Food;Juice Bars & Smoothies;Restaurants,1,2
+Sv0mCDEF0-V-HGR0nk5Egg,0,4,54,207,0,0,0,3.83333,0.0740741,Hard Hat Lounge,Downtown,1675 Industrial Rd,89102,4,54,Nightlife;Bars;Gastropubs;Restaurants;Beer;Wine & Spirits;Food;Dive Bars,1,1
+w5LUtmw4G1KD7qAntqGd9w,35,16,101,318,39,0.346535,0.386139,3.14851,0.158416,Yoshinoya,University,4808 S Maryland Pkwy,89119,3,101,Japanese;Fast Food;Desserts;Food;Restaurants;Salad,1,2
+RDQpH7J6PBpVzE9pNDKcoA,0,0,12,51,0,0,0,4.25,0,Peppers Mexican Grill,Southeast,6883 S Eastern Ave,89119,4,12,Restaurants;Mexican,0,0
+JhQvfo_WfX10TG9_7VO14g,17,6,64,221,22,0.265625,0.34375,3.45312,0.09375,"Dad's Grilled Cheese",Spring Valley,5255 S Decatur Blvd,89118,3.5,64,Restaurants;Sandwiches,1,1
+OMtAgpa37BYD7Aux8a8hzA,9,6,14,33,36,0.642857,2.57143,2.35714,0.428571,Meat Chix & Wieners,Spring Valley,8680 W Warm Springs Rd,89118,2.5,14,Hot Dogs;Wineries;Burgers;Arts & Entertainment;Chicken Wings;Food;Restaurants,0,0
+HuHWkuqcMZ9CAwa03VX6Ww,0,1,22,104,0,0,0,4.72727,0.0454545,Chef On The Road,Southeast,7435 S Eastern Ave,89123,4.5,22,Specialty Food;Personal Chefs;Caterers;Event Planning & Services;Food;Food Delivery Services,0,0
+ye62ltisuIosDq5F_6V25w,7,9,15,23,7,0.466667,0.466667,1.53333,0.6,New China Buffet,Eastside,1510 E Flamingo Rd,89119,1.5,15,Restaurants;Buffets;Chinese,1,10
+mkZFZkuue9am7PRp9dt1jA,0,2,6,18,0,0,0,3,0.333333,La Original Michoacana,Sunrise,5105 E Sahara Ave,89142,3,6,Restaurants;Food;Burgers;Desserts;Mexican,1,1
+Wo_ZL7I3hS-eW6pJWg1V8A,0,8,13,28,0,0,0,2.15385,0.615385,"Church's Chicken",Sunrise,868 N Nellis Blvd,89110,2,13,Restaurants;Chicken Wings,1,1
+WQyGqfFKd-baBTVfZWzeTw,7,1,129,579,7,0.0542636,0.0542636,4.48837,0.00775194,Yogurtland,Southeast,9055 S Eastern Ave,89123,4.5,129,Ice Cream & Frozen Yogurt;Food,0,0
+Qc-bULSBAyVh_qaKRWkF9A,5,2,20,73,5,0.25,0.25,3.65,0.1,Che Inka Chicken,Westside,845 S Rainbow Blvd,89145,3.5,20,Peruvian;Restaurants;Argentine,1,3
+r7UZDbth0NtbZDJKq1-JyQ,0,1,18,73,0,0,0,4.05556,0.0555556,Varadero Cuban Restaurant,Northwest,5081 N Rainbow Blvd,89130,4,18,Restaurants;Cuban,1,3
+LgTBbuKTSm4qKHEmFAEJmA,2,17,63,203,2,0.031746,0.031746,3.22222,0.269841,Vegas Best Pizza,Eastside,384 E Tropicana,89169,3,63,Restaurants;Pizza,1,5
+N6BDiFk2CyJTMPGUlcOfAg,24,10,156,581,25,0.153846,0.160256,3.72436,0.0641026,Jackie Bee Boba Express,Westside,6250 W Charleston Blvd,89146,3.5,156,Coffee & Tea;Thai;Bubble Tea;Food;Cafes;Restaurants;Fast Food,1,1
+h0MNaniQdLa3ZGmXh9DDeQ,12,13,37,91,12,0.324324,0.324324,2.45946,0.351351,"Dot's Southern Kitchen",,4955 E Craig Rd,89115,2.5,37,Barbeque;Restaurants,1,2
+B7qQmqD9H2UoOpShmHTfZw,7,20,174,619,7,0.0402299,0.0402299,3.55747,0.114943,Soulfish Poke,,9500 S Eastern Ave,89123,3.5,174,Restaurants;Hawaiian;Japanese;Food;Specialty Food;Poke,1,1
+TrGBHqHVzJM5tk2C1D1ctQ,11,8,321,1466,13,0.0342679,0.0404984,4.56698,0.0249221,The Sandwich Spot,Northwest,3250 N Tenaya Way,89129,4.5,321,Delis;Cafes;Sandwiches;Restaurants,0,0
+D1J0-sFI1ul-9l3CwjvvwA,4,1,5,18,4,0.8,0.8,3.6,0.2,Tortas El Rey,Downtown,1900 E Charleston Blvd,89104,3.5,5,Restaurants;Mexican,1,3
+RhV7sraRUB3km-gF-tmDow,12,15,58,169,17,0.206897,0.293103,2.91379,0.258621,"Roberto's Taco Shop",Westside,1101 S Fort Apache Rd,89117,3,58,Fast Food;Restaurants;Mexican,1,3
+ij7p-hbzxWCPTCj9HA8iwA,8,5,91,360,8,0.0879121,0.0879121,3.95604,0.0549451,Boba City Cafe,,4126 S Rainbow Blvd,89103,4,91,Sandwiches;Bubble Tea;Food;Juice Bars & Smoothies;Coffee & Tea;Restaurants,1,1
+b6LH0R-f6cmPT0dOzqkQUg,13,4,18,61,20,0.722222,1.11111,3.38889,0.222222,Mama Mia Pizza,Spring Valley,4155 S Buffalo Dr,89147,3.5,18,Italian;Restaurants;Pizza;Food,1,2
+wT-J6sib_NSr8rcH2aTcAA,8,13,36,92,11,0.222222,0.305556,2.55556,0.361111,"Roberto's Taco Shop",,6820 W Flamingo Rd,89103,2.5,36,Fast Food;Mexican;Restaurants,1,4
+cOqd9ou3uf-1k3OWFo-_CQ,0,1,21,98,0,0,0,4.66667,0.047619,Poke Heaven,University,4747 S Maryland Pkwy,89119,4.5,21,Korean;Hawaiian;Restaurants;Poke;Food,0,0
+iCovpfQtG99MSHEqXew70w,2,0,33,139,2,0.0606061,0.0606061,4.21212,0,Cellar Lounge,Westside,3601 W Sahara Ave,89102,4,33,Nightlife;Music Venues;Bars;Arts & Entertainment,0,0
+yGd87bkFijZ6YHrHtW5maA,22,14,108,389,22,0.203704,0.203704,3.60185,0.12963,Basil Thai Fusion,Northwest,4341 N Rancho Dr,89130,3.5,108,Thai;American (New);Italian;Restaurants,1,4
+JXvLE5CRN88sccZtNeMIrQ,0,18,36,82,0,0,0,2.27778,0.5,"Roberto's Taco Shop",,2151 N Rancho Dr,89106,2.5,36,Restaurants;Fast Food;Mexican,1,6
+eqRYda9F_4ziinRW-N6ixw,8,15,43,112,18,0.186047,0.418605,2.60465,0.348837,"Roberto's Taco Shop",Westside,7801 W Charleston Blvd,89117,2.5,43,Restaurants;Mexican;Fast Food,1,8
+S9CrHJJnns3cqdGca7mQWQ,6,19,98,345,7,0.0612245,0.0714286,3.52041,0.193878,Chopstix,Southeast,430 E Silverado Ranch Blvd,89183,3.5,98,Restaurants;Chinese,1,5
+lUSAupdaVSoEaUO63RdPZA,0,9,65,239,0,0,0,3.67692,0.138462,Yummy China,Northwest,7045 W Ann Rd,89130,3.5,65,Restaurants;Chinese,1,7
+MoaI-2jJCVoiSD0nCi2qdw,11,2,36,146,11,0.305556,0.305556,4.05556,0.0555556,"Kathy's Southern Cooking",Eastside,3799 E Desert Inn Rd,89121,4,36,Restaurants;Soul Food;Southern,1,1
+LA9j7bDQLkDmLspdHwL3Bg,1,0,14,61,2,0.0714286,0.142857,4.35714,0,"Roberto's Taco Shop",Sunrise,241 N Nellis Blvd,89110,4.5,14,Mexican;Restaurants,1,1
+6bgjcFOy4WHMyw62_1V9Pw,23,24,199,697,33,0.115578,0.165829,3.50251,0.120603,Panera Bread,Spring Valley,5130 S Fort Apache Rd,89148,3.5,199,Food;Soup;Bagels;Breakfast & Brunch;Salad;Restaurants;Sandwiches,1,4
+1g47zyA_utx8mpgmtLc6tg,4,6,21,61,6,0.190476,0.285714,2.90476,0.285714,Teriyaki Madness,The Lakes,9151 W Sahara,89117,3,21,Fast Food;Asian Fusion;Japanese;Hawaiian;Restaurants,0,0
+ux6ZekIlKJbJUKWRe7RjUQ,9,4,60,250,11,0.15,0.183333,4.16667,0.0666667,"Jun's Korean Restaurant",Spring Valley,10140 W Tropicana Ave,89147,4,60,Korean;Restaurants,0,0
+1aj4TG0eFq6NaPBKk6bK7Q,30,16,167,651,30,0.179641,0.179641,3.8982,0.0958084,Jacques Cafe,Summerlin,1910 Village Center Cir,89134,4,167,Sandwiches;Vegetarian;American (New);French;Gluten-Free;Breakfast & Brunch;Restaurants,1,5
+pXWgt_1E3ZNvnmKrAsqzSg,2,3,24,86,2,0.0833333,0.0833333,3.58333,0.125,Golden Spoon Frozen Yogurt,South Summerlin,3370 S Hualapai Way,89117,3.5,24,Ice Cream & Frozen Yogurt;Food,1,1
+5O7qB4gNmr3NgdYAuYbP4Q,11,14,73,285,14,0.150685,0.191781,3.90411,0.191781,Indian Curry House,Chinatown,5115 Spring Mountain Rd,89146,4,73,Halal;Pakistani;Restaurants;Himalayan/Nepalese;Vegetarian;Vegan;Indian,0,0
+blLNQHrgAKR2md7MMx2pzw,0,2,33,139,0,0,0,4.21212,0.0606061,Global Cafe,Southeast,2185 E Windmill Ln,89123,4,33,Restaurants;Diners;Breakfast & Brunch,0,0
+PLQl-y06iPOEaqsy_nx-Eg,24,9,213,940,24,0.112676,0.112676,4.41315,0.0422535,Cafe Mayakovsky,Southeast,1775 E Tropicana Ave,89119,4.5,213,Cafes;Russian;Restaurants,0,0
+4aAf2nAr86lcDHzqWSaYuQ,11,13,83,300,20,0.13253,0.240964,3.61446,0.156627,"Alexander's Pizza",Southeast,5020 Broadbent Blvd,89122,3.5,83,Pizza;Food;Restaurants,1,3
+khXRwuslAgvZ8PkqCgiBKw,1,7,62,241,1,0.016129,0.016129,3.8871,0.112903,"Gianna's Pizza",Westside,3620 W Sahara Ave,89102,4,62,Delis;Salad;Pizza;Restaurants,1,3
+Q-1JCkmzNBJk6jC7K_AUZA,16,21,66,217,23,0.242424,0.348485,3.28788,0.318182,"Hookah Master's Lounge",Westside,5900 W Charleston Blvd,89146,3.5,66,Bars;Coffee & Tea;Tobacco Shops;Cocktail Bars;American (Traditional);Food;Dance Clubs;Shopping;Middle Eastern;Restaurants;Hookah Bars;Nightlife;Burgers,1,1
+S6V63OzrCaj22BQJeKBDCw,10,8,36,114,10,0.277778,0.277778,3.16667,0.222222,Taco Time,Southwest,8050 Dean Martin Dr,89139,3,36,Restaurants;Mexican,1,5
+1nM-ES-xVqL0yQGTCwtd-Q,9,9,55,195,14,0.163636,0.254545,3.54545,0.163636,Thai Taste,Westside,240 S Rainbow Blvd,89145,3.5,55,Thai;Chinese;Restaurants,1,1
+OfRZEOacgbh0f0SnDGI34Q,0,1,30,137,0,0,0,4.56667,0.0333333,B Sweet Candy Boutique,Westside,400 S Rampart Blvd,89145,4.5,30,Desserts;Food;Candy Stores;Specialty Food,0,0
+oIFMGuV8C8yeaDrtwjc8Jw,75,47,109,257,107,0.688073,0.981651,2.3578,0.431193,Little Darlings,,1514 Western Ave,89102,2.5,109,Nightlife;Hookah Bars;Bars;Strip Clubs;Adult Entertainment,1,2
+Ufa7MJ3yDDIMFkYctnhT8Q,0,1,7,20,0,0,0,2.85714,0.142857,Qdoba Mexican Grill,Northwest,6010 W Craig Rd,89130,3,7,Mexican;Food;Restaurants,1,1
+xvdDcG7oWT_KxU9fnd2j_w,5,3,59,245,5,0.0847458,0.0847458,4.15254,0.0508475,Breakfast & Grill Cafe,University,4550 S Maryland Pkwy,89119,4,59,Food;Breakfast & Brunch;Restaurants;American (Traditional),0,0
+7NvIgf7XW55OKa5ZU7gw8Q,1,4,23,93,3,0.0434783,0.130435,4.04348,0.173913,Arandas Taqueria,Sunrise,2040 N Nellis Blvd,89115,4,23,Mexican;Restaurants,1,7
+CSaVK9wgqe2_tQuuCDINyQ,5,4,151,704,5,0.0331126,0.0331126,4.66225,0.0264901,"Frankie's Pizza",Southeast,8505 S Eastern Ave,89123,4.5,151,Italian;Restaurants;Pizza,0,0
+EfAqol3tWckyNrBMIooJmg,41,69,256,889,45,0.160156,0.175781,3.47266,0.269531,Kabob N More,The Strip,3049 S Las Vegas Blvd,89109,3.5,256,Pakistani;Arabian;Indian;Restaurants;Halal,1,7
+nQvn3VIhBqfD43Ag7QfflA,8,7,16,30,11,0.5,0.6875,1.875,0.4375,"Long John Silver's",Southeast,2207 E Windmill Ln,89123,2,16,Fast Food;Restaurants;Seafood,0,0
+Tyg2orO7RC9VL4zoooHS7g,3,20,80,264,3,0.0375,0.0375,3.3,0.25,"Rosati's Pizza",Southeast,430 E Silverado Ranch Blvd,89183,3.5,80,Pizza;Restaurants;Food,1,2
+1mkBh9tt9BnN6bGKsPGLGQ,0,5,31,98,0,0,0,3.16129,0.16129,Espresso,Southeast,9555 S Eastern Ave,89123,3,31,Specialty Food;Food;Coffee & Tea,0,0
+CLthP1yn32xlBswIbsLIjQ,11,6,89,320,13,0.123596,0.146067,3.59551,0.0674157,El Taco Feliz,,4755 W Flamingo Rd,89103,3.5,89,Mexican;Restaurants,1,4
+vRFYqRz5F41ici5IOO2_pg,0,0,21,95,0,0,0,4.52381,0,Vegas Express Sushi,Southwest,7835 S Rainbow Blvd,89113,4.5,21,Sushi Bars;Water Stores;Grocery;Restaurants;Food,1,1
+8OCBxzdDG1tBad7t2NBVEg,0,1,15,55,0,0,0,3.66667,0.0666667,"Pinot's Palette",Westside,1000 S Rampart Blvd,89145,3.5,15,Paint & Sip;Event Planning & Services;Art Classes;Party & Event Planning;Education;Arts & Entertainment;Social Clubs,0,0
+-NjZ5HZApXjRJaTVZeSO_w,6,3,24,97,24,0.25,1,4.04167,0.125,San Salvador Restaurant,,6651 Smoke Ranch Rd,89108,4,24,Restaurants;Salvadoran;Mexican;Latin American;American (New),1,11
+txeee1LquHOaroqXodi4UQ,1,4,7,13,1,0.142857,0.142857,1.85714,0.571429,Little Caesars Pizza,Eastside,1155 E Twain Ave,89169,2,7,Pizza;Restaurants,1,4
+JXWDWoW4dDGcbaU2BQq8Og,0,0,22,98,0,0,0,4.45455,0,La Playita Restaurant,,2238 N Pecos Rd,89115,4.5,22,Mexican;Seafood;Restaurants,1,3
+GTcnXw53TmOkpzFPmuRI6w,0,7,20,53,0,0,0,2.65,0.35,Crispy Town,Eastside,3890 S Maryland Pkwy,89119,2.5,20,Fast Food;Food;Restaurants;Seafood;Filipino,1,1
+tfTCs7JZRJFpMXypjSX3FA,0,3,73,305,0,0,0,4.17808,0.0410959,Chef Zen,Spring Valley,4135 S Buffalo Dr,89147,4,73,Bubble Tea;Bakeries;Food;Donuts,1,1
+5CJOaZc8Muu8WothauxQ4g,2,8,66,244,5,0.030303,0.0757576,3.69697,0.121212,Pizza Forte,Eastside,4455 Paradise Rd,89169,3.5,66,Italian;Restaurants;Pizza;Hot Dogs,0,0
+54LYVM1gCGQ2UVFK9QhgTw,2,2,78,335,2,0.025641,0.025641,4.29487,0.025641,The Flame Broiler,,651 N Rainbow Blvd,89107,4.5,78,Restaurants;Korean;Fast Food,0,0
+JCiglfoF09JqfR_gn6XYcA,1,7,18,49,1,0.0555556,0.0555556,2.72222,0.388889,"Vit's Pizza",Northwest,3390 Novat St,89129,2.5,18,Restaurants;Italian;Pizza,0,0
+puJy3AfEZLNbRmr7WWHOLg,0,1,77,365,0,0,0,4.74026,0.012987,Fluff Ice,Spring Valley,6825 W Russell Rd,89118,4.5,77,Wholesale Stores;Food;Shopping;Shaved Ice;Bubble Tea;Ice Cream & Frozen Yogurt,0,0
+2sjfncn3GNHpKZDAcsm1Uw,3,0,17,77,3,0.176471,0.176471,4.52941,0,Mariscos El Tapatio,Southeast,1195 E Pyle Ave,89183,4.5,17,Mexican;Restaurants,1,6
+V-aCFCkkRyakP6SeIfG9-A,0,3,123,569,0,0,0,4.62602,0.0243902,Taste Tea,Spring Valley,10120 W Flamingo Rd,89147,4.5,122,Bubble Tea;Food;Tea Rooms;Coffee & Tea,0,0
+gWlasTc2Af0VV24mCR1tWg,15,19,51,137,15,0.294118,0.294118,2.68627,0.372549,Chipotle Mexican Grill,Westside,6340 W Charleston Blvd,89146,2.5,51,Fast Food;Mexican;Restaurants,1,1
+mOF_0nlTRu5NxOu6MsOAQQ,6,1,29,114,6,0.206897,0.206897,3.93103,0.0344828,"Ding's Garden",Chinatown,3409 S Jones Blvd,89146,4,29,Restaurants;Shanghainese;Chinese,1,6
+BSGy3c4voXZ5ntOi2fJwjg,0,10,62,235,0,0,0,3.79032,0.16129,Panini Cafe,The Lakes,2521 S Fort Apache Rd,89117,4,62,Sandwiches;Restaurants;Kosher,1,5
+RVt3dKDevhEs0gVMYeL6_w,0,1,64,285,0,0,0,4.45312,0.015625,Weeziana Gumbo & More,Westside,6475 W Charleston Blvd,89146,4.5,64,Restaurants;Cajun/Creole;Southern,1,2
+bUEc1ZDgfZPymHyUXEiiNg,4,7,51,171,7,0.0784314,0.137255,3.35294,0.137255,"Roberto's Taco Shop",Downtown,840 S Rancho Dr,89106,3.5,51,Mexican;Fast Food;Restaurants,1,1
+oRbrnRAXGQetQDbkDhJp8w,0,0,9,44,0,0,0,4.88889,0,North Italia,Westside,1069 S Rampart Blvd,89145,5,9,Restaurants;Italian;Pizza,0,0
+9ehTNgvu0vZgHjWkQqF6KQ,2,10,59,194,2,0.0338983,0.0338983,3.28814,0.169492,Macayo Vegas,Downtown,1741 E Charleston Blvd,89104,3,60,Restaurants;Mexican,1,2
+IHnh6sKnutS_7IRHguW0PA,2,4,23,86,2,0.0869565,0.0869565,3.73913,0.173913,Las Famosas De Jose,Eastside,577 E Twain Ave,89169,3.5,23,Latin American;Mexican;Restaurants,1,2
+BzqwAx_KlRPAMGXw1xHXag,0,1,23,92,0,0,0,4,0.0434783,Garden Cafe,Southeast,7435 S Eastern Ave,89123,4,23,Restaurants;Mediterranean;Pizza,1,1
+4eIFraJQ5sVZm3Wj6oMzAQ,0,1,58,277,0,0,0,4.77586,0.0172414,Millennium Fandom Bar,Downtown,900 S Las Vegas Blvd,89101,5,58,Shopping;Nightlife;Arts & Crafts;Costumes;Arts & Entertainment;Bars;Lounges;Pubs,1,1
+Rmiv34SGRqJDm_5Db29IrQ,0,1,32,145,0,0,0,4.53125,0.03125,El Pollo Mobile,Sunrise,4104 E Lake Mead Blvd,89115,4.5,32,Tacos;Chicken Shop;Restaurants;Food;Mexican,1,3
+yCUM58iPU8-G6KbgmzuKjA,0,3,16,57,0,0,0,3.5625,0.1875,"Binion's Deli",Downtown,128 Fremont St,89101,3.5,16,American (New);Sandwiches;Restaurants;Food Stands;Salad;Hot Dogs;Delis,1,1
+Kx0MUrNQ737s-VVElk6Vig,3,6,61,254,5,0.0491803,0.0819672,4.16393,0.0983607,Las Delicias De Las Vegas,The Strip,2129 Industrial Rd,89102,4,61,Mexican;Restaurants,1,3
+MQXZW_c30OdTsLcLkhjzlQ,0,8,39,134,0,0,0,3.4359,0.205128,Peter Piper Pizza,Westside,2131 S Decatur Blvd,89102,3.5,38,Buffets;Chicken Wings;Pizza;Restaurants,1,1
+Cg5jq44pMnGpzyIZoxFS6A,1,1,10,40,1,0.1,0.1,4,0.1,5 Below Creamery,Spring Valley,5060 S Fort Apache,89148,4,10,Ice Cream & Frozen Yogurt;Bubble Tea;Juice Bars & Smoothies;Food,0,0
+Yu_WYzA4zIlCxAWqpDJchw,13,5,86,336,26,0.151163,0.302326,3.90698,0.0581395,Yogurtland,Northwest,5635 Centennial Center Blvd,89149,4,86,Ice Cream & Frozen Yogurt;Food,0,0
+yRk8ezAFV59HDHsuHiiU6Q,5,29,86,230,5,0.0581395,0.0581395,2.67442,0.337209,"Dunkin' Donuts",Spring Valley,6295 S Rainbow Blvd,89118,2.5,86,Donuts;Coffee & Tea;Food,1,1
+HBjjGbfBvZ1FU1AaUWyJYQ,0,2,11,41,0,0,0,3.72727,0.181818,Tacos El Rodeo,,2115 N Decatur Blvd,89108,3.5,11,Mexican;Restaurants,1,8
+aEswvENK_RJnPbcJPSvAjA,6,10,88,342,6,0.0681818,0.0681818,3.88636,0.113636,Rum Runner Lounge,Eastside,1801 E Tropicana Ave,89119,4,88,Bars;Lounges;Nightlife,1,1
+0IbboCQAEQlROAv5PKKO_Q,0,0,17,74,0,0,0,4.35294,0,Aloha Island Grill,Summerlin,2267 N Rampart Blvd,89128,4.5,17,Hawaiian;Restaurants,0,0
+LgbPSXm9h31Da-qJOF12ZQ,0,3,46,195,0,0,0,4.23913,0.0652174,Kung Fu Tea,Southeast,467 E Silverado Ranch Blvd,89183,4,46,Juice Bars & Smoothies;Bubble Tea;Food;Shaved Ice;Coffee & Tea,1,1
+zt9RLUIU32fZYOBh2L0NNQ,13,12,70,250,37,0.185714,0.528571,3.57143,0.171429,Inka Grill,Southeast,9400 S Eastern Ave,89123,3.5,70,Peruvian;Restaurants,1,4
+9hNuOUywLPHdSbAXtQ9DhQ,0,1,10,32,0,0,0,3.2,0.1,Slices Pizzeria,,4111 Boulder Hwy,89121,3,10,Restaurants;Pizza,1,2
+IQnUxhO7oieEP7-5ZVJ4uA,1,14,95,339,1,0.0105263,0.0105263,3.56842,0.147368,Siamese Bistro,Southwest,7835 S Rainbow Blvd,89139,3.5,95,Thai;Chinese;Restaurants;Vegetarian;Salad,1,1
+E9YrPcoz_USW31ZBIiMeMg,0,5,37,151,0,0,0,4.08108,0.135135,Cake World Bakery,Downtown,220 N Maryland Pkwy,89101,4,37,Food;Desserts;Bakeries,1,3
+522GgMvOvzaKCEX6BfAtvg,4,2,21,81,10,0.190476,0.47619,3.85714,0.0952381,La Reyna Mexican Restaurant & Mariscos,Sunrise,745 N Nellis Blvd,89110,4,21,Restaurants;Mexican,1,1
+6Na0jTJjX5GQY_ZJ53G02A,3,16,102,393,3,0.0294118,0.0294118,3.85294,0.156863,Verrazano Pizza,Southeast,2381 E Windmill Ln,89123,4,102,Pizza;Restaurants,1,2
+POiWEckMIOqX7TgBxXgCzw,1,10,48,179,1,0.0208333,0.0208333,3.72917,0.208333,China One,Northwest,4990 W Craig Rd,89130,3.5,48,Seafood;Chinese;Restaurants;Salad,1,5
+VFcx35QDd_kZgLT4UDV8xg,7,22,54,147,10,0.12963,0.185185,2.72222,0.407407,"Roberto's Taco Shop",Eastside,4503 Paradise Rd,89169,2.5,54,Fast Food;Mexican;Restaurants,1,1
+FiEUjd-X95z0GfXCpdtQkA,3,2,15,49,3,0.2,0.2,3.26667,0.133333,Yo Fresh Yogurt Cafe,,4985 W Tropicana Ave,89103,3.5,15,Ice Cream & Frozen Yogurt;Food,0,0
+cbgIpJwmPVI6Zf7nUIXdFw,11,19,172,720,16,0.0639535,0.0930233,4.18605,0.110465,Pizza Company,Southeast,2275 E Sunset Rd,89119,4,171,Food;Pizza;Restaurants,1,1
+X5uxdU9GHoUAqo2wmbg3OQ,12,11,232,954,14,0.0517241,0.0603448,4.11207,0.0474138,Island Malaysian Cuisine,Chinatown,5115 Spring Mountain Rd,89103,4,232,Thai;Malaysian;Restaurants;Chinese;Ethnic Food;Food;Asian Fusion;Specialty Food;Singaporean,1,5
+ljsrEYijtyt6CZIuyyMcnA,0,1,13,47,0,0,0,3.61538,0.0769231,Smashburger,Westside,6300 W Charleston,89107,3.5,13,Burgers;Restaurants,1,1
+ROZCc1XMuAJpyhvTxotQ6w,5,16,34,86,5,0.147059,0.147059,2.52941,0.470588,Palm Pizza,Downtown,3411 E Charleston Blvd,89104,2.5,34,Burgers;Sandwiches;Pizza;Restaurants,1,4
+HbN0Qx_4QnzPcVNZy9PUVA,0,6,44,155,0,0,0,3.52273,0.136364,Golden Spoon Frozen Yogurt,Centennial,7170 N Durango Dr,89149,3.5,44,Food;Ice Cream & Frozen Yogurt,1,1
+217u7Wad7y90x4el26-TIw,6,12,79,300,9,0.0759494,0.113924,3.79747,0.151899,"Capriotti's Sandwich Shop",Centennial,7240 W Azure Dr,89130,4,79,Restaurants;Sandwiches,1,2
+hSzNmxCX8KmHV6382QjQuQ,0,7,24,79,0,0,0,3.29167,0.291667,Ceo Hookah Lounge And Bar,,5900 W Flamingo Rd,89103,3.5,24,Nightlife;Bars;Hookah Bars,0,0
+qIF_4ChsmJkCvqVQv_qi-g,0,0,7,26,0,0,0,3.71429,0,La Rue Marche Cafe,Eastside,2710 E Desert Inn Rd,89121,3.5,7,Restaurants;Mediterranean;Breakfast & Brunch;Cafes,0,0
+awAxthsSo0Y8KBQXJhNxvQ,6,4,31,102,6,0.193548,0.193548,3.29032,0.129032,"Harold's Chicken & Fish",Spring Valley,4950 S Rainbow Blvd,89118,3.5,31,American (Traditional);Soul Food;Chicken Wings;Restaurants,0,0
+wp6mYtftUQASEJcBXp2nVw,0,1,26,112,0,0,0,4.30769,0.0384615,Restaurant El Rey,Eastside,3969 S Maryland Pkwy,89119,4.5,26,Mexican;Restaurants,1,2
+djDktbXvOwaJhuk5whLlOQ,3,3,10,25,3,0.3,0.3,2.5,0.3,Cheesesteaks Etc,The Strip,2901 S Las Vegas Blvd,89109,2.5,10,Cheesesteaks;Sandwiches;Restaurants;Fast Food,0,0
+Ea3BblvC4zzagYI_1cNumA,14,9,66,252,27,0.212121,0.409091,3.81818,0.136364,"Capriotti's Sandwich Shop",Westside,6340 W Charleston Blvd,89107,4,66,Restaurants;Salad;Sandwiches;Vegetarian,1,3
+nOkSC1GtMUJ_I70sb0SaeQ,14,11,107,417,14,0.130841,0.130841,3.8972,0.102804,Pizza Natali,Southeast,580 E Windmill Ln,89123,4,107,Pizza;Chicken Wings;Italian;Restaurants,1,4
+jOSB_Sc4B3IsI5-MJluBsg,1,4,125,563,1,0.008,0.008,4.504,0.032,"Poppy's Frozen Yogurt",Southwest,9345 S Cimarron Rd,89178,4.5,125,Ice Cream & Frozen Yogurt;Food,0,0
+8shxmij5d2IjGLI_1riVUw,8,10,15,30,8,0.533333,0.533333,2,0.666667,Starbucks,Southwest,8050 S Rainbow Blvd,89139,2,15,Food;Coffee & Tea,1,2
+-LyGT6bztmvWd3_pa93YDg,0,1,6,19,0,0,0,3.16667,0.166667,Flame Kabob,Spring Valley,8665 W Flamingo Rd,89147,3,6,Persian/Iranian;Restaurants;Middle Eastern,0,0
+wvPceiw6SJXIRAeJVM_fmw,1,6,42,157,1,0.0238095,0.0238095,3.7381,0.142857,Pink Box Doughnuts,Centennial,7155 Grand Montecito Pkwy,89149,3.5,42,Food;Donuts,0,0
+tsD0lMbON9wYAkWyb3WFtw,10,1,28,106,20,0.357143,0.714286,3.78571,0.0357143,For Goodness Shake,Spring Valley,4220 S Grand Canyon Dr,89147,4,28,Juice Bars & Smoothies;Specialty Food;Food;Desserts,0,0
+xlN47-6lff9X2veq4iC7_A,0,11,29,81,0,0,0,2.7931,0.37931,Sidewalk Cafe,Eastside,3800 Howard Hughes Pkwy,89169,3,29,Restaurants;Sandwiches;Cafes;Breakfast & Brunch,1,6
+POIowl4F1ZiHdKLnx__ulw,21,6,35,119,51,0.6,1.45714,3.4,0.171429,Chipotle Mexican Grill,Centennial,6211 N Decatur Blvd,89130,3.5,35,Fast Food;Restaurants;Mexican,1,1
+gVc000GZA5Z4QbFIsXl5OQ,0,0,9,34,0,0,0,3.77778,0,Golden Spoon Frozen Yogurt,,7175 W Lake Mead Blvd,89128,4,9,Food;Ice Cream & Frozen Yogurt,1,2
+oXozyDYGP0GhwBxVIP-NZg,3,2,66,230,3,0.0454545,0.0454545,3.48485,0.030303,Spicy Pickle,Anthem,9985 S Eastern Ave,89183,3.5,66,Restaurants;Sandwiches,1,1
+6PXjb9T5Iv4STwwdoycrYw,23,2,53,230,23,0.433962,0.433962,4.33962,0.0377358,Dulce Donuts,,701 N Decatur Blvd,89107,4.5,53,Donuts;Food,1,1
+Fe699lNnpiZIGjgmuQahXA,8,19,71,240,8,0.112676,0.112676,3.38028,0.267606,Teriyaki Boy Healthy Grill,Sunrise,4441 E Bonanza Rd,89110,3.5,71,Food;Asian Fusion;Chinese;Japanese;Restaurants,1,4
+ASYsl1vHY0aKRXlPtHeCWQ,8,5,16,54,8,0.5,0.5,3.375,0.3125,Bakery Magic,University,4110 S Maryland Pkwy,89119,3.5,16,Food;Bakeries,0,0
+wqFkAsxYPA5tcdSkYMtrrw,2,25,60,141,3,0.0333333,0.05,2.35,0.416667,Tropical Smoothie Cafe,Westside,6350 W Charleston Blvd,89146,2.5,60,Restaurants;Cafes,1,1
+fDpiXePaeKqbOfoxXxUKyw,1,5,13,34,1,0.0769231,0.0769231,2.61538,0.384615,Bangkok 9,Northwest,3175 N Rainbow Blvd,89108,2.5,13,Restaurants;Chinese,1,3
+2DydwQRkIutHarWT_o1L0Q,1,15,50,153,2,0.02,0.04,3.06,0.3,Don Chuy Mexican Grill,Spring Valley,7080 S Jones Blvd,89118,3,50,Mexican;Fast Food;Tacos;Restaurants,1,2
+OBzPCuDTMBF4xijlnffnDw,2,9,120,507,2,0.0166667,0.0166667,4.225,0.075,Saborr,,4348 E Craig Rd,89115,4,120,Restaurants;Fast Food;Mexican;Seafood,1,2
+yrRzB4EZb15shCOt7axnzA,11,11,27,73,11,0.407407,0.407407,2.7037,0.407407,Nigerian Cuisine,Southeast,5006 S Maryland Pkwy,89119,2.5,27,Restaurants;Ethnic Food;Specialty Food;Food;African,1,4
+9GPTELAPPpT5vUxad9AoCw,0,4,43,171,0,0,0,3.97674,0.0930233,Red Ribbon Bakeshop,Eastside,3890 S Maryland Pkwy,89119,4,43,Food;Filipino;Restaurants;Bakeries,0,0
+mvLdgkwBzqllHWHwS-ZZgQ,0,0,63,297,0,0,0,4.71429,0,Elia,Spring Valley,4226 S Durango Dr,89147,4.5,63,Mediterranean;Restaurants;Greek,1,1
+FvC3W9E6rXUYx-cTxbnUiA,5,8,33,101,5,0.151515,0.151515,3.06061,0.242424,Luna Rossa,Downtown,450 Fremont St,89101,3,33,Pizza;Italian;Bars;Nightlife;Restaurants,1,1
+7v-2HkyrfYkPf471v4gCmg,11,19,33,71,13,0.333333,0.393939,2.15152,0.575758,Starbucks,Southeast,7400 S Las Vegas Blvd,89123,2,33,Food;Coffee & Tea,0,0
+3281FKql3HVOzSVxymjJRg,1,2,32,125,1,0.03125,0.03125,3.90625,0.0625,Frijoles & Frescas,Eastside,2490 E Desert Inn Rd,89121,4,32,Restaurants;Tacos;Salad;Mexican;Seafood,0,0
+jJ2ca6wqp_YwTsdAWzplkQ,1,2,97,430,1,0.0103093,0.0103093,4.43299,0.0206186,"Ted's Sushi Burrito",Southwest,7835 S Rainbow Blvd,89139,4.5,97,Sushi Bars;Food;Asian Fusion;Restaurants;Poke;Japanese,0,0
+0jriM09IvPdCLgr509vbrQ,4,1,25,111,10,0.16,0.4,4.44,0.04,"See's Candies",Summerlin,10300 W Charleston Blvd,89135,4.5,25,Chocolatiers & Shops;Food;Flowers & Gifts;Gift Shops;Specialty Food;Shopping;Candy Stores,0,0
+1mSAHgRm_sbDslTgeId2Mg,0,1,10,39,0,0,0,3.9,0.1,Taqueria El Buen Pastor,Sunrise,4777 E Charleston Blvd,89104,4,10,Mexican;Food;Restaurants,1,2
+2dUXkonsAdoXKAalTnmlig,1,2,35,138,1,0.0285714,0.0285714,3.94286,0.0571429,Dimas Tacos,Northwest,5081 N Rainbow Blvd,89130,4,35,Restaurants;Mexican,1,13
+RAU2fPJ852Z241SXP-Wfew,0,2,11,31,0,0,0,2.81818,0.181818,"Samurai Sam's",Summerlin,1910 Village Center Cir,89134,3,11,Restaurants;Japanese,0,0
+-tseCGdDvepLP8IIWtZikQ,0,1,30,130,0,0,0,4.33333,0.0333333,Polish Deli,Westside,5900 W Charleston Blvd,89146,4.5,30,Restaurants;Salad;Sandwiches;Delis,0,0
+snijUVBxAMcFR4w-qHrYLw,0,0,46,208,0,0,0,4.52174,0,The Sand Dollar Lounge,Chinatown,3355 Spring Mountain Rd,89102,4.5,46,Lounges;Arts & Entertainment;Bars;Cocktail Bars;Nightlife;Dive Bars;Jazz & Blues,1,1
+vX-FwyJ7eINXn_Gn6CqMFg,11,6,35,105,11,0.314286,0.314286,3,0.171429,Little Hong Kong,,4375 N Las Vegas Blvd,89115,3,35,Chinese;Filipino;Restaurants,1,4
+v2UKNMDqWN1UaWlK2Ugx2Q,0,1,9,30,0,0,0,3.33333,0.111111,"Cici's Pizza",Westside,8465 W Sahara Ave,89117,3.5,9,Restaurants;Pizza,0,0
+E2inSSpEOeOnC1reFPC2-w,0,0,13,59,0,0,0,4.53846,0,Pho Kitchen,Chinatown,6820 Spring Mountain Rd,89146,4.5,13,Noodles;Vietnamese;Restaurants,1,5
+_KCvY2g9mMgcBSrVjCS0FA,0,1,59,234,0,0,0,3.9661,0.0169492,"Hougan's Racing Sandwich Shop",Southeast,1310 E Silverado Ranch Blvd,89183,4,58,Burgers;Restaurants;Pizza;Sandwiches,0,0
+_ewxwEwJM-IYfIYnKpQOZw,6,5,47,205,12,0.12766,0.255319,4.3617,0.106383,Mexicali Raspados,Eastside,4865 S Pecos Rd,89121,4.5,47,Restaurants;Ice Cream & Frozen Yogurt;Shaved Ice;Hot Dogs;Food,0,0
+RZGxU6bCoqgbi7xVB_UckQ,8,11,52,167,18,0.153846,0.346154,3.21154,0.211538,"Roberto's Taco Shop",,6650 Vegas Dr,89108,3,52,Restaurants;Fast Food;Mexican,1,3
+mS_dBSMFiDJn4UVc0iv6Hg,0,4,21,76,0,0,0,3.61905,0.190476,Mexipanese,Downtown,365 Lewis Ave,89101,3.5,21,Asian Fusion;Sushi Bars;Restaurants;Japanese;Mexican,1,1
+ElM8yyW45TAy4vjApwy7ZQ,0,2,6,22,0,0,0,3.66667,0.333333,Jadon Foods,Northwest,4343 N Rancho Dr,89130,3.5,6,Gluten-Free;Bakeries;Food;Restaurants,0,0
+khylDqXpc2hTpuEQ154ZNw,0,3,27,101,0,0,0,3.74074,0.111111,Round Table Pizza,,7460 W Lake Mead Blvd,89128,3.5,27,Restaurants;Pizza,1,3
+3YV-GLtQLI3sbZDZ-0NN4Q,3,12,47,162,3,0.0638298,0.0638298,3.44681,0.255319,"Capriotti's Sandwich Shop",Southeast,9210 S Eastern Ave,89123,3.5,47,Sandwiches;Restaurants;Food;American (Traditional),0,0
+0Nb4piKDUVbedlrakwEUuw,4,9,35,97,4,0.114286,0.114286,2.77143,0.257143,Del Taco,Centennial,7757 N El Capitan Way,89143,3,35,Restaurants;Fast Food,1,2
+FiKSIDLW3rgxmOkEFYpiEw,4,10,39,131,4,0.102564,0.102564,3.35897,0.25641,Vegas Bakery,,2041 N Jones Blvd,89108,3.5,39,Bakeries;Custom Cakes;Desserts;Food,1,4
+_iImIysZnnagrYt3CE7fVQ,0,0,28,129,0,0,0,4.60714,0,Gotta Love Cheesecake,Northwest,5081 N Rainbow Blvd,89130,4.5,28,Bakeries;Coffee & Tea;Desserts;Food,1,1
+i5vy3X8WBjQ-F7P8HqC7KA,4,0,5,23,4,0.8,0.8,4.6,0,Chinatown Cuisine,Downtown,2000 E Charleston Blvd,89104,4.5,5,Mexican;Restaurants,1,7
+vwfdoACBrXFTMA066gKEcQ,2,9,24,75,2,0.0833333,0.0833333,3.125,0.375,"Lucky's Lounge",Centennial,8025 Farm Rd,89131,3,24,Restaurants;Sports Bars;Bars;Lounges;Nightlife,1,2
+05Solp0aY1YTZqoORMjUTg,0,4,9,23,0,0,0,2.55556,0.444444,La Pupusa Loca,Sunrise,1000 N Nellis Blvd,89110,2.5,9,Restaurants;Fast Food;Mexican;Spanish;Burgers,1,4
+4aGIU5eD6iTsmNqKVvlLOg,0,0,9,35,0,0,0,3.88889,0,"Roberto's Taco Shop",,3435 N Nellis Blvd,89115,4,9,Fast Food;Restaurants;Mexican,1,2
+6-lmL3sC-axuh8y1SPSiqg,19,9,68,252,24,0.279412,0.352941,3.70588,0.132353,"Roberto's Taco Shop",Summerlin,8580 W Lake Mead Blvd,89128,3.5,68,Fast Food;Mexican;Restaurants,1,3
+Oyo5CWthu2upxxaf69MfIg,0,1,29,104,0,0,0,3.58621,0.0344828,"Anna's Garden",Chinatown,5740 Spring Mountain Rd,89146,3.5,29,Chinese;Restaurants,1,3
+upGOg5zPrmFH-p4Y1urjJQ,0,0,23,113,0,0,0,4.91304,0,Chef Lucky Thai,The Lakes,8609 W Sahara Ave,89117,5,23,Shopping;Personal Chefs;Party & Event Planning;Arts & Crafts;Food;Caterers;Event Planning & Services;Food Delivery Services;Cooking Classes,0,0
+wKI0q-WkPi0N3Mk_T3frmQ,0,5,21,59,0,0,0,2.80952,0.238095,Panda Express,South Summerlin,11011 W Charleston Blvd,89135,3,21,Fast Food;Restaurants;Chinese,0,0
+P4MSmTvAVeW3is2RORWosA,0,9,23,61,0,0,0,2.65217,0.391304,Subway,Northwest,7121 W Craig Rd,89129,2.5,23,Restaurants;Fast Food;Sandwiches,0,0
+UrLrciFVqdgmMKkgCncx9Q,2,15,22,39,2,0.0909091,0.0909091,1.77273,0.681818,Burger King,Centennial,6091 N Decatur Blvd,89131,2,22,Restaurants;Fast Food;Burgers;Food,1,1
+3RiFtEJ6AAvS0x_z38HChw,0,1,44,165,0,0,0,3.75,0.0227273,Pita Pit,University,4680 S Maryland Pkwy,89119,4,44,Restaurants;Fast Food;Mediterranean;Greek,1,2
+QOlGFm6M_33fzGgQ5I-Kgg,7,6,20,53,7,0.35,0.35,2.65,0.3,"Teddy's Bakery",Spring Valley,5025 S Fort Apache Rd,89148,2.5,20,Bakeries;Food;Restaurants,1,1
+mhDG_wtuyTDr-c0rgfEMpQ,14,19,44,114,17,0.318182,0.386364,2.59091,0.431818,Ru Yi Noodle House,The Strip,3743 S Las Vegas Blvd,89109,2.5,44,Restaurants;Chinese;Noodles,1,2
+wPxrC9l4c4IGgLVancQzgA,0,1,5,19,0,0,0,3.8,0.2,"Heaven's Cookie & Creations",South Summerlin,3370 S Hualapai Way,89117,4,5,Desserts;Bakeries;Food,0,0
+Q96qeGBTH-yNZzhJHe8uIQ,5,1,7,27,5,0.714286,0.714286,3.85714,0.142857,Sahara Korean Restaurant,Downtown,953 E Sahara Ave,89104,4,7,Vietnamese;Restaurants;Korean,1,1
+Tnia3DIsEgc8nVPNnTRj7Q,0,9,13,26,0,0,0,2,0.692308,Bona Pizza,Eastside,4080 Paradise Rd,89169,2,13,Restaurants;Pizza,0,0
+JTknlKD6bviJZLngdpbydw,1,3,9,26,1,0.111111,0.111111,2.88889,0.333333,Chicken Now,Westside,4300 Meadows Ln,89107,3,9,Restaurants;Chicken Wings,1,7
+jSu2A7DibDjmUd3wUt6fPg,5,7,34,115,9,0.147059,0.264706,3.38235,0.205882,Primavera Pizza,Downtown,1428 E Charleston Blvd,89104,3.5,34,Chicken Wings;Pizza;Fast Food;Restaurants;Food,1,2
+Lizf_tbfqlXJAlP8GP29QA,0,1,4,12,0,0,0,3,0.25,Club Car Lounge,Chinatown,3685 S Rainbow Blvd,89103,3,4,Nightlife;Bars,0,0
+r-KT6NlBbfxR_L3t98qiDQ,0,1,14,58,0,0,0,4.14286,0.0714286,"Dee's Donuts",Spring Valley,4135 S Buffalo Dr,89147,4,14,Donuts;Food,1,2
+JpPlBOJg9fb4Ib_iQnnURw,0,2,24,100,0,0,0,4.16667,0.0833333,"Jake's Bar",Downtown,2301 S Eastern Ave,89104,4,24,Nightlife;Bars,1,1
+O0T7V0MP9HLaLxLzaKFPgA,1,3,14,44,1,0.0714286,0.0714286,3.14286,0.214286,Goodfellas Pizzeria,,4348 E Craig Rd,89115,3,14,Pizza;Restaurants;Italian;Food;Food Delivery Services,1,2
+hbuVhfMb8r3kVNZ-thX16g,18,29,81,224,22,0.222222,0.271605,2.76543,0.358025,Little Dumpling,Spring Valley,9340 W Flamingo Rd,89147,3,81,Thai;Restaurants;Chinese,1,6
+CzuZhL2h87x5Cx04swQunA,0,0,3,15,0,0,0,5,0,Sin City H2o To Go,Northwest,3950 N Tenaya Way,89129,5,3,Convenience Stores;Food;Water Delivery;Local Services,0,0
+1dFh7yxHwFzjscCQgDYv1g,0,1,5,18,0,0,0,3.6,0.2,Salad Creations,,6485 N Decatur Blvd,89131,3.5,5,Delis;Restaurants,0,0
+oLbHJ_qJh78Kw4fhUw1HGg,6,8,54,192,6,0.111111,0.111111,3.55556,0.148148,Mandarin Express,Sunrise,6895 E Lake Mead Blvd,89156,3.5,54,Restaurants;Chinese,1,5
+7k6uHs6oPyh5AuaqrhC5yw,0,0,7,24,0,0,0,3.42857,0,"Emjay's New York Pizza",Southwest,7835 S Rainbow Blvd,89113,3.5,7,Pizza;Restaurants,0,0
+0K4tCSMV6BqFxOsgZFqfVw,0,3,21,76,0,0,0,3.61905,0.142857,Rocky Mountain Chocolate Factory,,4500 W Tropicana Ave,89103,3.5,21,Food;Specialty Food;Chocolatiers & Shops,1,3
+lgThAiX5kMvSxizl2tQ1hA,2,2,17,72,4,0.117647,0.235294,4.23529,0.117647,Hawaiian Hale,Westside,2439 S Valley View Blvd,89102,4,17,Hawaiian;Restaurants,0,0
+3rDzxvhe5CFzeWjvLj92pw,0,1,15,59,0,0,0,3.93333,0.0666667,"Brooklyn Billy's",,6620 W Flamingo Rd,89103,4,15,Sandwiches;Delis;Restaurants,0,0
+ppasQEo3jPkBdwdRGVd9WQ,3,13,38,110,3,0.0789474,0.0789474,2.89474,0.342105,"Roberto's Taco Shop",,4955 E Craig Rd,89115,3,38,Restaurants;Mexican;Fast Food,1,6
+qhQS3KPJs9cya6tcQCEk2A,0,0,22,84,0,0,0,3.81818,0,Bonanza Lounge,Sunrise,4301 E Bonanza Rd,89110,4,22,Nightlife;Bars,1,1
+Ea04rGA3H-ZqY1nHLpI2FQ,1,3,42,129,1,0.0238095,0.0238095,3.07143,0.0714286,New Day Cafe,Southwest,7815 S Rainbow Blvd,89139,3,42,Breakfast & Brunch;Cafes;Restaurants;American (Traditional),0,0
+4NHVQFUBd1ppRPpKIBqn6A,0,1,6,24,0,0,0,4,0.166667,Starbucks,Summerlin,2211 N Rampart Blvd,89134,4,6,Coffee & Tea;Food,0,0
+ifkCEpYaSAUT3WVQNxwvXA,0,0,19,88,0,0,0,4.63158,0,El Cordobes,Eastside,5020 E Tropicana Ave,89122,4.5,19,Specialty Food;Mexican;Food;Restaurants;Ethnic Food,1,3
+DZN44_XFktITlIUec4H69w,11,5,31,97,19,0.354839,0.612903,3.12903,0.16129,Chicago Tasty Dogs,Southeast,9711 S Eastern Ave,89183,3,31,Hot Dogs;American (New);Restaurants,1,2
+LA9KIu-g3VaoFQsYHL2yRA,5,2,11,37,6,0.454545,0.545455,3.36364,0.181818,The Teriyaki Company,Sunrise,719 N Nellis Blvd,89110,3.5,11,Restaurants;Japanese,1,3
+wdLDTuAxZy2GY5NaQQ6GHQ,0,0,5,16,0,0,0,3.2,0,Stadium Saloon,Southeast,6016 Boulder Hwy,89122,3,5,Nightlife;Bars;Dive Bars;Arts & Entertainment,1,2
+2VIbSLTQ1OOo5r9TEEE-Yw,0,0,3,11,0,0,0,3.66667,0,Taqueria Los Reyes,Sunrise,4777 E Charleston Blvd,89104,3.5,3,Mexican;Restaurants,0,0
+aBLQxmSlqkahg0BEokTPKw,0,4,18,67,0,0,0,3.72222,0.222222,Froyo Time,Eastside,3310 E Flamingo Rd,89121,3.5,18,Ice Cream & Frozen Yogurt;Food;Restaurants,0,0
+A6rPIkIzxIeriuI4FFwxnw,0,18,51,141,0,0,0,2.76471,0.352941,"Joey's Pizza",,3310 S Nellis Blvd,89121,3,51,Pizza;Sandwiches;Restaurants,1,2
+VpFUraD3fuFY9qCcvgMntA,1,3,24,91,1,0.0416667,0.0416667,3.79167,0.125,Roma Pizza,Eastside,4310 E Tropicana Ave,89121,4,24,Restaurants;Pizza;Food,1,4
+NkuLKJJE_KxcxKs8Kj8thQ,3,2,36,143,3,0.0833333,0.0833333,3.97222,0.0555556,Sushi Yamaguchi,Westside,5900 W Charleston Blvd,89146,4,36,Japanese;Sushi Bars;Restaurants,1,5
+BntSl0d6YiwGR69cZs7PPg,0,1,9,36,0,0,0,4,0.111111,Island Grill,Eastside,2660 S Maryland Pkwy,89109,4,9,Nightlife;American (New);Bars;Lounges;Restaurants,1,1
+c2l80imPWR8V6gIEM02XPg,12,12,56,169,73,0.214286,1.30357,3.01786,0.214286,Red Shrimp Company,,4060 S Jones Blvd,89103,3,56,Restaurants;Chinese,1,7
+31mm5EtlmT4557BTYAFOrA,0,1,8,32,0,0,0,4,0.125,China Gourmet,Chinatown,5150 Spring Mountain Rd,89146,4,8,Chinese;Restaurants,1,2
+H7liERB1ZJbaIDVcuK16oA,0,5,26,102,0,0,0,3.92308,0.192308,Casa Tlaquepaque,Sunrise,4800 E Bonanza Rd,89110,4,26,Mexican;Restaurants,1,1
+d4HnY0ar8-wggSOvyEUcyw,0,3,31,134,0,0,0,4.32258,0.0967742,Paradise Pub,Southeast,955 Grier Dr,89119,4.5,31,Pubs;Nightlife;Bars,1,1
+-gXDD2oSHBDA3zgjX6g9pQ,0,1,10,40,0,0,0,4,0.1,The Plate Bar & Grill,Sunrise,2396 S Lamb Blvd,89104,4,10,Pubs;Sports Bars;Nightlife;Restaurants;American (Traditional);Bars,0,0
+bVoc7AIPSWAAJBA2JLPxvQ,0,3,28,119,0,0,0,4.25,0.107143,Good Timez Billiards,Westside,5740 W Charleston Blvd,89146,4,28,Sports Bars;Food;Nightlife;Bars;Recreation Centers;Active Life;Beer;Wine & Spirits;Pool Halls;Dive Bars,1,1
+vsGqvLu4OlL2GDmPWSVx_w,0,0,7,31,0,0,0,4.42857,0,Flame Kabob,Westside,6350 W Charleston Blvd,89146,4.5,7,Persian/Iranian;Restaurants;Middle Eastern,1,1
+TZ0sFZnJi1w4CM0IcA4T6w,5,2,18,61,6,0.277778,0.333333,3.38889,0.111111,Tacos Los Toritos,Eastside,855 E Twain Ave,89169,3.5,18,Restaurants;Mexican,1,7
+odQGs2Rv0nC0fHh4Gfp2iA,0,0,9,35,0,0,0,3.88889,0,Ramen Noodle,Northwest,3350 Novat St,89129,4,9,Ramen;Japanese;Restaurants,0,0
+02giJIMo2sfua2wHfCbG-A,0,0,43,202,0,0,0,4.69767,0,Tea Space Sunset Park,Southeast,7425 S Eastern Ave,89123,4.5,43,Juice Bars & Smoothies;Coffee & Tea;Bubble Tea;Desserts;Food;Tea Rooms,0,0
+KBKE7XTLLe2uUqmzuYUyHQ,0,10,38,117,0,0,0,3.07895,0.263158,Verdi Restaurant & Pizzeria,Centennial,7240 W Azure Dr,89130,3,38,Italian;Restaurants;Pizza,1,1
+OHWebQuqI-AbB00zpLnWDg,0,4,11,36,0,0,0,3.27273,0.363636,Southern Style,Northwest,4371 N Rancho Dr,89130,3.5,11,Seafood;Southern;Soul Food;Restaurants,0,0
+mF5L7qVH829Ow68Lz8PMNg,11,15,19,30,11,0.578947,0.578947,1.57895,0.789474,Diamond Cabaret,,3177 S Highland Dr,89109,1.5,19,Nightlife;Adult Entertainment,0,0
+6roYDeCtF1wcXfQ9iaRv7g,2,3,19,74,2,0.105263,0.105263,3.89474,0.157895,Baskin Robbins,Northwest,4906 W Lone Mountain Rd,89130,4,19,Ice Cream & Frozen Yogurt;Food,1,1
+47Ce56CE_NnzdmCozdMQng,0,0,3,14,0,0,0,4.66667,0,La Takiza,Eastside,3762 E Flamingo Rd,89121,4.5,3,Mexican;Restaurants,1,1
+dENns4dukYRZunxCOUzRsw,1,2,4,12,1,0.25,0.25,3,0.5,"Buck's Tavern",Sunrise,1204 N Nellis Blvd,89110,3,4,Nightlife;Burgers;Bars;Karaoke;Restaurants;Sandwiches,1,1
+_4tMcp2SGyG4bJzB_t7n8A,0,0,6,28,0,0,0,4.66667,0,El Michoacano,,4388 E Craig Rd,89115,4.5,6,Desserts;Juice Bars & Smoothies;Ice Cream & Frozen Yogurt;Food,0,0
+_R76PYZqTRvw840SP6s5GA,6,4,48,194,6,0.125,0.125,4.04167,0.0833333,Globe Cafe,Southeast,8545 S Eastern Ave,89123,4,48,Cafes;Breakfast & Brunch;Food;Juice Bars & Smoothies;Restaurants;Coffee & Tea;American (New),0,0
+QToZqYELc9EE9ZebW4MzDA,0,0,10,42,0,0,0,4.2,0,Tcby,Chinatown,3565 S Rainbow Blvd,89103,4,10,Ice Cream & Frozen Yogurt;Food,0,0
+gofm05Jo-OYqjlxuD5BBDw,2,1,16,68,2,0.125,0.125,4.25,0.0625,"Chuy's Tacos",Downtown,1510 E Sahara Ave,89104,4,16,Mexican;Restaurants,0,0
+8945PbOxSjb6hwHdVWWUIw,0,4,10,24,0,0,0,2.4,0.4,Haifa Restaurant,Eastside,855 E Twain Ave,89169,2.5,10,Restaurants;Kosher;Mediterranean,1,2
+Pg08gKwJApGWoHtnq3aWqw,24,4,16,47,41,1.5,2.5625,2.9375,0.25,Fatburger,Northwest,4949 N Rancho Dr,89130,3,16,American (Traditional);Restaurants;Fast Food;Burgers,1,6
+zfNKdsuT7bWWN-f3v5Rj_g,0,0,10,42,0,0,0,4.2,0,"Bentley's Coffee",Eastside,2840 E Tropicana Ave,89121,4,10,Restaurants;Cafes,1,3
+_WfdPyh065bo59USqPi9xQ,3,0,12,50,3,0.25,0.25,4.16667,0,Four Mile Bar,Eastside,3650 Boulder Hwy,89121,4,12,Dive Bars;Bars;Nightlife,1,1
+-vb_yx5QnIhpXUIdPVD2og,1,1,6,20,1,0.166667,0.166667,3.33333,0.166667,Fair View Chinese Cuisine,,1930 N Decatur Blvd,89108,3.5,6,Chinese;Restaurants,1,5
+n0QmJeame2VHWgMKj5gfrw,0,1,18,72,0,0,0,4,0.0555556,Stateside Lounge,,931 N Las Vegas Blvd,89101,4,18,Karaoke;Lounges;Arts & Entertainment;Nightlife;Dive Bars;Bars;Sports Bars;Cocktail Bars,0,0
+x_L9NCBxx4Mb4cOnnRMibw,4,2,11,40,4,0.363636,0.363636,3.63636,0.181818,Double Yoke,Centennial,6050 Sky Pointe Dr,89130,3.5,11,Restaurants;American (New),1,1
+X3s0BN02lS6EigSnJaSyDw,0,0,4,14,0,0,0,3.5,0,Teriwoki,,9500 S Eastern Ave,89123,3.5,4,Asian Fusion;Chinese;Do-It-Yourself Food;Food;Restaurants,0,0
+KhYA1VGwy1naIiIAvPfolw,6,1,16,53,6,0.375,0.375,3.3125,0.0625,Chow Mein Express,Spring Valley,3955 S Durango Dr,89147,3.5,16,Chinese;Restaurants,1,7
+LTpH7PllA7ruroTZRXnWqw,0,0,17,73,0,0,0,4.29412,0,Sunrise Too Donuts,Downtown,3005 E Charleston Blvd,89104,4.5,17,Bakeries;Food,0,0
+v5TTbYOaj4KewOtxQk48Jg,0,1,5,17,0,0,0,3.4,0.2,"Chaser's Pub",Chinatown,6870 Spring Mountain Rd,89146,3.5,5,Bars;Pubs;Nightlife,1,1
+oe6srp_GGRncy5ODHNfW0g,3,3,23,89,3,0.130435,0.130435,3.86957,0.130435,"Michael's Pub",,4012 S Rainbow Blvd,89103,4,23,Bars;American (Traditional);Sports Bars;Restaurants;Nightlife,0,0
+gqqHdBJqOVHDMy3jAdSkmw,8,0,23,90,8,0.347826,0.347826,3.91304,0,Kan Pai Sushi,Westside,8125 W Sahara Ave,89117,4,23,Restaurants;Japanese;Sushi Bars,1,3
+0_7nMBuDAhs_J_DMuqdsyw,0,1,4,10,0,0,0,2.5,0.25,Hot Dog Heaven,Southwest,10690 Southern Highlands Pkwy,89141,2.5,4,Hot Dogs;Restaurants,0,0
+mwERWE8IqgcmPHg3cpCfNA,8,3,24,80,8,0.333333,0.333333,3.33333,0.125,Thai Vegas,Downtown,115 N 4th St,89101,3.5,24,Restaurants;Chinese;Thai,1,3
+qCZrKe8igS10txtGW3ZV1Q,0,1,5,15,0,0,0,3,0.2,Atlanta Bread Company,Westside,9785 W Charleston Blvd,89117,3,5,Restaurants,0,0
+RQnaK9dNidUbLLykykUAYA,1,2,13,35,1,0.0769231,0.0769231,2.69231,0.153846,Sushi Boy Desu,University,4632 S Maryland Pkwy,89119,2.5,13,Restaurants;Japanese,0,0
+MbKPJzNM5er9bhGLoiRbvg,2,1,4,12,2,0.5,0.5,3,0.25,Double Shots Bar,Eastside,3430 E Tropicana Ave,89121,3,4,Bars;Nightlife;Karaoke;Dive Bars,1,9
+9Y0dDkFEe_spzPqccq2hIw,0,0,5,17,0,0,0,3.4,0,Pizza Patron,Downtown,2885 E Charleston Blvd,89104,3.5,5,Pizza;Restaurants,0,0
+vJiLUGDjYZjGDIzajP3sjA,0,1,3,10,0,0,0,3.33333,0.333333,"Marriott's Munchables",Southeast,1525 E Sunset Rd,89119,3.5,3,Food;Food Delivery Services,0,0
+J8I__huE3XbzYuhIgVJQgg,0,1,4,10,0,0,0,2.5,0.25,"Olivia's Dollhouse Tea Room",Eastside,3742 E Tropicana Ave,89121,2.5,4,Event Planning & Services;Party & Event Planning,1,1
+Rhz38lsptoxX9IWS641LFA,0,0,14,61,0,0,0,4.35714,0,"Annie's Kitchen",,1212 D St,89106,4.5,14,Barbeque;Restaurants,0,0
+rI1wtjri4NhO3V-hCsMCiA,11,3,13,41,22,0.846154,1.69231,3.15385,0.230769,Tacos El Nopal,,4200 W Russell Rd,89118,3,13,Mexican;Breakfast & Brunch;Restaurants;Fast Food,1,8
+WUHziAfNsIe73A43q5Xijg,0,3,3,3,0,0,0,1,1,"Chubby's Pub",Eastside,4702 E Flamingo Rd,89121,1,3,Nightlife;Bars,1,3
+QAXFkN4iDiC1HUrkOiAAKA,1,5,6,8,1,0.166667,0.166667,1.33333,0.833333,"Buffalo's Pizza",Spring Valley,4045 S Buffalo Dr,89147,1.5,6,Restaurants;Pizza,1,2
+jkhEPQovg6JKPzUr43MC_g,0,5,15,45,0,0,0,3,0.333333,Town Center Lounge,Centennial,6050 Sky Pointe Dr,89130,3,15,Lounges;Nightlife;Restaurants;Arts & Entertainment;Casinos;Bars,1,2
+9M0cQtHWkLNhGxPYt1qakA,0,0,6,25,0,0,0,4.16667,0,Taqueria Santander,Sunrise,5061 E Sahara Ave,89142,4,6,Mexican;Restaurants,0,0
+8DlJOP1-7NHztU2lbeNKBQ,0,0,14,60,0,0,0,4.28571,0,Avalanche Shave Ice,University,1220 E Harmon Ave,89119,4.5,14,Food;Ice Cream & Frozen Yogurt;Desserts;Shaved Ice,1,1
+SwR7N8LjiSb0d4GWCCIKdA,2,3,22,81,2,0.0909091,0.0909091,3.68182,0.136364,Pho Hanh Thy,Spring Valley,9575 W Tropicana Ave,89148,3.5,22,Restaurants;Vietnamese,0,0
+5eqm4pyz-egd255X7PB8Xg,6,7,23,57,12,0.26087,0.521739,2.47826,0.304348,Las Vegas Eagle,Eastside,3430 E Tropicana Ave,89121,2.5,23,Bars;Nightlife;Gay Bars,1,5
+3tBRBsiTi6JJz3CJ7DcS_w,0,1,13,53,0,0,0,4.07692,0.0769231,Skinny Chick Fat Chicken,,3137 Industrial Rd,89109,4,13,American (Traditional);Salad;Bed & Breakfast;Hotels & Travel;Restaurants;Sandwiches;Food,1,1
+TkrydveE1Laf_LHoKFALNw,2,10,28,93,2,0.0714286,0.0714286,3.32143,0.357143,Hunan Jiu Jia,Chinatown,3950 Schiff Dr,89103,3.5,28,Restaurants;Chinese;Food,1,7
+24f5ie972m_bYpirVW-dZA,0,1,10,33,0,0,0,3.3,0.1,Round Table Pizza,Westside,9350 W Sahara Ave,89117,3.5,10,Pizza;Restaurants,1,3
+oQwadWTYQWahuj9N-68yPA,4,1,7,27,4,0.571429,0.571429,3.85714,0.142857,Mandarin Express,Southwest,7720 S Jones Blvd,89139,4,7,Restaurants;Chinese,1,1
+JsAR0hNX-5zA-CMsYW4NLQ,0,0,7,32,0,0,0,4.57143,0,Courtyard Deli,Westside,3360 W Sahara Ave,89102,4.5,7,Caterers;Italian;Restaurants;Event Planning & Services;Sandwiches;Delis,1,1
+eU_XJ4uNAlRoH4tNfWtz9g,0,0,5,20,0,0,0,4,0,"Tony's Mexican Food",Westside,4300 Meadows Ln,89107,4,5,Mexican;Restaurants,0,0
+bB6ZTUWKcpKhNy7_LGCYfA,0,0,3,15,0,0,0,5,0,Power Zone,Spring Valley,4520 S Hualapai,89147,5,3,Food;Juice Bars & Smoothies;Active Life,0,0
+Ji35uFlQyOpKjMFNKwp4mw,0,0,12,48,0,0,0,4,0,Cafelatte,Downtown,1 S Main St,89101,4,12,Food;Coffee & Tea,0,0
+uwTzA758DKewtUJMe-C1fA,0,1,4,15,0,0,0,3.75,0.25,Coconut Bistro,Eastside,3025 E Desert Inn Rd,89121,4,4,Restaurants;Caribbean,0,0
+N4r3XX7uH42aXhHvFMkxjA,0,0,3,9,0,0,0,3,0,Las Tapatias,Westside,6132 W Charleston Blvd,89146,3,3,Juice Bars & Smoothies;Specialty Food;Desserts;Local Services;Mexican;Ice Cream & Frozen Yogurt;Mailbox Centers;Restaurants;Candy Stores;Gelato;Food;Shaved Ice,1,5
+MTpPAQrgrWtZLLoa-VLc-w,0,1,6,23,0,0,0,3.83333,0.166667,Legends Cafe,Northwest,5081 N Rainbow Blvd,89130,4,6,Restaurants;Soul Food,0,0
+_cBlppMDZYXS-Bjj4l9qtw,0,3,8,22,0,0,0,2.75,0.375,El Buen Gusto,,1593 N Eastern Ave,89101,3,8,Salvadoran;Latin American;Restaurants,1,6
+6ITjN8jGEKNUyepyq6ah6g,0,0,4,20,0,0,0,5,0,"Sleepy Wilson's Barbecue",Westside,101 S Rainbow Blvd,89145,5,4,Restaurants;Barbeque,0,0
+OdkdPXjzrSvx5XW2t4pS2A,0,0,6,26,0,0,0,4.33333,0,Robo Duck Truck,Downtown,29 N 30th St,89101,4.5,6,Sandwiches;Asian Fusion;Food;Food Trucks;Restaurants,0,0
+GAZv7cY3ePDzRxjrSjsY9A,0,0,4,20,0,0,0,5,0,Brown Bag Lunches,Westside,5555 W Charleston Blvd,89146,5,4,Food Delivery Services;Food,0,0
+cZaL06JPXZBdUstiPjf74Q,0,0,9,37,0,0,0,4.11111,0,Red Rock Chocolate Factory,South Summerlin,2025 Festival Plaza Dr,89135,4,9,Food;Chocolatiers & Shops;Specialty Food;Desserts,0,0
+zCuFlGmDGFyj3ytMfmnXEw,3,7,13,26,4,0.230769,0.307692,2,0.538462,"Long John Silver's",Northwest,3270 N Durango Dr,89129,2,13,Restaurants;Seafood;Fast Food,1,2
+TUfb2lH2nwKqu_IyM8wA-A,2,2,9,30,3,0.222222,0.333333,3.33333,0.222222,"Long John Silver's",University,1229 E Flamingo Rd,89119,3.5,9,Restaurants;Fast Food,1,1
+-zbJp3NGEhvmNOiFziN8Lg,0,0,3,14,0,0,0,4.66667,0,Lopez Restaurant,Downtown,1720 E Charleston Blvd,89104,4.5,3,Restaurants;Mexican;Food,1,3
+VEcI0bURmJtf0B9UPSEMDA,3,2,12,47,3,0.25,0.25,3.91667,0.166667,Millano Pizzeria,,4850 W Flamingo Rd,89103,4,12,Pizza;Restaurants,1,2
+A8CbZwWOPsd_9wrJlv94Lw,0,2,18,70,0,0,0,3.88889,0.111111,Dal Italia,Eastside,4722 E Flamingo Rd,89121,4,18,Pizza;Italian;Chicken Wings;Restaurants,1,8
+-sEbDB_5jI_yIlklu1o1VQ,0,0,12,44,0,0,0,3.66667,0,Haifa Restaurant,Eastside,900 E Karen Ave,89109,3.5,12,Halal;Mediterranean;Moroccan;Kosher;Restaurants,1,3
+WhYep5bRqXpaejOTH6ukbw,0,0,10,49,0,0,0,4.9,0,Subwich Alley,Spring Valley,9010 W Flamingo Rd,89147,5,10,Chicken Wings;Burgers;Sandwiches;Restaurants,0,0
+nV2EI2KtETq3eLUZsK3NSQ,0,1,5,18,0,0,0,3.6,0.2,"Fuzziwig's Candy Factory",Downtown,775 S Grand Central Pkwy,89106,3.5,5,Candy Stores;Food;Specialty Food,1,1
+tmHsUSpJX1UxroS-dGHlMg,0,0,3,11,0,0,0,3.66667,0,Lake Mead Tavern,Sunrise,5841 E Lake Mead Blvd,89156,3.5,3,Bars;Nightlife,0,0
+p9WVPQVhVzbBh_KEWJ21Ug,0,1,4,12,0,0,0,3,0.25,Chicago Dogs,Eastside,2055 E Tropicana Ave,89119,3,4,Restaurants;Hot Dogs,1,2
+cHAhW7XJ2no_qzc46HpohQ,0,1,5,18,0,0,0,3.6,0.2,Five Star Tavern,,1905 N Decatur Blvd,89108,3.5,5,Casinos;American (Traditional);Italian;Arts & Entertainment;Bars;Restaurants;Nightlife,1,2
+B-4jb44K_qPdQUB_69gZGQ,0,0,5,23,0,0,0,4.6,0,"Jack's Place",Sunrise,5067 E Bonanza Rd,89110,4.5,5,Dive Bars;Bars;Nightlife,0,0
+ucv_SCACwuW4wEOudO_xyg,0,0,6,26,0,0,0,4.33333,0,"Cugino's Pizzeria",,6650 Vegas Dr,89108,4.5,6,Restaurants;Pizza,1,1
+bcpCJ7q9_HXO53eaeuIZrw,0,0,3,13,0,0,0,4.33333,0,Juices Wild,,7500 W Lake Mead Blvd,89128,4.5,3,Food;Juice Bars & Smoothies,1,2
+tP4bAKEDz8aigXVisQYzog,0,1,4,13,0,0,0,3.25,0.25,Red Brick Pizza,Westside,6584 N Decatur Blvd,89131,3,4,Pizza;Restaurants,0,0
+BUoV8s0j22KD_PzLm8BlkA,0,0,3,13,0,0,0,4.33333,0,Salcianu Bistro,Eastside,2110 E Flamingo Rd,89119,4.5,3,American (Traditional);Restaurants,1,2
+XP6oR4hl1UdxqSalcGV0EA,0,0,6,26,0,0,0,4.33333,0,"Founder's Club",Eastside,3430 E Tropicana Ave,89121,4.5,6,Dive Bars;Pubs;Arts & Entertainment;Bars;Casinos;Karaoke;Nightlife,0,0
+HW7zxZhaq01rqphUvae7cA,0,0,10,43,0,0,0,4.3,0,Crowbar,,6851 W Flamingo Rd,89103,4.5,10,Nightlife;Bars;Sports Bars,1,1
+dNqGe41LcgctWZbV5uerog,0,0,6,30,0,0,0,5,0,J Sake Bar,,4459 W Flamingo Rd,89103,5,6,Nightlife;Restaurants;Bars;Japanese,0,0
+crGdKSRKi25R2vorZ7skzg,0,0,3,14,0,0,0,4.66667,0,Tortilleria San Diego,Downtown,235 N Eastern Ave,89101,4.5,3,Restaurants;Mexican,1,5
+iceT7n8OG14nLIGQt3lK8A,0,0,9,39,0,0,0,4.33333,0,Chefs Fitness Kitchen,Spring Valley,5875 S Rainbow Blvd,89118,4.5,9,Salad;Juice Bars & Smoothies;Restaurants;Food;Sandwiches,1,2
+pJ6pOYmvEvXdWx-HZ0Gemg,4,2,3,7,4,1.33333,1.33333,2.33333,0.666667,Destinations Oakey,Westside,3900 W Oakey Blvd,89102,2.5,3,Retirement Homes;Health & Medical;Assisted Living Facilities,1,2
+upBVCVmIEi7H-JD8OU_gxw,0,0,3,14,0,0,0,4.66667,0,At Your Service Catering,,633 N Decatur Blvd,89107,4.5,3,Event Planning & Services;Caterers,1,1
