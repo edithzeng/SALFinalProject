@@ -1,0 +1,11 @@
+name,address,yelp_star,mean_star,review_count,inspection_fail_indicator,one_star_count,prop_one_star,keyword_total,bug,gag,rat,bacteria,contaminate,diarrhea,dirty,disgusting,e coli,E-coli,expired,filthy,food poison,gross,indigestion,infest,listeria,mice,mouse,nausea,nauseous,retch,salmonella,sick,stench,tainted,the runs,threw up,throw up,throwing up,upset stomach,vomit
+The Rolling Rooster,13717 Burnet Rd Bunit 300 Austin TX 78727,4.5,4.5,139,1,4,0.028776978417266,4,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Longhorn Pizza and Grill,"2820 Guadalupe St, Austin, TX 78705",2,2,36,1,23,0.638888888888889,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tam Deli Cafe,"8222 N Lamar BLVD Bunit 33 Austin, TX 78753",4,4,414,1,21,0.05072463768116,59,1,0,0,0,0,0,2,1,0,0,0,0,0,9,0,0,0,44,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Sushi Junai 2,"2500 W Parmer Ln Unit 100 Austin, TX 78727",4,4,247,1,30,0.121457489878543,9,0,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0
+Spice Fine Indian Cuisine,"500 Canyon Ridge Dr Bunit 275, Austin, TX 78753",4,4,50,1,5,0.1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Which Which,"13450 N US 183 HWY SB Unit 239A Austin, TX 78750",3.5,3.5,45,0,7,0.155555555555556,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gracy Food Mart,"12001 Burnet Rd, Unit 1, Austin, TX 78758",3,3,6,0,1,0.166666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WL – Popeye’s Chicken,"3652 Bee Caves Rd, West Lake Hills, TX 78746",2,2,55,0,34,0.618181818181818,5,0,0,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+County Line on the Hill,"6500 FM 2244 Rd, Austin, TX 78746",3.5,3.5,372,0,40,0.10752688172043,16,0,0,0,0,0,0,2,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,7,0,0,0,0,1,0,0,1
+Beverage Barn,"2001 E Riverside Dr, Austin, TX 78741",2.5,2.5,4,0,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
